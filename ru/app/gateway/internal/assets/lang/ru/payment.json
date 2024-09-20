@@ -1,0 +1,32 @@
+{
+    "refund_apply": {
+        "label": {
+            "awaiting": {
+                "translation": "Ожидание проверки разработчиком"
+            },
+            "cancel": {
+                "translation": "Отменено"
+            },
+            "declined": {
+                "translation": "Отклонено"
+            },
+            "failed": {
+                "translation": "Ошибка возврата"
+            },
+            "refunded": {
+                "translation": "Возврат выполнен"
+            },
+            "submitted": {
+                "translation": "Отправлено"
+            }
+        },
+        "text": {
+            "failed": {
+                "translation": "При обработке вашего возврата возникла проблема, пожалуйста, свяжитесь с feedback@taptap.com для получения дальнейшей помощи."
+            },
+            "refunded": {
+                "translation": "Возврат будет осуществлен в течение 1-30 рабочих дней на исходный способ оплаты."
+            }
+        }
+    }
+}

@@ -1,0 +1,1334 @@
+{
+    "alert.title.register_too_young": {
+        "translation": ""
+    },
+    "auth.authorize.allow": {
+        "translation": ""
+    },
+    "auth.authorize.cancel": {
+        "translation": ""
+    },
+    "auth.authorize.client_in_development": {
+        "translation": ""
+    },
+    "auth.authorize.continue_as": {
+        "translation": ""
+    },
+    "auth.authorize.i_know": {
+        "translation": ""
+    },
+    "auth.authorize.login_first": {
+        "translation": ""
+    },
+    "auth.authorize.login_with_taptap": {
+        "translation": ""
+    },
+    "auth.authorize.logout": {
+        "translation": ""
+    },
+    "auth.authorize.need_use_info": {
+        "translation": ""
+    },
+    "auth.authorize.qrcode_not_working_rescan": {
+        "translation": ""
+    },
+    "auth.authorize.rescan": {
+        "translation": ""
+    },
+    "auth.authorize.scan_login": {
+        "translation": ""
+    },
+    "auth.authorize.sign_in": {
+        "translation": ""
+    },
+    "auth.authorize.taptap_login": {
+        "translation": ""
+    },
+    "auth.authorize.you_will_login_with_taptap_account": {
+        "translation": ""
+    },
+    "auth.message.bind": {
+        "translation": ""
+    },
+    "auth.message.change_bind": {
+        "translation": ""
+    },
+    "auth.message.login": {
+        "translation": ""
+    },
+    "auth.message.register": {
+        "translation": ""
+    },
+    "auth.message.unbind": {
+        "translation": ""
+    },
+    "auth.method.email": {
+        "translation": ""
+    },
+    "auth.method.phone": {
+        "translation": ""
+    },
+    "auth.register.edm.copyright": {
+        "translation": ""
+    },
+    "auth.register.edm.download.btn": {
+        "translation": ""
+    },
+    "auth.register.edm.foot.background": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section1.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section1.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section2.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section2.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section3.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.section3.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.developers.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section1.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section1.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section2.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section2.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section3.description": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.section3.title": {
+        "translation": ""
+    },
+    "auth.register.edm.for.gamers.title": {
+        "translation": ""
+    },
+    "auth.register.edm.head.background": {
+        "translation": ""
+    },
+    "auth.register.edm.head.title": {
+        "translation": ""
+    },
+    "auth.register.edm.subject": {
+        "translation": ""
+    },
+    "auth.scope_intro.public_profile": {
+        "translation": ""
+    },
+    "auth.scope_intro.user_friends": {
+        "translation": ""
+    },
+    "auth.scope_intro.user_friends_all": {
+        "translation": ""
+    },
+    "auth.scope_intro.user_idcard": {
+        "translation": ""
+    },
+    "badge.can_not_wear_badge": {
+        "translation": ""
+    },
+    "badge.event_over": {
+        "translation": ""
+    },
+    "blacklist.blacklist_count_limit": {
+        "translation": ""
+    },
+    "blacklist.not_allow_block_self": {
+        "translation": ""
+    },
+    "country.name.AC": {
+        "translation": ""
+    },
+    "country.name.AD": {
+        "translation": ""
+    },
+    "country.name.AE": {
+        "translation": ""
+    },
+    "country.name.AF": {
+        "translation": ""
+    },
+    "country.name.AG": {
+        "translation": ""
+    },
+    "country.name.AI": {
+        "translation": ""
+    },
+    "country.name.AL": {
+        "translation": ""
+    },
+    "country.name.AM": {
+        "translation": ""
+    },
+    "country.name.AO": {
+        "translation": ""
+    },
+    "country.name.AR": {
+        "translation": ""
+    },
+    "country.name.AS": {
+        "translation": ""
+    },
+    "country.name.AT": {
+        "translation": ""
+    },
+    "country.name.AU": {
+        "translation": ""
+    },
+    "country.name.AW": {
+        "translation": ""
+    },
+    "country.name.AX": {
+        "translation": ""
+    },
+    "country.name.AZ": {
+        "translation": ""
+    },
+    "country.name.BA": {
+        "translation": ""
+    },
+    "country.name.BB": {
+        "translation": ""
+    },
+    "country.name.BD": {
+        "translation": ""
+    },
+    "country.name.BE": {
+        "translation": ""
+    },
+    "country.name.BF": {
+        "translation": ""
+    },
+    "country.name.BG": {
+        "translation": ""
+    },
+    "country.name.BH": {
+        "translation": ""
+    },
+    "country.name.BI": {
+        "translation": ""
+    },
+    "country.name.BJ": {
+        "translation": ""
+    },
+    "country.name.BL": {
+        "translation": ""
+    },
+    "country.name.BM": {
+        "translation": ""
+    },
+    "country.name.BN": {
+        "translation": ""
+    },
+    "country.name.BO": {
+        "translation": ""
+    },
+    "country.name.BQ": {
+        "translation": ""
+    },
+    "country.name.BR": {
+        "translation": ""
+    },
+    "country.name.BS": {
+        "translation": ""
+    },
+    "country.name.BT": {
+        "translation": ""
+    },
+    "country.name.BW": {
+        "translation": ""
+    },
+    "country.name.BY": {
+        "translation": ""
+    },
+    "country.name.BZ": {
+        "translation": ""
+    },
+    "country.name.CA": {
+        "translation": ""
+    },
+    "country.name.CC": {
+        "translation": ""
+    },
+    "country.name.CD": {
+        "translation": ""
+    },
+    "country.name.CF": {
+        "translation": ""
+    },
+    "country.name.CG": {
+        "translation": ""
+    },
+    "country.name.CH": {
+        "translation": ""
+    },
+    "country.name.CI": {
+        "translation": ""
+    },
+    "country.name.CK": {
+        "translation": ""
+    },
+    "country.name.CL": {
+        "translation": ""
+    },
+    "country.name.CM": {
+        "translation": ""
+    },
+    "country.name.CN": {
+        "translation": ""
+    },
+    "country.name.CO": {
+        "translation": ""
+    },
+    "country.name.CR": {
+        "translation": ""
+    },
+    "country.name.CU": {
+        "translation": ""
+    },
+    "country.name.CV": {
+        "translation": ""
+    },
+    "country.name.CW": {
+        "translation": ""
+    },
+    "country.name.CX": {
+        "translation": ""
+    },
+    "country.name.CY": {
+        "translation": ""
+    },
+    "country.name.CZ": {
+        "translation": ""
+    },
+    "country.name.DE": {
+        "translation": ""
+    },
+    "country.name.DG": {
+        "translation": ""
+    },
+    "country.name.DJ": {
+        "translation": ""
+    },
+    "country.name.DK": {
+        "translation": ""
+    },
+    "country.name.DM": {
+        "translation": ""
+    },
+    "country.name.DO": {
+        "translation": ""
+    },
+    "country.name.DZ": {
+        "translation": ""
+    },
+    "country.name.EA": {
+        "translation": ""
+    },
+    "country.name.EC": {
+        "translation": ""
+    },
+    "country.name.EE": {
+        "translation": ""
+    },
+    "country.name.EG": {
+        "translation": ""
+    },
+    "country.name.EH": {
+        "translation": ""
+    },
+    "country.name.ER": {
+        "translation": ""
+    },
+    "country.name.ES": {
+        "translation": ""
+    },
+    "country.name.ET": {
+        "translation": ""
+    },
+    "country.name.FI": {
+        "translation": ""
+    },
+    "country.name.FJ": {
+        "translation": ""
+    },
+    "country.name.FK": {
+        "translation": ""
+    },
+    "country.name.FM": {
+        "translation": ""
+    },
+    "country.name.FO": {
+        "translation": ""
+    },
+    "country.name.FR": {
+        "translation": ""
+    },
+    "country.name.GA": {
+        "translation": ""
+    },
+    "country.name.GB": {
+        "translation": ""
+    },
+    "country.name.GD": {
+        "translation": ""
+    },
+    "country.name.GE": {
+        "translation": ""
+    },
+    "country.name.GF": {
+        "translation": ""
+    },
+    "country.name.GG": {
+        "translation": ""
+    },
+    "country.name.GH": {
+        "translation": ""
+    },
+    "country.name.GI": {
+        "translation": ""
+    },
+    "country.name.GL": {
+        "translation": ""
+    },
+    "country.name.GM": {
+        "translation": ""
+    },
+    "country.name.GN": {
+        "translation": ""
+    },
+    "country.name.GP": {
+        "translation": ""
+    },
+    "country.name.GQ": {
+        "translation": ""
+    },
+    "country.name.GR": {
+        "translation": ""
+    },
+    "country.name.GT": {
+        "translation": ""
+    },
+    "country.name.GU": {
+        "translation": ""
+    },
+    "country.name.GW": {
+        "translation": ""
+    },
+    "country.name.GY": {
+        "translation": ""
+    },
+    "country.name.HK": {
+        "translation": ""
+    },
+    "country.name.HN": {
+        "translation": ""
+    },
+    "country.name.HR": {
+        "translation": ""
+    },
+    "country.name.HT": {
+        "translation": ""
+    },
+    "country.name.HU": {
+        "translation": ""
+    },
+    "country.name.IC": {
+        "translation": ""
+    },
+    "country.name.ID": {
+        "translation": ""
+    },
+    "country.name.IE": {
+        "translation": ""
+    },
+    "country.name.IL": {
+        "translation": ""
+    },
+    "country.name.IM": {
+        "translation": ""
+    },
+    "country.name.IN": {
+        "translation": ""
+    },
+    "country.name.IO": {
+        "translation": ""
+    },
+    "country.name.IQ": {
+        "translation": ""
+    },
+    "country.name.IR": {
+        "translation": ""
+    },
+    "country.name.IS": {
+        "translation": ""
+    },
+    "country.name.IT": {
+        "translation": ""
+    },
+    "country.name.JE": {
+        "translation": ""
+    },
+    "country.name.JM": {
+        "translation": ""
+    },
+    "country.name.JO": {
+        "translation": ""
+    },
+    "country.name.JP": {
+        "translation": ""
+    },
+    "country.name.KE": {
+        "translation": ""
+    },
+    "country.name.KG": {
+        "translation": ""
+    },
+    "country.name.KH": {
+        "translation": ""
+    },
+    "country.name.KI": {
+        "translation": ""
+    },
+    "country.name.KM": {
+        "translation": ""
+    },
+    "country.name.KN": {
+        "translation": ""
+    },
+    "country.name.KP": {
+        "translation": ""
+    },
+    "country.name.KR": {
+        "translation": ""
+    },
+    "country.name.KW": {
+        "translation": ""
+    },
+    "country.name.KY": {
+        "translation": ""
+    },
+    "country.name.KZ": {
+        "translation": ""
+    },
+    "country.name.LA": {
+        "translation": ""
+    },
+    "country.name.LB": {
+        "translation": ""
+    },
+    "country.name.LC": {
+        "translation": ""
+    },
+    "country.name.LI": {
+        "translation": ""
+    },
+    "country.name.LK": {
+        "translation": ""
+    },
+    "country.name.LR": {
+        "translation": ""
+    },
+    "country.name.LS": {
+        "translation": ""
+    },
+    "country.name.LT": {
+        "translation": ""
+    },
+    "country.name.LU": {
+        "translation": ""
+    },
+    "country.name.LV": {
+        "translation": ""
+    },
+    "country.name.LY": {
+        "translation": ""
+    },
+    "country.name.MA": {
+        "translation": ""
+    },
+    "country.name.MC": {
+        "translation": ""
+    },
+    "country.name.MD": {
+        "translation": ""
+    },
+    "country.name.ME": {
+        "translation": ""
+    },
+    "country.name.MF": {
+        "translation": ""
+    },
+    "country.name.MG": {
+        "translation": ""
+    },
+    "country.name.MH": {
+        "translation": ""
+    },
+    "country.name.MK": {
+        "translation": ""
+    },
+    "country.name.ML": {
+        "translation": ""
+    },
+    "country.name.MM": {
+        "translation": ""
+    },
+    "country.name.MN": {
+        "translation": ""
+    },
+    "country.name.MO": {
+        "translation": ""
+    },
+    "country.name.MP": {
+        "translation": ""
+    },
+    "country.name.MQ": {
+        "translation": ""
+    },
+    "country.name.MR": {
+        "translation": ""
+    },
+    "country.name.MS": {
+        "translation": ""
+    },
+    "country.name.MT": {
+        "translation": ""
+    },
+    "country.name.MU": {
+        "translation": ""
+    },
+    "country.name.MV": {
+        "translation": ""
+    },
+    "country.name.MW": {
+        "translation": ""
+    },
+    "country.name.MX": {
+        "translation": ""
+    },
+    "country.name.MY": {
+        "translation": ""
+    },
+    "country.name.MZ": {
+        "translation": ""
+    },
+    "country.name.NA": {
+        "translation": ""
+    },
+    "country.name.NC": {
+        "translation": ""
+    },
+    "country.name.NE": {
+        "translation": ""
+    },
+    "country.name.NF": {
+        "translation": ""
+    },
+    "country.name.NG": {
+        "translation": ""
+    },
+    "country.name.NI": {
+        "translation": ""
+    },
+    "country.name.NL": {
+        "translation": ""
+    },
+    "country.name.NO": {
+        "translation": ""
+    },
+    "country.name.NP": {
+        "translation": ""
+    },
+    "country.name.NR": {
+        "translation": ""
+    },
+    "country.name.NU": {
+        "translation": ""
+    },
+    "country.name.NZ": {
+        "translation": ""
+    },
+    "country.name.OM": {
+        "translation": ""
+    },
+    "country.name.PA": {
+        "translation": ""
+    },
+    "country.name.PE": {
+        "translation": ""
+    },
+    "country.name.PF": {
+        "translation": ""
+    },
+    "country.name.PG": {
+        "translation": ""
+    },
+    "country.name.PH": {
+        "translation": ""
+    },
+    "country.name.PK": {
+        "translation": ""
+    },
+    "country.name.PL": {
+        "translation": ""
+    },
+    "country.name.PM": {
+        "translation": ""
+    },
+    "country.name.PN": {
+        "translation": ""
+    },
+    "country.name.PR": {
+        "translation": ""
+    },
+    "country.name.PS": {
+        "translation": ""
+    },
+    "country.name.PT": {
+        "translation": ""
+    },
+    "country.name.PW": {
+        "translation": ""
+    },
+    "country.name.PY": {
+        "translation": ""
+    },
+    "country.name.QA": {
+        "translation": ""
+    },
+    "country.name.RE": {
+        "translation": ""
+    },
+    "country.name.RO": {
+        "translation": ""
+    },
+    "country.name.RS": {
+        "translation": ""
+    },
+    "country.name.RU": {
+        "translation": ""
+    },
+    "country.name.RW": {
+        "translation": ""
+    },
+    "country.name.SA": {
+        "translation": ""
+    },
+    "country.name.SB": {
+        "translation": ""
+    },
+    "country.name.SC": {
+        "translation": ""
+    },
+    "country.name.SD": {
+        "translation": ""
+    },
+    "country.name.SE": {
+        "translation": ""
+    },
+    "country.name.SG": {
+        "translation": ""
+    },
+    "country.name.SH": {
+        "translation": ""
+    },
+    "country.name.SI": {
+        "translation": ""
+    },
+    "country.name.SJ": {
+        "translation": ""
+    },
+    "country.name.SK": {
+        "translation": ""
+    },
+    "country.name.SL": {
+        "translation": ""
+    },
+    "country.name.SM": {
+        "translation": ""
+    },
+    "country.name.SN": {
+        "translation": ""
+    },
+    "country.name.SO": {
+        "translation": ""
+    },
+    "country.name.SR": {
+        "translation": ""
+    },
+    "country.name.SS": {
+        "translation": ""
+    },
+    "country.name.ST": {
+        "translation": ""
+    },
+    "country.name.SV": {
+        "translation": ""
+    },
+    "country.name.SX": {
+        "translation": ""
+    },
+    "country.name.SY": {
+        "translation": ""
+    },
+    "country.name.SZ": {
+        "translation": ""
+    },
+    "country.name.TC": {
+        "translation": ""
+    },
+    "country.name.TD": {
+        "translation": ""
+    },
+    "country.name.TF": {
+        "translation": ""
+    },
+    "country.name.TG": {
+        "translation": ""
+    },
+    "country.name.TH": {
+        "translation": ""
+    },
+    "country.name.TJ": {
+        "translation": ""
+    },
+    "country.name.TK": {
+        "translation": ""
+    },
+    "country.name.TL": {
+        "translation": ""
+    },
+    "country.name.TM": {
+        "translation": ""
+    },
+    "country.name.TN": {
+        "translation": ""
+    },
+    "country.name.TO": {
+        "translation": ""
+    },
+    "country.name.TR": {
+        "translation": ""
+    },
+    "country.name.TT": {
+        "translation": ""
+    },
+    "country.name.TV": {
+        "translation": ""
+    },
+    "country.name.TW": {
+        "translation": ""
+    },
+    "country.name.TZ": {
+        "translation": ""
+    },
+    "country.name.UA": {
+        "translation": ""
+    },
+    "country.name.UG": {
+        "translation": ""
+    },
+    "country.name.US": {
+        "translation": ""
+    },
+    "country.name.UY": {
+        "translation": ""
+    },
+    "country.name.UZ": {
+        "translation": ""
+    },
+    "country.name.VA": {
+        "translation": ""
+    },
+    "country.name.VC": {
+        "translation": ""
+    },
+    "country.name.VE": {
+        "translation": ""
+    },
+    "country.name.VG": {
+        "translation": ""
+    },
+    "country.name.VI": {
+        "translation": ""
+    },
+    "country.name.VN": {
+        "translation": ""
+    },
+    "country.name.VU": {
+        "translation": ""
+    },
+    "country.name.WF": {
+        "translation": ""
+    },
+    "country.name.WS": {
+        "translation": ""
+    },
+    "country.name.XK": {
+        "translation": ""
+    },
+    "country.name.YE": {
+        "translation": ""
+    },
+    "country.name.YT": {
+        "translation": ""
+    },
+    "country.name.ZA": {
+        "translation": ""
+    },
+    "country.name.ZM": {
+        "translation": ""
+    },
+    "country.name.ZW": {
+        "translation": ""
+    },
+    "email.do_not_reply": {
+        "translation": ""
+    },
+    "email.subject": {
+        "translation": ""
+    },
+    "email.taptap_team": {
+        "translation": ""
+    },
+    "email.thanks": {
+        "translation": ""
+    },
+    "error.account_is_deleted": {
+        "translation": ""
+    },
+    "error.account_not_found_or_deleted": {
+        "translation": ""
+    },
+    "error.can_not_unbind_phone": {
+        "translation": ""
+    },
+    "error.can_not_unbind_social": {
+        "translation": ""
+    },
+    "error.can_not_unbind_social_for_intl": {
+        "translation": ""
+    },
+    "error.captcha.invalid_code": {
+        "translation": "Неверный код подтверждения"
+    },
+    "error.captcha.retry_after_seconds": {
+        "translation": "Слишком частые операции, пожалуйста, повторите через :seconds секунд"
+    },
+    "error.captcha.too_many_attempts": {
+        "translation": "Слишком частые операции, пожалуйста, попробуйте позже"
+    },
+    "error.client_test_users_limit": {
+        "translation": ""
+    },
+    "error.cn_block_intl": {
+        "translation": ""
+    },
+    "error.do_not_register": {
+        "translation": ""
+    },
+    "error.email_is_banned": {
+        "translation": ""
+    },
+    "error.email_is_exists": {
+        "translation": ""
+    },
+    "error.email_unregistered": {
+        "translation": ""
+    },
+    "error.function_upgrade": {
+        "translation": ""
+    },
+    "error.has_bind_another_account_please_login_use_it": {
+        "translation": ""
+    },
+    "error.internal": {
+        "translation": ""
+    },
+    "error.intl_block_cn": {
+        "translation": ""
+    },
+    "error.invalid_bundle_id": {
+        "translation": ""
+    },
+    "error.invalid_domain": {
+        "translation": ""
+    },
+    "error.invalid_email": {
+        "translation": ""
+    },
+    "error.invalid_email_suggestion": {
+        "translation": ""
+    },
+    "error.invalid_package_name": {
+        "translation": ""
+    },
+    "error.invalid_package_sign": {
+        "translation": ""
+    },
+    "error.invalid_password": {
+        "translation": ""
+    },
+    "error.invalid_phone_number": {
+        "translation": "Неверный номер телефона, пожалуйста, введите номер телефона правильно"
+    },
+    "error.invalid_time": {
+        "translation": ""
+    },
+    "error.keep_one_login_method": {
+        "translation": ""
+    },
+    "error.line_login_or_bind_disabled": {
+        "translation": ""
+    },
+    "error.login_method_exists_and_user_deactivated": {
+        "translation": ""
+    },
+    "error.login_session_has_expired": {
+        "translation": ""
+    },
+    "error.overseas_user_unable_to_login": {
+        "translation": ""
+    },
+    "error.page_has_expired": {
+        "translation": ""
+    },
+    "error.password_unregistered": {
+        "translation": ""
+    },
+    "error.permission_denied": {
+        "translation": ""
+    },
+    "error.phone_is_banned": {
+        "translation": ""
+    },
+    "error.phone_is_bound": {
+        "translation": ""
+    },
+    "error.phone_unregistered": {
+        "translation": ""
+    },
+    "error.phone_verify_unregistered": {
+        "translation": ""
+    },
+    "error.platforms_package_limit": {
+        "translation": ""
+    },
+    "error.register_forbidden": {
+        "translation": ""
+    },
+    "error.repeat_bundle_id": {
+        "translation": ""
+    },
+    "error.repeat_package_name": {
+        "translation": ""
+    },
+    "error.session_has_expired": {
+        "translation": ""
+    },
+    "error.social_is_banned": {
+        "translation": ""
+    },
+    "error.social_is_exists": {
+        "translation": ""
+    },
+    "error.social_unregistered": {
+        "translation": ""
+    },
+    "error.system_upgrade_profile_update_forbidden": {
+        "translation": ""
+    },
+    "error.system_upgrade_register_forbidden": {
+        "translation": ""
+    },
+    "error.the_email_registered": {
+        "translation": ""
+    },
+    "error.the_password_registered": {
+        "translation": ""
+    },
+    "error.the_phone_registered": {
+        "translation": ""
+    },
+    "error.the_social_registered": {
+        "translation": ""
+    },
+    "error.unknown": {
+        "translation": ""
+    },
+    "error.user_bound_phone_number": {
+        "translation": ""
+    },
+    "error.user_disabled_until_time": {
+        "translation": ""
+    },
+    "error.user_have_not_bound_phone_number": {
+        "translation": ""
+    },
+    "error.user_is_banned": {
+        "translation": ""
+    },
+    "error.you_have_linked_your_email": {
+        "translation": ""
+    },
+    "error.you_have_linked_your_phone": {
+        "translation": ""
+    },
+    "friend.blacklisting": {
+        "translation": ""
+    },
+    "friend.cannot_follow_user_from_different_store": {
+        "translation": ""
+    },
+    "friend.deleted_alert_follow": {
+        "translation": ""
+    },
+    "friend.following_failed": {
+        "translation": ""
+    },
+    "friend.not_allow_follow_self": {
+        "translation": ""
+    },
+    "idcard.certification_bind_too_times_not_allow": {
+        "translation": ""
+    },
+    "idcard.idcard_authentication_frequently_limit": {
+        "translation": ""
+    },
+    "idcard.not_match_issuing_region": {
+        "translation": ""
+    },
+    "idcard.oversea_user_need_birthday": {
+        "translation": ""
+    },
+    "idcard.please_check_id_number_entered": {
+        "translation": ""
+    },
+    "idcard.please_check_name_entered": {
+        "translation": ""
+    },
+    "open.limit_client_testuser": {
+        "translation": ""
+    },
+    "profile.has_update_nickname_retry_after": {
+        "translation": ""
+    },
+    "profile.intro_out_range": {
+        "translation": ""
+    },
+    "profile.invalid_arg_birthday": {
+        "translation": ""
+    },
+    "profile.invalid_arg_country": {
+        "translation": ""
+    },
+    "profile.invalid_arg_mobile": {
+        "translation": ""
+    },
+    "profile.limit_field_avatar": {
+        "translation": ""
+    },
+    "profile.limit_field_intro": {
+        "translation": ""
+    },
+    "profile.limit_field_nickname": {
+        "translation": ""
+    },
+    "profile.nickname_is_required": {
+        "translation": ""
+    },
+    "profile.nickname_out_range": {
+        "translation": ""
+    },
+    "profile.violate_forum_rule_retry_later": {
+        "translation": ""
+    },
+    "reason.BLOCKLIST_ALREADY_EXISTS": {
+        "translation": ""
+    },
+    "reason.FRIEND_ALREADY_FOLLOWED": {
+        "translation": ""
+    },
+    "reason.IDCARD_ALREADY_EXISTS": {
+        "translation": ""
+    },
+    "social.platform": {
+        "translation": ""
+    },
+    "social.platform.apple": {
+        "translation": ""
+    },
+    "social.platform.facebook": {
+        "translation": ""
+    },
+    "social.platform.google": {
+        "translation": ""
+    },
+    "social.platform.line": {
+        "translation": ""
+    },
+    "social.platform.naver": {
+        "translation": ""
+    },
+    "social.platform.qq": {
+        "translation": ""
+    },
+    "social.platform.wechat": {
+        "translation": ""
+    },
+    "alert.button.got_it": {
+        "translation": ""
+    },
+    "auth.message.deactivate": {
+        "translation": ""
+    },
+    "auth.message.update_password": {
+        "translation": ""
+    },
+    "auth.method.social": {
+        "translation": ""
+    },
+    "auth.slo.client_not_found": {
+        "translation": ""
+    },
+    "auth.slo.logout": {
+        "translation": ""
+    },
+    "auth.slo.no_client_id": {
+        "translation": ""
+    },
+    "auth.slo.redirect_url_host_invalid": {
+        "translation": ""
+    },
+    "auth.slo.redirect_url_invalid": {
+        "translation": ""
+    },
+    "auth.slo.referer_invalid": {
+        "translation": ""
+    },
+    "auth.slo.title": {
+        "translation": ""
+    },
+    "edm.bottom.text": {
+        "translation": ""
+    },
+    "edm.confirm_email.button1.text": {
+        "translation": ""
+    },
+    "edm.confirm_email.button2.text": {
+        "translation": ""
+    },
+    "edm.confirm_email.content_text1": {
+        "translation": ""
+    },
+    "edm.confirm_email.content_text2": {
+        "translation": ""
+    },
+    "edm.confirm_email.content_text3": {
+        "translation": ""
+    },
+    "edm.confirm_email.content_title": {
+        "translation": ""
+    },
+    "edm.confirm_email.text1": {
+        "translation": ""
+    },
+    "edm.download_button.text": {
+        "translation": ""
+    },
+    "edm.taptap.text": {
+        "translation": ""
+    },
+    "edm.unsubscribe": {
+        "translation": ""
+    },
+    "edm.welcome.title": {
+        "translation": ""
+    },
+    "email.subject_activate": {
+        "translation": ""
+    },
+    "error.email_has_been_register_user_id_is": {
+        "translation": ""
+    },
+    "error.has_bind_cn_block_intl": {
+        "translation": ""
+    },
+    "error.has_bind_intl_block_cn": {
+        "translation": ""
+    },
+    "error.phone_is_exists": {
+        "translation": ""
+    },
+    "error.register_forbidden_for_age": {
+        "translation": ""
+    },
+    "friend.following_failed_in_blacklisting": {
+        "translation": ""
+    },
+    "friend.following_failed_insufficient_scope_friend": {
+        "translation": ""
+    },
+    "error.invalid_request": {
+        "translation": ""
+    },
+    "error.phone_can_not_be_merged": {
+        "translation": ""
+    },
+    "error.product_banned": {
+        "translation": ""
+    },
+    "error.product_disabled": {
+        "translation": ""
+    },
+    "error.product_is_not_banned": {
+        "translation": ""
+    },
+    "error.product_was_not_enabled": {
+        "translation": ""
+    },
+    "error.union_arrears": {
+        "translation": ""
+    },
+    "error.user_is_disabled": {
+        "translation": ""
+    },
+    "error.user_is_not_deactivated": {
+        "translation": ""
+    },
+    "error.you_have_not_link_your_email": {
+        "translation": ""
+    },
+    "error.you_have_not_link_your_phone": {
+        "translation": ""
+    },
+    "friend.following_failed_max_size_limit": {
+        "translation": ""
+    },
+    "reason.CAPTCHA_FAILED": {
+        "translation": ""
+    },
+    "reason.NEEDS_CAPTCHA": {
+        "translation": ""
+    },
+    "error.unbound_socials": {
+        "translation": ""
+    }
+}

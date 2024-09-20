@@ -1,0 +1,14 @@
+{
+    "been_deleted_by_author": {
+        "translation": "Извините, оригинальный контент был удален автором"
+    },
+    "content_temporarily_invisible": {
+        "translation": "Контент временно недоступен"
+    },
+    "content_invisible": {
+        "translation": "Этот контент недоступен"
+    },
+    "content_invalid": {
+        "translation": "Этот контент недействителен"
+    }
+}

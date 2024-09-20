@@ -1,0 +1,74 @@
+{
+    "notification.title.up": {
+        "translation": ":member оценил ваш :obj"
+    },
+    "notification.title.reply": {
+        "translation": ":member ответил на ваш :obj"
+    },
+    "error.internal": {
+        "translation": ""
+    },
+    "error.unknown": {
+        "translation": ""
+    },
+    "developer.errors.topic_not_exists": {
+        "translation": "Этот пост не существует"
+    },
+    "developer.errors.video_not_exists": {
+        "translation": "Это видео не существует"
+    },
+    "developer.errors.moment_not_exists": {
+        "translation": "Этот момент не существует"
+    },
+    "developer.errors.invalid_url": {
+        "translation": "Ошибка URL, пожалуйста, проверьте!"
+    },
+    "developer.errors.inner_app_moment.topic_not_ready": {
+        "translation": "Этот пост еще не прошел модерацию или был скрыт"
+    },
+    "developer.errors.video_not_ready": {
+        "translation": "Это видео еще не прошло модерацию или было скрыто"
+    },
+    "developer.errors.inner_app_moment.over_online_rec_limit": {
+        "translation": "Максимум пять онлайн-операционных мест"
+    },
+    "interface.word.all": {
+        "translation": "Все"
+    },
+    "interface.word.official": {
+        "translation": "Официальный"
+    },
+    "interface.word.elite": {
+        "translation": "Элитный"
+    },
+    "interface.word.video": {
+        "translation": "Видео"
+    },
+    "developer.forum.tapitk.inner_app_type.detail": {
+        "translation": "Страница деталей"
+    },
+    "developer.forum.tapitk.inner_app_type.version": {
+        "translation": "Подраздел"
+    },
+    "developer.forum.tapitk.inner_app_type.group_tag": {
+        "translation": "Страница тегов"
+    },
+    "developer.forum.tapitk.inner_app_type.strategy": {
+        "translation": "Стратегический сайт"
+    },
+    "developer.forum.tapitk.inner_app_type.puzzle": {
+        "translation": "Индексная страница"
+    },
+    "developer.forum.tapitk.inner_app_type.game_set": {
+        "translation": "Страница коллекции"
+    },
+    "developer.errors.inner_app_moment.url_not_effective": {
+        "translation": "Пожалуйста, введите действительную ссылку"
+    },
+    "developer.errors.inner_app_moment.url_not_support": {
+        "translation": "Пожалуйста, подтвердите, что этот тип поста принадлежит данному игровому форуму"
+    },
+    "notification.title.collect": {
+        "translation": ":member добавил в закладки ваш :obj"
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "account_has_been_activated": {
+        "translation": "Текущий аккаунт уже активирован"
+    },
+    "account_is_deleted": {
+        "translation": "Аккаунт был удален"
+    },
+    "account_is_deactivated": {
+        "translation": "Аккаунт был деактивирован"
+    },
+    "account_not_found_or_deleted": {
+        "translation": "Аккаунт не существует или был заблокирован"
+    },
+    "can_not_unbind_phone": {
+        "translation": "Для отвязки номера телефона должен быть хотя бы один другой социальный аккаунт"
+    },
+    "can_not_unbind_phone_for_intl": {
+        "translation": "Для отвязки номера телефона должен быть хотя бы один другой социальный аккаунт или привязанный адрес электронной почты"
+    },
+    "can_not_unbind_social": {
+        "translation": "В целях безопасности аккаунта в настоящее время отменена регистрация через электронную почту. Для отвязки социального аккаунта должен быть хотя бы один другой социальный аккаунт или привязанный номер телефона. Если у вас есть вопросы, вы можете обратиться в службу поддержки TapTap QQ: 800180417"
+    },
+    "can_not_unbind_social_for_intl": {
+        "translation": "В целях безопасности аккаунта для отвязки социального аккаунта должен быть хотя бы один другой социальный аккаунт или привязанный номер телефона. Если у вас есть вопросы, вы можете обратиться в службу поддержки TapTap по электронной почте: feedback@taptap.com"
+    },
+    "can_not_unbind_email": {
+        "translation": "Для отвязки электронной почты должен быть хотя бы один другой социальный аккаунт или привязанный номер телефона"
+    },
+    "captcha": {
+        "invalid_code": {
+            "translation": "Неверный код подтверждения"
+        },
+        "retry_after_seconds": {
+            "translation": "Частота операций слишком высока, пожалуйста, повторите попытку через :seconds секунд"
+        },
+        "too_many_attempts": {
+            "translation": "Частота операций слишком высока, пожалуйста, попробуйте позже"
+        }
+    },
+    "client_test_users_limit": {
+        "translation": "Максимум можно добавить :num тестовых пользователей, чтобы добавить нового тестового пользователя, сначала удалите других пользователей"
+    },
+    "cn_block_intl": {
+        "translation": "Пожалуйста, перейдите на международную версию TapTap для входа в этот аккаунт"
+    },
+    "do_not_register": {
+        "translation": "Регистрация с использованием этого метода входа не разрешена"
+    },
+    "email_has_been_register_user_id_is": {
+        "translation": "Электронная почта уже зарегистрирована, ID пользователя: :id"
+    },
+    "email_is_exists": {
+        "translation": "Электронная почта уже существует, пожалуйста, введите заново"
+    },
+    "email_unregistered": {
+        "translation": "Адрес электронной почты не зарегистрирован"
+    },
+    "function_upgrade": {
+        "translation": "Функция на обслуживании, будет доступна с 2 апреля в 12:00"
+    },
+    "has_bind_another_account_please_login_use_it": {
+        "translation": "Этот :platform уже связан с другим аккаунтом TapTap, пожалуйста, войдите с этим аккаунтом."
+    },
+    "has_bind_cn_block_intl": {
+        "translation": "Ваш аккаунт уже связан с международной версией TapTap, пожалуйста, перейдите на международную версию TapTap для входа в этот аккаунт"
+    },
+    "has_bind_intl_block_cn": {
+        "translation": "Ваш аккаунт уже связан с внутренней версией TapTap, пожалуйста, перейдите на внутреннюю версию TapTap для входа в этот аккаунт"
+    },
+    "internal": {
+        "translation": "Внутренняя ошибка сервера"
+    },
+    "intl_block_cn": {
+        "translation": "Пожалуйста, перейдите на внутреннюю версию TapTap для входа в этот аккаунт"
+    },
+    "invalid_bundle_id": {
+        "translation": ":id не является действительным идентификатором пакета"
+    },
+    "invalid_domain": {
+        "translation": ":domain не является действительным доменным именем"
+    },
+    "invalid_email": {
+        "translation": "Пожалуйста, введите правильный адрес электронной почты"
+    },
+    "invalid_email_suggestion": {
+        "translation": "Адрес электронной почты недействителен, попробуйте :email?"
+    },
+    "invalid_package_name": {
+        "translation": ":name не является действительным именем пакета"
+    },
+    "invalid_package_sign": {
+        "translation": ":sign не является действительной подписью пакета"
+    },
+    "invalid_password": {
+        "translation": "Пожалуйста, введите правильный пароль"
+    },
+    "invalid_phone_number": {
+        "translation": "Номер телефона недействителен, пожалуйста, правильно заполните номер телефона"
+    },
+    "no_supported_phone_for_this_region": {
+        "translation": "Номера телефонов в этом регионе не поддерживаются"
+    },
+    "invalid_request": {
+        "translation": "Ошибка запроса"
+    },
+    "invalid_time": {
+        "translation": "Ошибка системного времени, пожалуйста, проверьте, установлено ли текущее время и дата"
+    },
+    "keep_one_login_method": {
+        "translation": "Необходимо оставить хотя бы один способ входа"
+    },
+    "line_login_or_bind_disabled": {
+        "translation": "Регистрация\/привязка аккаунта Line приостановлена, пожалуйста, используйте другой аккаунт."
+    },
+    "login_method_exists_and_user_deactivated": {
+        "translation": "Аккаунт, связанный с :method, все еще находится в процессе отмены, завершится :datetime"
+    },
+    "login_session_has_expired": {
+        "translation": "Сессия истекла, пожалуйста, войдите снова"
+    },
+    "overseas_user_unable_to_login": {
+        "translation": "Номер телефона связан с зарубежным аккаунтом, вход временно не поддерживается."
+    },
+    "page_has_expired": {
+        "translation": "Страница истекла, пожалуйста, обновите страницу и попробуйте снова"
+    },
+    "password_unregistered": {
+        "translation": "Адрес электронной почты не зарегистрирован"
+    },
+    "permission_denied": {
+        "translation": "У вас нет прав для выполнения этого действия"
+    },
+    "phone_can_not_be_merged": {
+        "translation": ":phone уже связан с аккаунтом, пожалуйста, замените его и попробуйте снова"
+    },
+    "phone_is_banned": {
+        "translation": "Номер телефона заблокирован"
+    },
+    "phone_is_bound": {
+        "translation": "Номер телефона уже связан"
+    },
+    "phone_is_exists": {
+        "translation": "Номер телефона уже существует, пожалуйста, введите его снова"
+    },
+    "phone_unregistered": {
+        "translation": "Номер телефона не зарегистрирован"
+    },
+    "phone_verify_unregistered": {
+        "translation": "Номер телефона не зарегистрирован"
+    },
+    "platforms_package_limit": {
+        "translation": ":platform платформа, максимум :number клиентов"
+    },
+    "product_banned": {
+        "translation": "Эта услуга была отключена администратором"
+    },
+    "product_disabled": {
+        "translation": "Эта услуга была отключена производителем"
+    },
+    "product_is_not_banned": {
+        "translation": "Эта услуга не была отключена"
+    },
+    "product_was_not_enabled": {
+        "translation": "Эта услуга никогда не была включена и не может быть разблокирована"
+    },
+    "register_forbidden": {
+        "translation": "Этот адрес электронной почты не зарегистрирован, для безопасности аккаунта, пожалуйста, зарегистрируйтесь с помощью номера телефона～"
+    },
+    "register_forbidden_for_age": {
+        "translation": "Ваш возраст должен быть больше :age, чтобы использовать TapTap"
+    },
+    "repeat_bundle_id": {
+        "translation": ":id bundle id повторяется"
+    },
+    "repeat_package_name": {
+        "translation": ":name имя пакета повторяется"
+    },
+    "session_has_expired": {
+        "translation": "Сессия истекла, пожалуйста, попробуйте снова"
+    },
+    "social_is_banned": {
+        "translation": "Социальный аккаунт заблокирован"
+    },
+    "social_is_exists": {
+        "translation": "Этот социальный аккаунт уже связан с другим аккаунтом TapTap, пожалуйста, войдите с этим аккаунтом."
+    },
+    "social_unregistered": {
+        "translation": "Социальный аккаунт не зарегистрирован"
+    },
+    "system_upgrade_profile_update_forbidden": {
+        "translation": "Функция в обслуживании, изменение временно не поддерживается"
+    },
+    "system_upgrade_register_forbidden": {
+        "translation": "Система регистрации пользователей обновляется, будет доступна с 12:00 2 апреля."
+    },
+    "the_email_registered": {
+        "translation": "Адрес электронной почты уже зарегистрирован"
+    },
+    "the_password_registered": {
+        "translation": "Адрес электронной почты уже зарегистрирован"
+    },
+    "the_phone_registered": {
+        "translation": "Номер телефона уже зарегистрирован"
+    },
+    "the_social_registered": {
+        "translation": "Социальный аккаунт уже зарегистрирован"
+    },
+    "union_arrears": {
+        "translation": "Задолженность производителя"
+    },
+    "unknown": {
+        "translation": "Неизвестная ошибка"
+    },
+    "user_bound_phone_number": {
+        "translation": "Номер телефона уже связан или заблокирован"
+    },
+    "user_disabled_until_time": {
+        "translation": "Аккаунт, связанный с :platform, все еще находится в процессе отмены, завершится :datetime"
+    },
+    "user_have_not_bound_phone_number": {
+        "translation": "Номер телефона не привязан!"
+    },
+    "user_is_banned": {
+        "translation": "Пользователь заблокирован"
+    },
+    "user_is_disabled": {
+        "translation": "Пользователь отменен"
+    },
+    "user_is_not_deactivated": {
+        "translation": "Текущий пользователь не находится в состоянии заморозки"
+    },
+    "you_have_linked_your_email": {
+        "translation": "Вы уже связали свой адрес электронной почты"
+    },
+    "you_have_linked_your_phone": {
+        "translation": "Вы уже связали свой номер телефона"
+    },
+    "you_have_not_link_your_email": {
+        "translation": "Вы еще не связали свой адрес электронной почты"
+    },
+    "email_activated": {
+        "translation": "Электронная почта подтверждена"
+    },
+    "email_unactivated": {
+        "translation": "Электронная почта не подтверждена"
+    },
+    "you_have_not_link_your_phone": {
+        "translation": "Вы еще не привязали номер телефона"
+    },
+    "password_cannot_empty": {
+        "translation": "Пароль не может быть пустым"
+    },
+    "get_mobile_failed": {
+        "translation": "Не удалось получить номер телефона"
+    },
+    "new_password_is_eq_old": {
+        "translation": "Новый пароль не может совпадать со старым паролем"
+    },
+    "please_upgrade_client": {
+        "translation": "Пожалуйста, обновите текущий клиент"
+    },
+    "can_not_deactivate_user": {
+        "translation": "В целях безопасности аккаунта, для деактивации аккаунта необходимо иметь как минимум один другой социальный аккаунт\/номер телефона\/метод проверки электронной почты"
+    },
+    "no_supported_email": {
+        "translation": "Недействительный адрес электронной почты, текущий почтовый ящик не поддерживается"
+    },
+    "disable_suffix_email_hmledu": {
+        "translation": "Недействительный адрес электронной почты, текущий почтовый ящик не поддерживается"
+    },
+    "phone_not_supported_for_intl": {
+        "translation": "Текущий номер телефона не поддерживается, пожалуйста, используйте адрес электронной почты или вход через Google."
+    },
+    "client_request_scopes_not_allowed": {
+        "translation": "Запрашиваемый scope ( :scope ) не открыт для текущего клиента ( :clientId ). Пожалуйста, перейдите в панель разработчика, чтобы открыть соответствующие услуги (например, для scope compliance необходимо открыть услугу соблюдения норм)."
+    }
+}

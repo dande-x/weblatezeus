@@ -1,0 +1,28 @@
+{
+    "resolve_type": {
+        "normal      ": {
+            "translation": "Обработка проверки"
+        },
+        "ban         ": {
+            "translation": "Блокировка"
+        },
+        "delete      ": {
+            "translation": "Удаление"
+        },
+        "collapsed   ": {
+            "translation": "Свернуто"
+        },
+        "ignore      ": {
+            "translation": "Игнорировать"
+        },
+        "hidden      ": {
+            "translation": "Скрыто"
+        },
+        "silent      ": {
+            "translation": "Запрет на общение"
+        },
+        "self_deleted": {
+            "translation": "Самостоятельное удаление"
+        }
+    }
+}

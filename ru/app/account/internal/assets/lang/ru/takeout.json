@@ -1,0 +1,67 @@
+{
+    "email": {
+        "title": {
+            "translation": "Экспорт личной информации TapTap"
+        },
+        "hello_text": {
+            "translation": "Здравствуйте,"
+        },
+        "content_text": {
+            "translation": "Ваша личная информация готова, пожалуйста, откройте следующую ссылку в браузере на компьютере, доступно для загрузки в течение 72 часов:"
+        },
+        "btn_text": {
+            "translation": "Перейти к загрузке личной информации"
+        },
+        "warning_text": {
+            "translation": "Ваша личная информация содержит конфиденциальные данные, пожалуйста, будьте осторожны при загрузке, храните их в безопасности и не раскрывайте свою личную информацию без необходимости."
+        },
+        "noreply_text": {
+            "translation": "Это письмо отправлено автоматически, пожалуйста, не отвечайте на него, спасибо! Если у вас есть вопросы, свяжитесь с официальной службой поддержки."
+        }
+    },
+    "userinfo_nickname": {
+        "translation": "Псевдоним:"
+    },
+    "userinfo_avatar": {
+        "translation": "Аватар:"
+    },
+    "userinfo_wechat": {
+        "translation": "WeChat:"
+    },
+    "userinfo_phone": {
+        "translation": "Номер телефона:"
+    },
+    "userinfo_gender": {
+        "translation": "Пол:"
+    },
+    "userinfo_birthday": {
+        "translation": "Дата рождения:"
+    },
+    "userinfo_region": {
+        "translation": "Регион:"
+    },
+    "userinfo_version": {
+        "translation": "Версия TapTap:"
+    },
+    "userinfo_gender_female": {
+        "translation": "Женский"
+    },
+    "userinfo_gender_male": {
+        "translation": "Мужской"
+    },
+    "userinfo_gender_unknown": {
+        "translation": "Неизвестно"
+    },
+    "permission_denied": {
+        "translation": ""
+    },
+    "permission_denied_content": {
+        "translation": "Пожалуйста, войдите в правильную учетную запись и попробуйте снова"
+    },
+    "link_expired": {
+        "translation": "Ссылка устарела"
+    },
+    "link_expired_content": {
+        "translation": "Пожалуйста, повторно запросите загрузку личной информации"
+    }
+}

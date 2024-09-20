@@ -1,0 +1,95 @@
+{
+    "tab": {
+        "top_charts": {
+            "translation": "Рейтинг"
+        },
+        "upcoming": {
+            "translation": "Скоро выйдет"
+        },
+        "gamelist": {
+            "translation": "Список игр"
+        },
+        "trending": {
+            "translation": "Популярные темы"
+        },
+        "genres": {
+            "translation": "Жанры игр"
+        },
+        "events": {
+            "translation": "Мероприятия"
+        },
+        "game_of_the_day": {
+            "translation": "Игра дня"
+        },
+        "calendar": {
+            "translation": "Игровой календарь"
+        },
+        "new_releases": {
+            "translation": "Новые релизы"
+        },
+        "beta": {
+            "translation": "Бета-тестирование"
+        }
+    },
+    "filter": {
+        "show": {
+            "translation": "Показать"
+        },
+        "show_recommended": {
+            "translation": "Рекомендуемые"
+        },
+        "show_most_popular": {
+            "translation": "Самые популярные"
+        },
+        "show_popular_new_releases": {
+            "translation": "Популярные новинки"
+        },
+        "show_new_releases": {
+            "translation": "Все новинки"
+        },
+        "show_popular_upcoming": {
+            "translation": "Популярные предстоящие"
+        },
+        "show_all_upcoming": {
+            "translation": "Все предстоящие"
+        },
+        "show_top_wishlisted": {
+            "translation": "Самые популярные игры в списке желаемого"
+        },
+        "show_in_beta": {
+            "translation": "Игры в бета-тестировании"
+        },
+        "show_upcoming_beta": {
+            "translation": "Скоро начинающееся тестирование"
+        },
+        "view": {
+            "translation": "Вид"
+        },
+        "view_card": {
+            "translation": "Карточка"
+        },
+        "view_list": {
+            "translation": "Список"
+        },
+        "platform": {
+            "translation": "Платформа"
+        },
+        "editors_choice": {
+            "translation": "Выбор редакторов"
+        },
+        "rating": {
+            "translation": "Рейтинг"
+        }
+    },
+    "title": {
+        "tag_and_tag": {
+            "translation": ":tag1、:tag2"
+        },
+        "tag_and_more": {
+            "translation": ":tag1、:tag2及另外:value个标签"
+        },
+        "all_tags": {
+            "translation": "Все теги"
+        }
+    }
+}

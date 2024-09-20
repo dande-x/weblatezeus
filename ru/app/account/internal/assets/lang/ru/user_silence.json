@@ -1,0 +1,61 @@
+{
+    "reason": {
+        "hostility": {
+            "translation": "Неприветливые, агрессивные сообщения"
+        },
+        "rubbish": {
+            "translation": "Спам-реклама"
+        },
+        "pulp": {
+            "translation": "Вульгарные, кровавые и насильственные сообщения"
+        },
+        "illegal": {
+            "translation": "Нарушение правил управления сообществом TapTap"
+        },
+        "other": {
+            "translation": "Другое"
+        },
+        "illegal_prohibited": {
+            "translation": "Незаконно и запрещено"
+        },
+        "maliciously_lead_war": {
+            "translation": "Злонамеренное провоцирование конфликта"
+        },
+        "bad_conduct": {
+            "translation": "Плохое поведение"
+        },
+        "ad_exchange": {
+            "translation": "Реклама обмена"
+        },
+        "black_product_ads": {
+            "translation": "Реклама черного рынка"
+        },
+        "personal_attacks": {
+            "translation": "Личные нападки"
+        },
+        "vulgar": {
+            "translation": "Порнографический и вульгарный"
+        },
+        "violating_community_norms": {
+            "translation": "Нарушение норм сообщества"
+        },
+        "uncomfortable": {
+            "translation": "Вызывает дискомфорт"
+        },
+        "violation_community_rules": {
+            "translation": "Нарушение правил управления сообществом"
+        },
+        "intl_hate_speech": {
+            "translation": "Личные нападки"
+        },
+        "intl_sexual_content": {
+            "translation": "Порнография"
+        },
+        "intl_prohibited_content": {
+            "translation": "Запрещенные предметы"
+        },
+        "intl_extremism": {
+            "translation": "Экстремизм"
+        }
+    }
+}

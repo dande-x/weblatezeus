@@ -1,0 +1,38 @@
+{
+    "phrase": {
+        "silence_by_forum_admin": {
+            "translation": "Вы были заблокированы администратором форума"
+        },
+        "forum_not_support_content_publish": {
+            "translation": "Этот форум не поддерживает публикацию контента"
+        }
+    },
+    "sentence": {
+        "solved_question_cannot_edit": {
+            "translation": "Вопрос получил ответ, редактирование невозможно."
+        },
+        "write_something_for_topic_draft": {
+            "translation": "Напишите что-нибудь перед отправкой"
+        },
+        "cannot_change_type": {
+            "translation": "Нельзя изменить тип"
+        },
+        "pin_video_type_need_pin_video": {
+            "translation": "Пожалуйста, загрузите видео"
+        },
+        "top_limit": {
+            "translation": "Разрешено закрепить только:number контента"
+        },
+        "top_forbidden_for_group_label_isolated": {
+            "translation": "Принадлежащий подфоруму 【:name】 установлен на скрытие на главной странице, не поддерживает закрепление в форуме"
+        },
+        "title_required": {
+            "translation": "Пожалуйста, введите заголовок"
+        }
+    },
+    "contribute": {
+        "cannot_meet": {
+            "translation": "Не выполнены условия для получения награды"
+        }
+    }
+}

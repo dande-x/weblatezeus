@@ -1,0 +1,209 @@
+{
+    "button_label": {
+        "play_booster": {
+            "translation": "Ускорить"
+        },
+        "open_with_cloud": {
+            "translation": "Скачать мини-клиент"
+        },
+        "open_with_sandbox": {
+            "translation": "Начать игру"
+        },
+        "device_not_supported": {
+            "translation": "Устройство не поддерживается"
+        },
+        "participate_test": {
+            "translation": "Участвовать в тесте"
+        },
+        "has_recruit": {
+            "translation": "Зарегистрировано"
+        },
+        "recruit_test": {
+            "translation": "Зарегистрироваться на тест"
+        },
+        "pre_download": {
+            "translation": "Предварительная загрузка"
+        }
+    },
+    "information": {
+        "developer_legal": {
+            "translation": "Поставщик"
+        },
+        "unified_social_credit_identifier": {
+            "translation": "Единый социальный кредитный код"
+        },
+        "released_date": {
+            "translation": "Дата выпуска"
+        },
+        "platform": {
+            "translation": "Платформа"
+        }
+    },
+    "highlight": {
+        "no_ad": {
+            "translation": "Без рекламы"
+        },
+        "no_purchase": {
+            "translation": "Без встроенных покупок"
+        }
+    },
+    "security_badge": {
+        "has_official": {
+            "label": {
+                "translation": "Официальное присутствие"
+            },
+            "description": {
+                "translation": "В текущей игре есть официальное присутствие разработчика, который управляет игрой"
+            }
+        },
+        "tap_certificate": {
+            "label": {
+                "translation": "Tap实名认证"
+            },
+            "description": {
+                "translation": "Текущая игра поддерживает вход с авторизацией TapTap"
+            }
+        },
+        "fast_login": {
+            "label": {
+                "translation": "Быстрый вход"
+            },
+            "description": {
+                "translation": "Текущая игра поддерживает вход с авторизацией TapTap"
+            }
+        },
+        "security": {
+            "label": {
+                "translation": "Безопасность программного обеспечения"
+            },
+            "description": {
+                "translation": "После более чем 50 проверок командой безопасности платформы TapTap, получены высокие оценки безопасности"
+            },
+            "no_virus": {
+                "translation": "Без вирусов"
+            },
+            "no_vulnerability": {
+                "translation": "Без уязвимостей"
+            }
+        },
+        "privacy_compliance": {
+            "label": {
+                "translation": "Соответствие конфиденциальности"
+            },
+            "description": {
+                "translation": "После мониторинга конфиденциальности командой безопасности платформы TapTap, получены высокие оценки безопасности по соответствию конфиденциальности"
+            }
+        }
+    },
+    "stat": {
+        "downloads": {
+            "translation": "Количество загрузок"
+        },
+        "hits": {
+            "translation": "Популярность"
+        },
+        "followers": {
+            "translation": "Количество подписчиков"
+        }
+    },
+    "library": {
+        "discovery": {
+            "category": {
+                "translation": "Категория"
+            },
+            "tap_feature": {
+                "translation": "Особенности Tap"
+            },
+            "apk_size": {
+                "translation": "Размер"
+            },
+            "run_environment": {
+                "translation": "Среда выполнения"
+            },
+            "download_local": {
+                "translation": "Можно скачать на локальный диск"
+            },
+            "no_32bits_game_assistant": {
+                "translation": "Не требуется загрузка 32-битного помощника"
+            },
+            "unlimited": {
+                "translation": "Неограниченно"
+            },
+            "status_closed": {
+                "translation": "Только для подписки"
+            },
+            "status_download": {
+                "translation": "Скачать"
+            },
+            "status_paid": {
+                "translation": "Платная загрузка"
+            }
+        }
+    },
+    "accident": {
+        "label": {
+            "translation": "Ошибка игры"
+        }
+    },
+    "reserve": {
+        "close_auto_download": {
+            "translation": "Отключить автоматическую загрузку по Wi-Fi"
+        }
+    },
+    "announcement_period": {
+        "alter": {
+            "title": {
+                "translation": "Что такое период анонса игры?"
+            },
+            "content": {
+                "translation": "Период анонса — это этап, на котором игра на раннем этапе публикует лишь часть информации.\nИгра рассматривается как новость и не была официально выпущена. Поэтому ее можно только искать, она не отображается в рейтингах, на главной странице и в других функциях. Также не открыта зона отзывов, но Tapper может посетить форум для обсуждения, чтобы выразить свои интересы и мысли."
+            }
+        }
+    },
+    "app_event": {
+        "debut": {
+            "translation": "Премьера"
+        },
+        "beta": {
+            "translation": "Тестирование"
+        },
+        "update": {
+            "translation": "Обновление"
+        },
+        "reserve": {
+            "translation": "Предзаказ"
+        },
+        "showcase": {
+            "translation": "Презентация"
+        },
+        "gameplay_reveal": {
+            "translation": "Игровой процесс"
+        },
+        "recruitment": {
+            "translation": "Набор"
+        },
+        "limited_time_free": {
+            "translation": "Ограниченное время бесплатно"
+        },
+        "limited_time_discount": {
+            "translation": "Скидка"
+        },
+        "gift_code": {
+            "translation": "Раздача подарков"
+        },
+        "event": {
+            "translation": "Событие"
+        },
+        "livestream": {
+            "translation": "Прямой эфир"
+        }
+    },
+    "env_type": {
+        "beta": {
+            "translation": "Тестовый сервер"
+        },
+        "preview": {
+            "translation": "Предварительный сервер"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "certification_bind_too_times_not_allow": {
+        "translation": "Достигнут предел привязки информации о реальном имени, повторная привязка невозможна"
+    },
+    "idcard_authentication_frequently_limit": {
+        "translation": "Частота проверки реального имени слишком высокая, пожалуйста, попробуйте через пять минут"
+    },
+    "not_match_issuing_region": {
+        "translation": "Тип номера удостоверения личности и регион выдачи не совпадают"
+    },
+    "oversea_user_need_birthday": {
+        "translation": "Пользователи из-за границы должны указать дату рождения"
+    },
+    "please_check_id_number_entered": {
+        "translation": "Введенная информация неверна"
+    },
+    "please_check_name_entered": {
+        "translation": "Пожалуйста, проверьте введенное настоящее имя"
+    }
+}

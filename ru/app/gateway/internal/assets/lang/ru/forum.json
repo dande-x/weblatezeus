@@ -1,0 +1,42 @@
+{
+    "management": {
+        "poster_activity": {
+            "translation": "Страница активности конструктора"
+        },
+        "custom_url": {
+            "translation": "Пользовательская ссылка Wiki"
+        },
+        "poster": {
+            "translation": "Страница мероприятия конструктора"
+        },
+        "map": {
+            "translation": ""
+        }
+    },
+    "post": {
+        "contents_link": {
+            "translation": "[Ссылка]"
+        },
+        "contents_list": {
+            "translation": "[Список]"
+        },
+        "contents_horizontal_rule": {
+            "translation": "[Разделительная линия]"
+        },
+        "contents_link_card": {
+            "translation": "[Карточка ссылки]"
+        },
+        "contents_app": {
+            "translation": "[Карточка игры]"
+        },
+        "contents_vote": {
+            "translation": "[Голосование]"
+        },
+        "contents_video": {
+            "translation": "[Видео]"
+        },
+        "contents_image": {
+            "translation": "[Изображение]"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "do_not_reply": {
+        "translation": "Это письмо сгенерировано автоматически, не отвечайте на него!"
+    },
+    "subject": {
+        "translation": ":code - это ваш код подтверждения TapTap"
+    },
+    "subject_activate": {
+        "translation": "Пожалуйста, подтвердите активацию вашей учетной записи TapTap"
+    },
+    "taptap_team": {
+        "translation": "Команда TapTap"
+    },
+    "thanks": {
+        "translation": "Спасибо за ваше сотрудничество,"
+    }
+}

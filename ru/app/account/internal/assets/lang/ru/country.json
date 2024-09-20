@@ -1,0 +1,751 @@
+{
+    "name": {
+        "AC": {
+            "translation": "Асенсион"
+        },
+        "AD": {
+            "translation": "Андорра"
+        },
+        "AE": {
+            "translation": "Объединенные Арабские Эмираты"
+        },
+        "AF": {
+            "translation": "Афганистан"
+        },
+        "AG": {
+            "translation": "Антигуа и Барбуда"
+        },
+        "AI": {
+            "translation": "Ангилья"
+        },
+        "AL": {
+            "translation": "Албания"
+        },
+        "AM": {
+            "translation": "Армения"
+        },
+        "AO": {
+            "translation": "Ангола"
+        },
+        "AR": {
+            "translation": "Аргентина"
+        },
+        "AS": {
+            "translation": "Американское Самоа"
+        },
+        "AT": {
+            "translation": "Австрия"
+        },
+        "AU": {
+            "translation": "Австралия"
+        },
+        "AW": {
+            "translation": "Аруба"
+        },
+        "AX": {
+            "translation": "Аландские острова"
+        },
+        "AZ": {
+            "translation": "Азербайджан"
+        },
+        "BA": {
+            "translation": "Босния и Герцеговина"
+        },
+        "BB": {
+            "translation": "Барбадос"
+        },
+        "BD": {
+            "translation": "Бангладеш"
+        },
+        "BE": {
+            "translation": "Бельгия"
+        },
+        "BF": {
+            "translation": "Буркина-Фасо"
+        },
+        "BG": {
+            "translation": "Болгария"
+        },
+        "BH": {
+            "translation": "Бахрейн"
+        },
+        "BI": {
+            "translation": "Бурунди"
+        },
+        "BJ": {
+            "translation": "Бенин"
+        },
+        "BL": {
+            "translation": "Сент-Бартельми"
+        },
+        "BM": {
+            "translation": "Бермуды"
+        },
+        "BN": {
+            "translation": "Бруней"
+        },
+        "BO": {
+            "translation": "Боливия"
+        },
+        "BQ": {
+            "translation": "Нидерландские Антильские острова"
+        },
+        "BR": {
+            "translation": "Бразилия"
+        },
+        "BS": {
+            "translation": "Багамы"
+        },
+        "BT": {
+            "translation": "Бутан"
+        },
+        "BW": {
+            "translation": "Ботсвана"
+        },
+        "BY": {
+            "translation": "Беларусь"
+        },
+        "BZ": {
+            "translation": "Белиз"
+        },
+        "CA": {
+            "translation": "Канада"
+        },
+        "CC": {
+            "translation": "Кокосовые (Килинг) острова"
+        },
+        "CD": {
+            "translation": "Конго (Демократическая Республика)"
+        },
+        "CF": {
+            "translation": "Центральноафриканская Республика"
+        },
+        "CG": {
+            "translation": "Конго (Республика)"
+        },
+        "CH": {
+            "translation": "Швейцария"
+        },
+        "CI": {
+            "translation": "Кот-д'Ивуар"
+        },
+        "CK": {
+            "translation": "Острова Кука"
+        },
+        "CL": {
+            "translation": "Чили"
+        },
+        "CM": {
+            "translation": "Камерун"
+        },
+        "CN": {
+            "translation": "Китай"
+        },
+        "CO": {
+            "translation": "Колумбия"
+        },
+        "CR": {
+            "translation": "Коста-Рика"
+        },
+        "CU": {
+            "translation": "Куба"
+        },
+        "CV": {
+            "translation": "Кабо-Верде"
+        },
+        "CW": {
+            "translation": "Кюрасао"
+        },
+        "CX": {
+            "translation": "Остров Рождества"
+        },
+        "CY": {
+            "translation": "Кипр"
+        },
+        "CZ": {
+            "translation": "Чешская Республика"
+        },
+        "DE": {
+            "translation": "Германия"
+        },
+        "DG": {
+            "translation": "Остров Диего-Гарсия"
+        },
+        "DJ": {
+            "translation": "Джибути"
+        },
+        "DK": {
+            "translation": "Дания"
+        },
+        "DM": {
+            "translation": "Доминика"
+        },
+        "DO": {
+            "translation": "Доминиканская Республика"
+        },
+        "DZ": {
+            "translation": "Алжир"
+        },
+        "EA": {
+            "translation": "Сеута и Мелилья"
+        },
+        "EC": {
+            "translation": "Эквадор"
+        },
+        "EE": {
+            "translation": "Эстония"
+        },
+        "EG": {
+            "translation": "Египет"
+        },
+        "EH": {
+            "translation": "Западная Сахара"
+        },
+        "ER": {
+            "translation": "Эритрея"
+        },
+        "ES": {
+            "translation": "Испания"
+        },
+        "ET": {
+            "translation": "Эфиопия"
+        },
+        "FI": {
+            "translation": "Финляндия"
+        },
+        "FJ": {
+            "translation": "Фиджи"
+        },
+        "FK": {
+            "translation": "Фолклендские острова"
+        },
+        "FM": {
+            "translation": "Микронезия"
+        },
+        "FO": {
+            "translation": "Фарерские острова"
+        },
+        "FR": {
+            "translation": "Франция"
+        },
+        "GA": {
+            "translation": "Габон"
+        },
+        "GB": {
+            "translation": "Великобритания"
+        },
+        "GD": {
+            "translation": "Гренада"
+        },
+        "GE": {
+            "translation": "Грузия"
+        },
+        "GF": {
+            "translation": "Французская Гвиана"
+        },
+        "GG": {
+            "translation": "Гернси"
+        },
+        "GH": {
+            "translation": "Гана"
+        },
+        "GI": {
+            "translation": "Гибралтар"
+        },
+        "GL": {
+            "translation": "Гренландия"
+        },
+        "GM": {
+            "translation": "Гамбия"
+        },
+        "GN": {
+            "translation": "Гвинея"
+        },
+        "GP": {
+            "translation": "Гваделупа"
+        },
+        "GQ": {
+            "translation": "Экваториальная Гвинея"
+        },
+        "GR": {
+            "translation": "Греция"
+        },
+        "GT": {
+            "translation": "Гватемала"
+        },
+        "GU": {
+            "translation": "Гуам"
+        },
+        "GW": {
+            "translation": "Гвинея-Бисау"
+        },
+        "GY": {
+            "translation": "Гайана"
+        },
+        "HK": {
+            "translation": "Гонконг, Китай"
+        },
+        "HN": {
+            "translation": "Гондурас"
+        },
+        "HR": {
+            "translation": "Хорватия"
+        },
+        "HT": {
+            "translation": "Гаити"
+        },
+        "HU": {
+            "translation": "Венгрия"
+        },
+        "IC": {
+            "translation": "Канарские острова"
+        },
+        "ID": {
+            "translation": "Индонезия"
+        },
+        "IE": {
+            "translation": "Ирландия"
+        },
+        "IL": {
+            "translation": "Израиль"
+        },
+        "IM": {
+            "translation": "Остров Мэн"
+        },
+        "IN": {
+            "translation": "Индия"
+        },
+        "IO": {
+            "translation": "Британская территория в Индийском океане"
+        },
+        "IQ": {
+            "translation": "Ирак"
+        },
+        "IR": {
+            "translation": "Иран"
+        },
+        "IS": {
+            "translation": "Исландия"
+        },
+        "IT": {
+            "translation": "Италия"
+        },
+        "JE": {
+            "translation": "Джерси"
+        },
+        "JM": {
+            "translation": "Ямайка"
+        },
+        "JO": {
+            "translation": "Иордания"
+        },
+        "JP": {
+            "translation": "Япония"
+        },
+        "KE": {
+            "translation": "Кения"
+        },
+        "KG": {
+            "translation": "Кыргызстан"
+        },
+        "KH": {
+            "translation": "Камбоджа"
+        },
+        "KI": {
+            "translation": "Кирибати"
+        },
+        "KM": {
+            "translation": "Коморы"
+        },
+        "KN": {
+            "translation": "Сент-Китс и Невис"
+        },
+        "KP": {
+            "translation": "Северная Корея"
+        },
+        "KR": {
+            "translation": "Южная Корея"
+        },
+        "KW": {
+            "translation": "Кувейт"
+        },
+        "KY": {
+            "translation": "Каймановы острова"
+        },
+        "KZ": {
+            "translation": "Казахстан"
+        },
+        "LA": {
+            "translation": "Лаос"
+        },
+        "LB": {
+            "translation": "Ливан"
+        },
+        "LC": {
+            "translation": "Сент-Люсия"
+        },
+        "LI": {
+            "translation": "Лихтенштейн"
+        },
+        "LK": {
+            "translation": "Шри-Ланка"
+        },
+        "LR": {
+            "translation": "Либерия"
+        },
+        "LS": {
+            "translation": "Лесото"
+        },
+        "LT": {
+            "translation": "Литва"
+        },
+        "LU": {
+            "translation": "Люксембург"
+        },
+        "LV": {
+            "translation": "Латвия"
+        },
+        "LY": {
+            "translation": "Ливия"
+        },
+        "MA": {
+            "translation": "Марокко"
+        },
+        "MC": {
+            "translation": "Монако"
+        },
+        "MD": {
+            "translation": "Молдова"
+        },
+        "ME": {
+            "translation": "Черногория"
+        },
+        "MF": {
+            "translation": "Французская Сен-Мартен"
+        },
+        "MG": {
+            "translation": "Мадагаскар"
+        },
+        "MH": {
+            "translation": "Маршалловы Острова"
+        },
+        "MK": {
+            "translation": "Македония"
+        },
+        "ML": {
+            "translation": "Мали"
+        },
+        "MM": {
+            "translation": "Мьянма"
+        },
+        "MN": {
+            "translation": "Монголия"
+        },
+        "MO": {
+            "translation": "Макао, Китай"
+        },
+        "MP": {
+            "translation": "Северные Марианские острова"
+        },
+        "MQ": {
+            "translation": "Мартиника"
+        },
+        "MR": {
+            "translation": "Мавритания"
+        },
+        "MS": {
+            "translation": "Монтсеррат"
+        },
+        "MT": {
+            "translation": "Мальта"
+        },
+        "MU": {
+            "translation": "Маврикий"
+        },
+        "MV": {
+            "translation": "Мальдивы"
+        },
+        "MW": {
+            "translation": "Малави"
+        },
+        "MX": {
+            "translation": "Мексика"
+        },
+        "MY": {
+            "translation": "Малайзия"
+        },
+        "MZ": {
+            "translation": "Мозамбик"
+        },
+        "NA": {
+            "translation": "Намибия"
+        },
+        "NC": {
+            "translation": "Новая Каледония"
+        },
+        "NE": {
+            "translation": "Нигер"
+        },
+        "NF": {
+            "translation": "Остров Норфолк"
+        },
+        "NG": {
+            "translation": "Нигерия"
+        },
+        "NI": {
+            "translation": "Никарагуа"
+        },
+        "NL": {
+            "translation": "Нидерланды"
+        },
+        "NO": {
+            "translation": "Норвегия"
+        },
+        "NP": {
+            "translation": "Непал"
+        },
+        "NR": {
+            "translation": "Науру"
+        },
+        "NU": {
+            "translation": "Ниуэ"
+        },
+        "NZ": {
+            "translation": "Новая Зеландия"
+        },
+        "OM": {
+            "translation": "Оман"
+        },
+        "PA": {
+            "translation": "Панама"
+        },
+        "PE": {
+            "translation": "Перу"
+        },
+        "PF": {
+            "translation": "Французская Полинезия"
+        },
+        "PG": {
+            "translation": "Папуа — Новая Гвинея"
+        },
+        "PH": {
+            "translation": "Филиппины"
+        },
+        "PK": {
+            "translation": "Пакистан"
+        },
+        "PL": {
+            "translation": "Польша"
+        },
+        "PM": {
+            "translation": "Сен-Пьер и Микелон"
+        },
+        "PN": {
+            "translation": "Острова Питкэрн"
+        },
+        "PR": {
+            "translation": "Пуэрто-Рико"
+        },
+        "PS": {
+            "translation": "Палестинские территории"
+        },
+        "PT": {
+            "translation": "Португалия"
+        },
+        "PW": {
+            "translation": "Палау"
+        },
+        "PY": {
+            "translation": "Парагвай"
+        },
+        "QA": {
+            "translation": "Катар"
+        },
+        "RE": {
+            "translation": "Реюньон"
+        },
+        "RO": {
+            "translation": "Румыния"
+        },
+        "RS": {
+            "translation": "Сербия"
+        },
+        "RU": {
+            "translation": "Россия"
+        },
+        "RW": {
+            "translation": "Руанда"
+        },
+        "SA": {
+            "translation": "Саудовская Аравия"
+        },
+        "SB": {
+            "translation": "Соломоновы Острова"
+        },
+        "SC": {
+            "translation": "Сейшелы"
+        },
+        "SD": {
+            "translation": "Судан"
+        },
+        "SE": {
+            "translation": "Швеция"
+        },
+        "SG": {
+            "translation": "Сингапур"
+        },
+        "SH": {
+            "translation": "Святая Елена"
+        },
+        "SI": {
+            "translation": "Словения"
+        },
+        "SJ": {
+            "translation": "Шпицберген и Ян-Майен"
+        },
+        "SK": {
+            "translation": "Словакия"
+        },
+        "SL": {
+            "translation": "Сьерра-Леоне"
+        },
+        "SM": {
+            "translation": "Сан-Марино"
+        },
+        "SN": {
+            "translation": "Сенегал"
+        },
+        "SO": {
+            "translation": "Сомали"
+        },
+        "SR": {
+            "translation": "Суринам"
+        },
+        "SS": {
+            "translation": "Южный Судан"
+        },
+        "ST": {
+            "translation": "Сан-Томе и Принсипи"
+        },
+        "SV": {
+            "translation": "Сальвадор"
+        },
+        "SX": {
+            "translation": "Синт-Мартен"
+        },
+        "SY": {
+            "translation": "Сирия"
+        },
+        "SZ": {
+            "translation": "Свазиленд"
+        },
+        "TC": {
+            "translation": "Теркс и Кайкос"
+        },
+        "TD": {
+            "translation": "Чад"
+        },
+        "TF": {
+            "translation": "Французские Южные территории"
+        },
+        "TG": {
+            "translation": "Того"
+        },
+        "TH": {
+            "translation": "Таиланд"
+        },
+        "TJ": {
+            "translation": "Таджикистан"
+        },
+        "TK": {
+            "translation": "Токелау"
+        },
+        "TL": {
+            "translation": "Восточный Тимор"
+        },
+        "TM": {
+            "translation": "Туркменистан"
+        },
+        "TN": {
+            "translation": "Тунис"
+        },
+        "TO": {
+            "translation": "Тонга"
+        },
+        "TR": {
+            "translation": "Турция"
+        },
+        "TT": {
+            "translation": "Тринидад и Тобаго"
+        },
+        "TV": {
+            "translation": "Тувалу"
+        },
+        "TW": {
+            "translation": "Тайвань"
+        },
+        "TZ": {
+            "translation": "Танзания"
+        },
+        "UA": {
+            "translation": "Украина"
+        },
+        "UG": {
+            "translation": "Уганда"
+        },
+        "US": {
+            "translation": "Соединенные Штаты"
+        },
+        "UY": {
+            "translation": "Уругвай"
+        },
+        "UZ": {
+            "translation": "Узбекистан"
+        },
+        "VA": {
+            "translation": "Ватикан"
+        },
+        "VC": {
+            "translation": "Сент-Винсент и Гренадины"
+        },
+        "VE": {
+            "translation": "Венесуэла"
+        },
+        "VG": {
+            "translation": "Британские Виргинские Острова"
+        },
+        "VI": {
+            "translation": "Американские Виргинские острова"
+        },
+        "VN": {
+            "translation": "Вьетнам"
+        },
+        "VU": {
+            "translation": "Вануату"
+        },
+        "WF": {
+            "translation": "Уоллис и Футуна"
+        },
+        "WS": {
+            "translation": "Самоа"
+        },
+        "XK": {
+            "translation": "Косово"
+        },
+        "YE": {
+            "translation": "Йемен"
+        },
+        "YT": {
+            "translation": "Майотта"
+        },
+        "ZA": {
+            "translation": "Южноафриканская Республика"
+        },
+        "ZM": {
+            "translation": "Замбия"
+        },
+        "ZW": {
+            "translation": "Зимбабве"
+        }
+    }
+}

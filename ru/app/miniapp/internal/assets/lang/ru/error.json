@@ -1,0 +1,35 @@
+{
+    "unknown": {
+        "translation": "Неизвестная ошибка"
+    },
+    "internal": {
+        "translation": "Внутренняя ошибка сервера"
+    },
+    "invalid_openid": {
+        "translation": "Недействительный openid"
+    },
+    "invalid_access_token": {
+        "translation": "Недействительный или просроченный access_token"
+    },
+    "user_session_key_not_found": {
+        "translation": "Ключ сессии пользователя не найден"
+    },
+    "miniapp_not_found": {
+        "translation": "Мини-приложение :id не найдено"
+    },
+    "invalid_session_code": {
+        "translation": "Недействительный код"
+    },
+    "invalid_version": {
+        "translation": ""
+    },
+    "miniapp_developer_exceed_limit": {
+        "translation": ""
+    },
+    "miniapp_developer_already_exists": {
+        "translation": ""
+    },
+    "develop_permission_required": {
+        "translation": ""
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "unknown": {
+        "translation": ""
+    },
+    "browser": {
+        "default": {
+            "translation": "Браузер"
+        },
+        "baidu": {
+            "translation": "Браузер Baidu"
+        },
+        "ucBrowser": {
+            "translation": "Браузер UC"
+        },
+        "quark": {
+            "translation": "Браузер Quark"
+        },
+        "miuiBrowser": {
+            "translation": "Браузер Xiaomi"
+        },
+        "huaweiBrowser": {
+            "translation": "Браузер Huawei"
+        },
+        "QQBrowser": {
+            "translation": "Браузер QQ"
+        }
+    },
+    "android": {
+        "translation": "Устройство Android"
+    },
+    "ios": {
+        "translation": "Устройство iOS"
+    },
+    "project_name": {
+        "taptap": {
+            "translation": "Клиент TapTap"
+        },
+        "taptaptest": {
+            "translation": "Клиент TapTap"
+        },
+        "taptap2": {
+            "translation": "Клиент TapTap"
+        },
+        "taptap3": {
+            "translation": "Клиент TapTap"
+        },
+        "tappad": {
+            "translation": "TapTap Pad"
+        },
+        "iostap": {
+            "translation": "Клиент TapTap"
+        },
+        "iostap2": {
+            "translation": "Клиент TapTap"
+        },
+        "iostap3": {
+            "translation": "Клиент TapTap"
+        },
+        "wechat": {
+            "translation": "Мини-программа WeChat"
+        },
+        "webapp": {
+            "translation": "Веб-приложение"
+        },
+        "webappintl": {
+            "translation": "Веб-приложение"
+        },
+        "iosplay": {
+            "translation": "TapTap Play"
+        },
+        "iosnow": {
+            "translation": "Клиент TapTap"
+        },
+        "tapitk": {
+            "translation": "Встроенное сообщество"
+        },
+        "taprocket": {
+            "translation": "Tap Ускоритель"
+        },
+        "tapintlrocket": {
+            "translation": "Tap Ускоритель"
+        },
+        "iosrocket": {
+            "translation": "Tap Ускоритель"
+        },
+        "iosintlrocket": {
+            "translation": "Tap Ускоритель"
+        },
+        "iosglobal": {
+            "translation": "TapTap Международная версия"
+        },
+        "iosglobaltest": {
+            "translation": "TapTap Международная версия"
+        },
+        "tapintl2": {
+            "translation": "TapTap Международная версия"
+        },
+        "tapintl2test": {
+            "translation": "TapTap Международная версия"
+        },
+        "iosintl": {
+            "translation": "TapTap Международная версия"
+        },
+        "iosintltest": {
+            "translation": "TapTap Международная версия"
+        },
+        "handheld": {
+            "translation": "TapTap портативная версия"
+        }
+    }
+}

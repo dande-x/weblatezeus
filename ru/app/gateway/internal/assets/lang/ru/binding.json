@@ -1,0 +1,87 @@
+{
+    "field": {
+        "user_ids": {
+            "translation": "ID пользователей"
+        },
+        "title": {
+            "translation": "Заголовок"
+        },
+        "contents": {
+            "translation": "Содержимое"
+        },
+        "package_name": {
+            "translation": ""
+        },
+        "package_sign": {
+            "translation": ""
+        },
+        "bundle_id": {
+            "translation": ""
+        }
+    },
+    "lt": {
+        "array": {
+            "translation": "「:field」должен быть меньше :param элементов"
+        }
+    },
+    "gt": {
+        "array": {
+            "translation": "「:field」должен быть больше :param элементов"
+        }
+    },
+    "required": {
+        "translation": ""
+    },
+    "required_without": {
+        "translation": ":field или :param обязательны для заполнения"
+    },
+    "utf8_max": {
+        "string": {
+            "translation": ":field не может превышать :param символов"
+        }
+    },
+    "utf8_min": {
+        "string": {
+            "translation": ":field должно содержать не менее :param символов"
+        }
+    },
+    "custom": {
+        "contents": {
+            "required": {
+                "translation": "Напишите что-нибудь перед отправкой"
+            },
+            "strict_required": {
+                "translation": "Напишите что-нибудь перед отправкой"
+            }
+        },
+        "title": {
+            "required": {
+                "translation": "Пожалуйста, введите заголовок"
+            },
+            "strict_required": {
+                "translation": "Пожалуйста, введите заголовок"
+            }
+        },
+        "mobile": {
+            "default": {
+                "translation": "Пожалуйста, введите правильный номер телефона"
+            },
+            "required": {
+                "translation": "Пожалуйста, введите номер телефона"
+            }
+        },
+        "wechat": {
+            "default": {
+                "translation": "Пожалуйста, введите правильный номер WeChat"
+            }
+        },
+        "score": {
+            "required": {
+                "translation": "Пожалуйста, сначала оцените"
+            }
+        }
+    },
+    "eq": {
+        "translation": "«:field» должно быть равно :param"
+    }
+}

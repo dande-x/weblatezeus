@@ -1,0 +1,35 @@
+{
+    "BLOCKLIST_ALREADY_EXISTS": {
+        "translation": "Нельзя заблокировать повторно"
+    },
+    "CAPTCHA_FAILED": {
+        "translation": "Проверка на человечность не пройдена"
+    },
+    "FRIEND_ALREADY_FOLLOWED": {
+        "translation": "Нельзя подписаться повторно"
+    },
+    "IDCARD_ALREADY_EXISTS": {
+        "translation": "Невозможно изменить уже проверенные данные удостоверения личности"
+    },
+    "INSUFFICIENT_PRODUCT": {
+        "translation": "Приложение не поддерживает вход через TapTap"
+    },
+    "NEEDS_CAPTCHA": {
+        "translation": "Проверка на человечность не пройдена"
+    },
+    "USER_IS_DEACTIVATED": {
+        "translation": "Пользователь заблокирован"
+    },
+    "USER_IS_NOT_QUALIFIED": {
+        "translation": "Нет квалификации для теста или не в период тестирования, не удается войти в игру"
+    },
+    "COMPLIANCE_TEST_WRONG_CLIENT": {
+        "translation": "Можно войти только в определенные игры"
+    },
+    "APP_TEST_USER_IS_NOT_QUALIFIED": {
+        "translation": "У текущего аккаунта нет прав на тестирование, пожалуйста, проверьте входящий аккаунт~"
+    },
+    "APP_TEST_NOT_WITHIN_DURATION": {
+        "translation": "Текущая игра еще не открыла тестовый план~"
+    }
+}

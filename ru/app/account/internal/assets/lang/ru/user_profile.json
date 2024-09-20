@@ -1,0 +1,25 @@
+{
+    "gender": {
+        "male": {
+            "translation": "Мужской"
+        },
+        "female": {
+            "translation": "Женский"
+        },
+        "non_binary": {
+            "translation": "Небинарный"
+        },
+        "not_to_say": {
+            "translation": "Не хочу говорить"
+        }
+    },
+    "nickname_under_review_prefix": {
+        "translation": "[На рассмотрении]"
+    },
+    "intro_under_review_prefix": {
+        "translation": "[На рассмотрении]"
+    },
+    "setting_region_not_match_location": {
+        "translation": "Выбранная вами страна\/регион не соответствует вашему местоположению."
+    }
+}

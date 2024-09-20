@@ -1,0 +1,32 @@
+{
+    "title": {
+        "rankings": {
+            "translation": "Рейтинги"
+        },
+        "hot_collections": {
+            "translation": "Свежие коллекции"
+        },
+        "trending_posts": {
+            "translation": "Популярные публикации"
+        },
+        "explore_gaming": {
+            "translation": "Откройте для себя новое"
+        },
+        "games_you_may_like": {
+            "translation": "Рекомендованные игры"
+        }
+    },
+    "tag": {
+        "all": {
+            "translation": "Все"
+        }
+    },
+    "label": {
+        "games_beta_test": {
+            "translation": "Бета-версии"
+        },
+        "games_new_releases": {
+            "translation": "Новые игры"
+        }
+    }
+}

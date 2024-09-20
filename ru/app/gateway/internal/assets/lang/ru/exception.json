@@ -1,0 +1,11 @@
+{
+    "forbidden_teen_sandbox": {
+        "translation": "Эта игра не поддерживает сервисы в подростковом режиме"
+    },
+    "forbidden_risk_control_not_passed": {
+        "translation": "Акция популярна, пожалуйста, попробуйте позже"
+    },
+    "invalid_arguments": {
+        "translation": "Ошибка параметров"
+    }
+}

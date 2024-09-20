@@ -1,0 +1,24 @@
+{
+    "custom": {
+        "email_address": {
+            "translation": "Пожалуйста, укажите правильный адрес электронной почты"
+        }
+    },
+    "field": {
+        "email_address": {
+            "translation": "Адрес электронной почты"
+        },
+        "email_code": {
+            "translation": "Код подтверждения по электронной почте"
+        },
+        "phone_code": {
+            "translation": "Код подтверждения по SMS"
+        },
+        "phone_number": {
+            "translation": "Номер мобильного телефона"
+        }
+    },
+    "required": {
+        "translation": ":field обязательное поле"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "top": {
+        "rankings": {
+            "exclusive": {
+                "translation": "Эксклюзивный рейтинг"
+            },
+            "weekly": {
+                "translation": "Обязательно к игре на этой неделе"
+            }
+        },
+        "description": {
+            "exclusive": {
+                "translation": "Рассчитывается по недавнему интересу к эксклюзивным играм"
+            }
+        }
+    }
+}

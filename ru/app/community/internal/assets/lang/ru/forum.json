@@ -1,0 +1,27 @@
+{
+    "permission": {
+        "silence": {
+            "translation": "Вы были заблокированы администратором форума"
+        }
+    },
+    "management": {
+        "involving_ads": {
+            "translation": "Содержит рекламу, запрещенный контент;"
+        },
+        "involving_rules": {
+            "translation": "Содержит нарушение правил;"
+        },
+        "involving_infringement": {
+            "translation": "Содержит контент, нарушающий авторские права;"
+        },
+        "too_early": {
+            "translation": "Время публикации слишком раннее;"
+        },
+        "battle": {
+            "translation": "Провокация;"
+        },
+        "other": {
+            "translation": "Другое"
+        }
+    }
+}

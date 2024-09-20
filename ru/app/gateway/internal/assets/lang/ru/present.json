@@ -1,0 +1,23 @@
+{
+    "pre_register_succeed": {
+        "translation": "Регистрация прошла успешно"
+    },
+    "pre_register_succeed_with_chance": {
+        "translation": "Регистрация прошла успешно, вы получили один шанс на розыгрыш"
+    },
+    "pre_register_failed": {
+        "translation": "Не удалось записаться"
+    },
+    "pre_register_canceled": {
+        "translation": "Запись отменена"
+    },
+    "share_succeed": {
+        "translation": "Успешно поделились"
+    },
+    "share_succeed_with_chance": {
+        "translation": "Получено одно шансы на розыгрыш"
+    },
+    "share_failed": {
+        "translation": "Не удалось поделиться"
+    }
+}

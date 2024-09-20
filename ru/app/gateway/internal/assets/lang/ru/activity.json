@@ -1,0 +1,39 @@
+{
+    "task": {
+        "type_error": {
+            "translation": "Ошибка типа задачи"
+        },
+        "closed": {
+            "translation": "Задача закрыта"
+        },
+        "failed_to_generate_code": {
+            "translation": "Ошибка генерации кода приглашения"
+        },
+        "unsupported_action_type": {
+            "translation": "Неподдерживаемый тип действия задачи"
+        },
+        "uid_cannot_empty": {
+            "translation": "uid не может быть пустым"
+        },
+        "smfp_cannot_empty": {
+            "translation": "smfp не может быть пустым"
+        }
+    },
+    "not_start": {
+        "translation": "Мероприятие еще не началось"
+    },
+    "finished": {
+        "translation": "Мероприятие завершено"
+    },
+    "safe_risk_msg": {
+        "translation": "Проверка безопасности, пожалуйста, подождите, чтобы участвовать в мероприятии"
+    },
+    "topic_lottery": {
+        "condition_count_limit": {
+            "translation": "Количество условий не должно превышать :count"
+        },
+        "condition_invalid": {
+            "translation": "Условия участия недействительны"
+        }
+    }
+}

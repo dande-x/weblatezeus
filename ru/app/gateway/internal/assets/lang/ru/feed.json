@@ -1,0 +1,14 @@
+{
+    "follow_hashtag_source": {
+        "translation": "Из обсуждаемых тем"
+    },
+    "dislike_hashtag_content": {
+        "translation": "Больше не рекомендовать контент «#:name»"
+    },
+    "hashtag_not_appear_recommend": {
+        "translation": "Контент по этой теме не появится в ваших рекомендациях"
+    },
+    "flow_hashtag": {
+        "translation": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "schedule_publish": {
+        "time_min_limit": {
+            "translation": "Можно запланировать публикацию только через 5 минут после текущего времени"
+        },
+        "cannot_set_time_already_publish": {
+            "translation": "Опубликованный контент нельзя изменить время публикации"
+        },
+        "cannot_cancel_already_publish": {
+            "translation": "Невозможно отменить запланированную публикацию уже опубликованного контента"
+        }
+    }
+}

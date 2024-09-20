@@ -1,0 +1,24 @@
+{
+    "notification_collect": {
+        "title": {
+            "translation": "Кто-то добавил меня в избранное"
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_played_to_review": {
+        "title": {
+            "translation": "Приглашение написать отзыв о сыгранной игре"
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_game_of_the_day": {
+        "translation": "Игра дня"
+    },
+    "notification_personalized_recommendations": {
+        "translation": "Персонализированные рекомендации"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "blacklisting": {
+        "translation": "Пожалуйста, сначала снимите пользователя из черного списка, прежде чем подписываться на него"
+    },
+    "cannot_follow_user_from_different_store": {
+        "translation": "Нельзя подписываться на пользователей из других регионов"
+    },
+    "deleted_alert_follow": {
+        "translation": "Этот пользователь отменил регистрацию, подписаться невозможно"
+    },
+    "following_failed_in_blacklisting": {
+        "translation": "Не удалось подписаться, пользователь вас заблокировал"
+    },
+    "following_failed_insufficient_scope_friend": {
+        "translation": "Не удалось подписаться, у пользователя нет прав на добавление в друзья"
+    },
+    "following_failed_max_size_limit": {
+        "translation": "Не удалось подписаться, достигнут лимит на количество подписок"
+    },
+    "not_allow_follow_self": {
+        "translation": "Нельзя подписываться на себя"
+    },
+    "blocking_failed_insufficient_scope_friend": {
+        "translation": "Не удалось заблокировать, у пользователя нет разрешения на добавление в друзья"
+    }
+}

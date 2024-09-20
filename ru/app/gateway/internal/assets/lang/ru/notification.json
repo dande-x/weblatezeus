@@ -1,0 +1,183 @@
+{
+    "notice": {
+        "label": {
+            "must": {
+                "translation": "Все"
+            },
+            "auto": {
+                "translation": "Персонализированные"
+            },
+            "mute": {
+                "translation": "Не беспокоить"
+            }
+        },
+        "content": {
+            "must": {
+                "translation": "Все уведомления от него"
+            },
+            "auto": {
+                "translation": "Только уведомления, которые могут вас заинтересовать"
+            },
+            "mute": {
+                "translation": "Получать, но не уведомлять о его сообщениях"
+            }
+        }
+    },
+    "bottom": {
+        "text": {
+            "game_serial_number": {
+                "translation": ":code"
+            },
+            "game_gift_number": {
+                "translation": ":code"
+            },
+            "redeem_code": {
+                "translation": ":code"
+            },
+            "redeem_code_text": {
+                "translation": "Код для обмена"
+            },
+            "game_gift_number_text": {
+                "translation": "Код подарка"
+            },
+            "game_serial_number_text": {
+                "translation": "Код активации"
+            }
+        },
+        "label": {
+            "game_serial_number": {
+                "translation": "Скопировать"
+            },
+            "game_gift_number": {
+                "translation": "Скопировать"
+            },
+            "play": {
+                "translation": "Играть сейчас"
+            },
+            "go_to": {
+                "translation": "Посмотреть"
+            },
+            "redeem_code": {
+                "translation": "Скопировать"
+            }
+        }
+    },
+    "prefix": {
+        "text": {
+            "game_serial_number": {
+                "translation": "Код активации"
+            },
+            "game_gift_number": {
+                "translation": "Код подарка"
+            },
+            "redeem_code": {
+                "translation": "Код обмена"
+            },
+            "test": {
+                "translation": "Квалификация на тест"
+            },
+            "download": {
+                "translation": "Открыто для загрузки"
+            },
+            "open_test": {
+                "translation": "Открытое тестирование"
+            },
+            "new": {
+                "translation": "Игра запущена"
+            },
+            "new_version": {
+                "translation": "Новая версия запущена"
+            }
+        }
+    },
+    "message": {
+        "send_need_follow": {
+            "translation": "Необходимо взаимное подписка для отправки личных сообщений"
+        }
+    },
+    "obj_mapping": {
+        "topic": {
+            "translation": "Содержание"
+        },
+        "post": {
+            "translation": "Комментарий"
+        },
+        "review": {
+            "translation": "Оценка"
+        },
+        "review_comment": {
+            "translation": "Комментарий"
+        },
+        "video": {
+            "translation": "Контент"
+        },
+        "video_comment": {
+            "translation": "Комментарий"
+        },
+        "moment": {
+            "translation": "Контент"
+        },
+        "moment_comment": {
+            "translation": "Комментарий"
+        },
+        "album": {
+            "translation": "Изображение"
+        },
+        "album_comment": {
+            "translation": "Комментарий"
+        },
+        "gift": {
+            "translation": "Подарок"
+        },
+        "commentary": {
+            "translation": "Обзор"
+        },
+        "creation_post": {
+            "translation": "Пост"
+        },
+        "creation_comment": {
+            "translation": "Комментарий"
+        }
+    },
+    "title": {
+        "collect": {
+            "translation": ":member добавил в избранное ваш :obj"
+        },
+        "repost": {
+            "translation": "Перепостил ваш:obj"
+        }
+    },
+    "system_sender": {
+        "5": {
+            "name": {
+                "translation": "TapTap Лотерея Помощник"
+            },
+            "goto": {
+                "translation": "Посмотреть Лотерея Помощник"
+            }
+        },
+        "6": {
+            "name": {
+                "translation": "Уведомление о мероприятии"
+            }
+        },
+        "7": {
+            "name": {
+                "translation": "Операции с создателями"
+            }
+        },
+        "8": {
+            "name": {
+                "translation": "Выбор редакции"
+            }
+        }
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "translation": {
+            "one": "",
+            "few": "",
+            "many": "",
+            "other": ":first и :second и еще :count человек"
+        }
+    }
+}

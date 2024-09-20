@@ -1,0 +1,23 @@
+{
+    "option_text_limit": {
+        "translation": "Опция не может превышать :limit символов"
+    },
+    "hidden_reason_regulation": {
+        "translation": "Аномалия проверки содержания голосования, необходимо изменить и опубликовать заново"
+    },
+    "hidden_to_user": {
+        "translation": "Голосование пока не вступило в силу"
+    },
+    "option_len_min": {
+        "translation": "Количество опций не может быть менее 2"
+    },
+    "option_len_max": {
+        "translation": "Количество опций превышает лимит"
+    },
+    "end_time_expiration": {
+        "translation": "Пожалуйста, измените время окончания голосования"
+    },
+    "option_choice_max_limit": {
+        "translation": "Количество множественного выбора не может превышать количество опций"
+    }
+}

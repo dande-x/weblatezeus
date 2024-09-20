@@ -1,0 +1,16 @@
+{
+    "sort": {
+        "popular_replies": {
+            "translation": "Популярные ответы"
+        },
+        "earliest_replies": {
+            "translation": "Самые ранние ответы"
+        },
+        "latest_replies": {
+            "translation": "Самые последние ответы"
+        },
+        "likes_number": {
+            "translation": "Количество лайков"
+        }
+    }
+}

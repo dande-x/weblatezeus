@@ -1,0 +1,83 @@
+{
+    "login_from": {
+        "password": {
+            "translation": "Вход с помощью пароля"
+        },
+        "authorization_code": {
+            "translation": "Вход с помощью кода авторизации"
+        },
+        "social_apple": {
+            "translation": "Вход через Apple"
+        },
+        "social_facebook": {
+            "translation": "Вход через Facebook"
+        },
+        "social_google": {
+            "translation": "Вход через Google"
+        },
+        "social_line": {
+            "translation": "Вход через Line"
+        },
+        "social_naver": {
+            "translation": "Вход через Naver"
+        },
+        "social_qq": {
+            "translation": "Вход через QQ"
+        },
+        "social_wechat": {
+            "translation": "Вход через WeChat"
+        }
+    },
+    "scope": {
+        "public_profile": {
+            "translation": "Основная информация"
+        },
+        "user_friends": {
+            "translation": "Друзья"
+        },
+        "user_friends_all": {
+            "translation": "Все друзья"
+        },
+        "user_idcard": {
+            "translation": "Личная информация"
+        },
+        "compliance": {
+            "translation": "Сертификация соответствия"
+        },
+        "email": {
+            "translation": "Электронная почта"
+        },
+        "basic_info": {
+            "translation": "Основная информация"
+        },
+        "phone": {
+            "translation": "Номер телефона"
+        }
+    },
+    "scope_intro": {
+        "public_profile": {
+            "translation": "Используйте ваш никнейм и аватар TapTap"
+        },
+        "user_friends": {
+            "translation": "Используйте ваши дружеские связи в TapTap"
+        },
+        "user_friends_all": {
+            "translation": "Просматривайте и изменяйте ваши дружеские связи в TapTap"
+        },
+        "user_idcard": {
+            "translation": "Используйте вашу личную информацию"
+        },
+        "compliance": {
+            "translation": "Получите информацию о вашем возрастном диапазоне для процесса предотвращения зависимости в игре"
+        },
+        "email": {
+            "translation": "Используйте вашу электронную почту"
+        },
+        "basic_info": {
+            "translation": "Войдите с помощью вашей учетной записи TapTap"
+        },
+        "phone": {
+            "translation": "Получите ваш номер телефона для предоставления услуг"
+        }
+    }
+}

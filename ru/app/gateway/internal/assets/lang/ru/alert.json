@@ -1,0 +1,27 @@
+{
+    "button": {
+        "requeue": {
+            "translation": "Повторная очередь"
+        },
+        "cancel": {
+            "translation": "Отмена"
+        },
+        "upgrade": {
+            "translation": "Обновить до последней версии"
+        }
+    },
+    "text": {
+        "feature_need_upgrade_tap": {
+            "translation": "Необходимо обновить до последней версии TapTap, чтобы использовать эту функцию"
+        },
+        "play_games_need_upgrade_tap": {
+            "translation": "Текущая версия может иметь проблемы с этой игрой, пожалуйста, обновите клиент TapTap перед началом игры"
+        },
+        "verify_anti_addiction_in_app": {
+            "translation": "Эта игра подключена к системе предотвращения зависимости, пожалуйста, завершите проверку в игре"
+        },
+        "verified_anti_addiction": {
+            "translation": "Текущий аккаунт TapTap подтвержден как совершеннолетний, желаем вам приятной игры!"
+        }
+    }
+}

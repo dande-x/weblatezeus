@@ -1,0 +1,131 @@
+{
+    "common": {
+        "title": {
+            "translation": ""
+        },
+        "reason": {
+            "translation": ""
+        },
+        "app_info": {
+            "translation": ""
+        }
+    },
+    "client_not_support_sdk_version": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "invalid_app_info": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        }
+    },
+    "invalid_client_id": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "invalid_secret": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "invalid_client_token_sign": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "invalid_server_secret_sign": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "invalid_payment_secret_sign": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "client_region_mismatch": {
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        },
+        "message": {
+            "translation": ""
+        }
+    },
+    "description": {
+        "title": {
+            "translation": ""
+        },
+        "reason": {
+            "translation": ""
+        },
+        "app_info": {
+            "translation": ""
+        }
+    },
+    "invalid_app_package_name_or_sign": {
+        "message": {
+            "translation": ""
+        },
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        }
+    },
+    "invalid_app_bundle_id": {
+        "message": {
+            "translation": ""
+        },
+        "reason": {
+            "translation": ""
+        },
+        "resolution": {
+            "translation": ""
+        }
+    }
+}

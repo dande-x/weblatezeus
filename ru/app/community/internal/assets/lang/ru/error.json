@@ -1,0 +1,8 @@
+{
+    "internal": {
+        "translation": "Внутренняя ошибка сервера"
+    },
+    "unknown": {
+        "translation": "Неизвестная ошибка"
+    }
+}

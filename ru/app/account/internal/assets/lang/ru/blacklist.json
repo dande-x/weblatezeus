@@ -1,0 +1,8 @@
+{
+    "blacklist_count_limit": {
+        "translation": "Достигнут лимит черного списка, не удалось заблокировать"
+    },
+    "not_allow_block_self": {
+        "translation": "Нельзя заблокировать себя"
+    }
+}

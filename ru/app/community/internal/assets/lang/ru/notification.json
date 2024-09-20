@@ -1,0 +1,33 @@
+{
+    "obj_mapping": {
+        "topic": {
+            "translation": "Новости"
+        },
+        "post": {
+            "translation": "Комментарий"
+        },
+        "review": {
+            "translation": "Оценка"
+        },
+        "review_comment": {
+            "translation": "Комментарий"
+        },
+        "video": {
+            "translation": "Видео"
+        },
+        "video_comment": {
+            "translation": "Комментарий"
+        },
+        "moment": {
+            "translation": "Новости"
+        },
+        "moment_comment": {
+            "translation": "Комментарий"
+        }
+    },
+    "empty": {
+        "del_obj": {
+            "translation": "Этот контент был удален"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "upgrade_taptap_to_daily": {
+        "translation": "Обновите TapTap, чтобы получать больше времени за ежедневную регистрацию"
+    },
+    "old_version_draw_period_title": {
+        "translation": "Корректировка схемы бесплатного времени"
+    },
+    "old_version_draw_period_text": {
+        "translation": "Вам подарено:period_once часов бесплатного времени, нажмите на облачное игровое, чтобы начать игру!<br\/>PS: Обновите TapTap, чтобы получить больше времени"
+    },
+    "old_version_use_up_time_title": {
+        "translation": "Недостаточно оставшегося времени"
+    },
+    "queue_limit_title": {
+        "translation": "Количество людей в очереди превышает лимит..."
+    },
+    "queue_limit_text": {
+        "translation": "Сервер переполнен! Пожалуйста, попробуйте позже"
+    },
+    "use_up_time_title": {
+        "translation": "Сегодня время исчерпано..."
+    },
+    "use_up_time_text": {
+        "translation": "Каждый день получайте:period_daily минут бесплатного времени"
+    },
+    "queue_expired_title": {
+        "translation": "Очередь была прервана"
+    },
+    "queue_expired_text": {
+        "translation": "Вы не вошли в игру более 1 часа после последнего места в очереди, очередь автоматически вышла"
+    },
+    "start_error": {
+        "translation": "Ошибка запуска"
+    },
+    "start_failed": {
+        "translation": "Ошибка запуска облачной игры"
+    },
+    "cloud_game_closed": {
+        "translation": "Облачная игра пока не запущена"
+    },
+    "user_started": {
+        "translation": "Уже существует запущенная облачная игра"
+    },
+    "cid_closing": {
+        "translation": "Закрытие облачной игры, пожалуйста, нажмите на облачное игровое, чтобы повторить попытку"
+    },
+    "user_status_abnormal": {
+        "translation": "Аномальный статус пользователя"
+    },
+    "queue_change_app": {
+        "translation": "Игра в очереди была изменена"
+    },
+    "queue_change_device": {
+        "translation": "Устройство в очереди было изменено"
+    },
+    "queue_change_node": {
+        "translation": "Сервер был изменен"
+    },
+    "queue_change_version": {
+        "translation": "Устройство в очереди было изменено"
+    },
+    "can_not_draw_free_period": {
+        "translation": "Награды больше нет, приходите завтра～"
+    },
+    "not_supported": {
+        "translation": "Пока не поддерживается"
+    },
+    "dispatch_failed": {
+        "translation": "Ошибка распределения контейнера"
+    },
+    "not_found_node": {
+        "translation": "Текущая версия слишком старая, пожалуйста, обновите до последней версии для использования облачного игрового"
+    },
+    "select_designated_node": {
+        "translation": "Пожалуйста, выберите указанный сервер"
+    },
+    "no_available_node": {
+        "translation": "Текущая версия слишком старая, пожалуйста, обновите до последней версии для использования облачного игрового"
+    },
+    "pc_use_up_time_title": {
+        "translation": "Время игры на ПК исчерпано..."
+    }
+}

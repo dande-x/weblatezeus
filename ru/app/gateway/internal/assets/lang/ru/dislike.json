@@ -1,0 +1,78 @@
+{
+    "sentence": {
+        "dislike": {
+            "translation": "Не интересует :item"
+        },
+        "dislike_video": {
+            "translation": "Не нравится это видео"
+        },
+        "duplicate": {
+            "translation": "Повторная рекомендация\/уже рекомендовано"
+        },
+        "discomfort": {
+            "translation": "Материал вызывает дискомфорт"
+        },
+        "discomfort_content": {
+            "translation": "Контент вызывает дискомфорт"
+        },
+        "dislike_category": {
+            "translation": "Не нравится эта категория"
+        },
+        "dislike_thriller": {
+            "translation": "Не нравится игра ужасов"
+        },
+        "reduce_casual": {
+            "translation": "Сократить рекомендации казуальных игр"
+        },
+        "reduce_word": {
+            "translation": "Сократить рекомендации словесных игр"
+        },
+        "reduce_reserve": {
+            "translation": "Сократить рекомендации игр с предварительной записью"
+        },
+        "reduce": {
+            "translation": "Сократить рекомендации :item"
+        },
+        "dislike_author": {
+            "translation": "Не нравится этот автор"
+        },
+        "reduce_chess": {
+            "translation": "Сократить рекомендации шахматных игр"
+        },
+        "reduce_puzzle": {
+            "translation": "Сократить рекомендации головоломок"
+        },
+        "reduce_otome": {
+            "translation": "Сократить рекомендации игр для девушек"
+        },
+        "reduce_parkour": {
+            "translation": "Сократить рекомендации игр с паркуром"
+        },
+        "reduce_app": {
+            "translation": "Сократить рекомендации приложений"
+        },
+        "dislike_topic": {
+            "translation": "Не нравится этот графический материал"
+        }
+    },
+    "item": {
+        "game": {
+            "translation": "Игра"
+        },
+        "event": {
+            "translation": "Тематика"
+        },
+        "in_app_event": {
+            "translation": "Новая версия"
+        },
+        "craft": {
+            "translation": "Мастерская"
+        },
+        "video": {
+            "translation": "Видео"
+        },
+        "topic": {
+            "translation": "Графика"
+        }
+    }
+}
