@@ -1,0 +1,751 @@
+{
+    "name": {
+        "AC": {
+            "translation": ""
+        },
+        "AD": {
+            "translation": ""
+        },
+        "AE": {
+            "translation": ""
+        },
+        "AF": {
+            "translation": ""
+        },
+        "AG": {
+            "translation": ""
+        },
+        "AI": {
+            "translation": ""
+        },
+        "AL": {
+            "translation": ""
+        },
+        "AM": {
+            "translation": ""
+        },
+        "AO": {
+            "translation": ""
+        },
+        "AR": {
+            "translation": ""
+        },
+        "AS": {
+            "translation": ""
+        },
+        "AT": {
+            "translation": ""
+        },
+        "AU": {
+            "translation": ""
+        },
+        "AW": {
+            "translation": ""
+        },
+        "AX": {
+            "translation": ""
+        },
+        "AZ": {
+            "translation": ""
+        },
+        "BA": {
+            "translation": ""
+        },
+        "BB": {
+            "translation": ""
+        },
+        "BD": {
+            "translation": ""
+        },
+        "BE": {
+            "translation": ""
+        },
+        "BF": {
+            "translation": ""
+        },
+        "BG": {
+            "translation": ""
+        },
+        "BH": {
+            "translation": ""
+        },
+        "BI": {
+            "translation": ""
+        },
+        "BJ": {
+            "translation": ""
+        },
+        "BL": {
+            "translation": ""
+        },
+        "BM": {
+            "translation": ""
+        },
+        "BN": {
+            "translation": ""
+        },
+        "BO": {
+            "translation": ""
+        },
+        "BQ": {
+            "translation": ""
+        },
+        "BR": {
+            "translation": ""
+        },
+        "BS": {
+            "translation": ""
+        },
+        "BT": {
+            "translation": ""
+        },
+        "BW": {
+            "translation": ""
+        },
+        "BY": {
+            "translation": ""
+        },
+        "BZ": {
+            "translation": ""
+        },
+        "CA": {
+            "translation": ""
+        },
+        "CC": {
+            "translation": ""
+        },
+        "CD": {
+            "translation": ""
+        },
+        "CF": {
+            "translation": ""
+        },
+        "CG": {
+            "translation": ""
+        },
+        "CH": {
+            "translation": ""
+        },
+        "CI": {
+            "translation": ""
+        },
+        "CK": {
+            "translation": ""
+        },
+        "CL": {
+            "translation": ""
+        },
+        "CM": {
+            "translation": ""
+        },
+        "CN": {
+            "translation": ""
+        },
+        "CO": {
+            "translation": ""
+        },
+        "CR": {
+            "translation": ""
+        },
+        "CU": {
+            "translation": ""
+        },
+        "CV": {
+            "translation": ""
+        },
+        "CW": {
+            "translation": ""
+        },
+        "CX": {
+            "translation": ""
+        },
+        "CY": {
+            "translation": ""
+        },
+        "CZ": {
+            "translation": ""
+        },
+        "DE": {
+            "translation": ""
+        },
+        "DG": {
+            "translation": ""
+        },
+        "DJ": {
+            "translation": ""
+        },
+        "DK": {
+            "translation": ""
+        },
+        "DM": {
+            "translation": ""
+        },
+        "DO": {
+            "translation": ""
+        },
+        "DZ": {
+            "translation": ""
+        },
+        "EA": {
+            "translation": ""
+        },
+        "EC": {
+            "translation": ""
+        },
+        "EE": {
+            "translation": ""
+        },
+        "EG": {
+            "translation": ""
+        },
+        "EH": {
+            "translation": ""
+        },
+        "ER": {
+            "translation": ""
+        },
+        "ES": {
+            "translation": ""
+        },
+        "ET": {
+            "translation": ""
+        },
+        "FI": {
+            "translation": ""
+        },
+        "FJ": {
+            "translation": ""
+        },
+        "FK": {
+            "translation": ""
+        },
+        "FM": {
+            "translation": ""
+        },
+        "FO": {
+            "translation": ""
+        },
+        "FR": {
+            "translation": ""
+        },
+        "GA": {
+            "translation": ""
+        },
+        "GB": {
+            "translation": ""
+        },
+        "GD": {
+            "translation": ""
+        },
+        "GE": {
+            "translation": ""
+        },
+        "GF": {
+            "translation": ""
+        },
+        "GG": {
+            "translation": ""
+        },
+        "GH": {
+            "translation": ""
+        },
+        "GI": {
+            "translation": ""
+        },
+        "GL": {
+            "translation": ""
+        },
+        "GM": {
+            "translation": ""
+        },
+        "GN": {
+            "translation": ""
+        },
+        "GP": {
+            "translation": ""
+        },
+        "GQ": {
+            "translation": ""
+        },
+        "GR": {
+            "translation": ""
+        },
+        "GT": {
+            "translation": ""
+        },
+        "GU": {
+            "translation": ""
+        },
+        "GW": {
+            "translation": ""
+        },
+        "GY": {
+            "translation": ""
+        },
+        "HK": {
+            "translation": ""
+        },
+        "HN": {
+            "translation": ""
+        },
+        "HR": {
+            "translation": ""
+        },
+        "HT": {
+            "translation": ""
+        },
+        "HU": {
+            "translation": ""
+        },
+        "IC": {
+            "translation": ""
+        },
+        "ID": {
+            "translation": ""
+        },
+        "IE": {
+            "translation": ""
+        },
+        "IL": {
+            "translation": ""
+        },
+        "IM": {
+            "translation": ""
+        },
+        "IN": {
+            "translation": ""
+        },
+        "IO": {
+            "translation": ""
+        },
+        "IQ": {
+            "translation": ""
+        },
+        "IR": {
+            "translation": ""
+        },
+        "IS": {
+            "translation": ""
+        },
+        "IT": {
+            "translation": ""
+        },
+        "JE": {
+            "translation": ""
+        },
+        "JM": {
+            "translation": ""
+        },
+        "JO": {
+            "translation": ""
+        },
+        "JP": {
+            "translation": ""
+        },
+        "KE": {
+            "translation": ""
+        },
+        "KG": {
+            "translation": ""
+        },
+        "KH": {
+            "translation": ""
+        },
+        "KI": {
+            "translation": ""
+        },
+        "KM": {
+            "translation": ""
+        },
+        "KN": {
+            "translation": ""
+        },
+        "KP": {
+            "translation": ""
+        },
+        "KR": {
+            "translation": ""
+        },
+        "KW": {
+            "translation": ""
+        },
+        "KY": {
+            "translation": ""
+        },
+        "KZ": {
+            "translation": ""
+        },
+        "LA": {
+            "translation": ""
+        },
+        "LB": {
+            "translation": ""
+        },
+        "LC": {
+            "translation": ""
+        },
+        "LI": {
+            "translation": ""
+        },
+        "LK": {
+            "translation": ""
+        },
+        "LR": {
+            "translation": ""
+        },
+        "LS": {
+            "translation": ""
+        },
+        "LT": {
+            "translation": ""
+        },
+        "LU": {
+            "translation": ""
+        },
+        "LV": {
+            "translation": ""
+        },
+        "LY": {
+            "translation": ""
+        },
+        "MA": {
+            "translation": ""
+        },
+        "MC": {
+            "translation": ""
+        },
+        "MD": {
+            "translation": ""
+        },
+        "ME": {
+            "translation": ""
+        },
+        "MF": {
+            "translation": ""
+        },
+        "MG": {
+            "translation": ""
+        },
+        "MH": {
+            "translation": ""
+        },
+        "MK": {
+            "translation": ""
+        },
+        "ML": {
+            "translation": ""
+        },
+        "MM": {
+            "translation": ""
+        },
+        "MN": {
+            "translation": ""
+        },
+        "MO": {
+            "translation": ""
+        },
+        "MP": {
+            "translation": ""
+        },
+        "MQ": {
+            "translation": ""
+        },
+        "MR": {
+            "translation": ""
+        },
+        "MS": {
+            "translation": ""
+        },
+        "MT": {
+            "translation": ""
+        },
+        "MU": {
+            "translation": ""
+        },
+        "MV": {
+            "translation": ""
+        },
+        "MW": {
+            "translation": ""
+        },
+        "MX": {
+            "translation": ""
+        },
+        "MY": {
+            "translation": ""
+        },
+        "MZ": {
+            "translation": ""
+        },
+        "NA": {
+            "translation": ""
+        },
+        "NC": {
+            "translation": ""
+        },
+        "NE": {
+            "translation": ""
+        },
+        "NF": {
+            "translation": ""
+        },
+        "NG": {
+            "translation": ""
+        },
+        "NI": {
+            "translation": ""
+        },
+        "NL": {
+            "translation": ""
+        },
+        "NO": {
+            "translation": ""
+        },
+        "NP": {
+            "translation": ""
+        },
+        "NR": {
+            "translation": ""
+        },
+        "NU": {
+            "translation": ""
+        },
+        "NZ": {
+            "translation": ""
+        },
+        "OM": {
+            "translation": ""
+        },
+        "PA": {
+            "translation": ""
+        },
+        "PE": {
+            "translation": ""
+        },
+        "PF": {
+            "translation": ""
+        },
+        "PG": {
+            "translation": ""
+        },
+        "PH": {
+            "translation": ""
+        },
+        "PK": {
+            "translation": ""
+        },
+        "PL": {
+            "translation": ""
+        },
+        "PM": {
+            "translation": ""
+        },
+        "PN": {
+            "translation": ""
+        },
+        "PR": {
+            "translation": ""
+        },
+        "PS": {
+            "translation": ""
+        },
+        "PT": {
+            "translation": ""
+        },
+        "PW": {
+            "translation": ""
+        },
+        "PY": {
+            "translation": ""
+        },
+        "QA": {
+            "translation": ""
+        },
+        "RE": {
+            "translation": ""
+        },
+        "RO": {
+            "translation": ""
+        },
+        "RS": {
+            "translation": ""
+        },
+        "RU": {
+            "translation": ""
+        },
+        "RW": {
+            "translation": ""
+        },
+        "SA": {
+            "translation": ""
+        },
+        "SB": {
+            "translation": ""
+        },
+        "SC": {
+            "translation": ""
+        },
+        "SD": {
+            "translation": ""
+        },
+        "SE": {
+            "translation": ""
+        },
+        "SG": {
+            "translation": ""
+        },
+        "SH": {
+            "translation": ""
+        },
+        "SI": {
+            "translation": ""
+        },
+        "SJ": {
+            "translation": ""
+        },
+        "SK": {
+            "translation": ""
+        },
+        "SL": {
+            "translation": ""
+        },
+        "SM": {
+            "translation": ""
+        },
+        "SN": {
+            "translation": ""
+        },
+        "SO": {
+            "translation": ""
+        },
+        "SR": {
+            "translation": ""
+        },
+        "SS": {
+            "translation": ""
+        },
+        "ST": {
+            "translation": ""
+        },
+        "SV": {
+            "translation": ""
+        },
+        "SX": {
+            "translation": ""
+        },
+        "SY": {
+            "translation": ""
+        },
+        "SZ": {
+            "translation": ""
+        },
+        "TC": {
+            "translation": ""
+        },
+        "TD": {
+            "translation": ""
+        },
+        "TF": {
+            "translation": ""
+        },
+        "TG": {
+            "translation": ""
+        },
+        "TH": {
+            "translation": ""
+        },
+        "TJ": {
+            "translation": ""
+        },
+        "TK": {
+            "translation": ""
+        },
+        "TL": {
+            "translation": ""
+        },
+        "TM": {
+            "translation": ""
+        },
+        "TN": {
+            "translation": ""
+        },
+        "TO": {
+            "translation": ""
+        },
+        "TR": {
+            "translation": ""
+        },
+        "TT": {
+            "translation": ""
+        },
+        "TV": {
+            "translation": ""
+        },
+        "TW": {
+            "translation": ""
+        },
+        "TZ": {
+            "translation": ""
+        },
+        "UA": {
+            "translation": ""
+        },
+        "UG": {
+            "translation": ""
+        },
+        "US": {
+            "translation": ""
+        },
+        "UY": {
+            "translation": ""
+        },
+        "UZ": {
+            "translation": ""
+        },
+        "VA": {
+            "translation": ""
+        },
+        "VC": {
+            "translation": ""
+        },
+        "VE": {
+            "translation": ""
+        },
+        "VG": {
+            "translation": ""
+        },
+        "VI": {
+            "translation": ""
+        },
+        "VN": {
+            "translation": ""
+        },
+        "VU": {
+            "translation": ""
+        },
+        "WF": {
+            "translation": ""
+        },
+        "WS": {
+            "translation": ""
+        },
+        "XK": {
+            "translation": ""
+        },
+        "YE": {
+            "translation": ""
+        },
+        "YT": {
+            "translation": ""
+        },
+        "ZA": {
+            "translation": ""
+        },
+        "ZM": {
+            "translation": ""
+        },
+        "ZW": {
+            "translation": ""
+        }
+    }
+}

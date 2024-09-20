@@ -1,0 +1,78 @@
+{
+    "sentence": {
+        "dislike": {
+            "translation": ""
+        },
+        "dislike_video": {
+            "translation": ""
+        },
+        "duplicate": {
+            "translation": ""
+        },
+        "discomfort": {
+            "translation": ""
+        },
+        "discomfort_content": {
+            "translation": ""
+        },
+        "dislike_category": {
+            "translation": ""
+        },
+        "dislike_thriller": {
+            "translation": ""
+        },
+        "reduce_casual": {
+            "translation": ""
+        },
+        "reduce_word": {
+            "translation": ""
+        },
+        "reduce_reserve": {
+            "translation": ""
+        },
+        "reduce": {
+            "translation": ""
+        },
+        "dislike_author": {
+            "translation": ""
+        },
+        "reduce_chess": {
+            "translation": ""
+        },
+        "reduce_puzzle": {
+            "translation": ""
+        },
+        "reduce_otome": {
+            "translation": ""
+        },
+        "reduce_parkour": {
+            "translation": ""
+        },
+        "reduce_app": {
+            "translation": ""
+        },
+        "dislike_topic": {
+            "translation": ""
+        }
+    },
+    "item": {
+        "game": {
+            "translation": ""
+        },
+        "event": {
+            "translation": ""
+        },
+        "in_app_event": {
+            "translation": ""
+        },
+        "craft": {
+            "translation": ""
+        },
+        "video": {
+            "translation": ""
+        },
+        "topic": {
+            "translation": ""
+        }
+    }
+}

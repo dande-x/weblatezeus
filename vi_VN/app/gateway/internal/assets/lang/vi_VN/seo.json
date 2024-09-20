@@ -1,0 +1,41 @@
+{
+    "rankings": {
+        "android": {
+            "exclusive": {
+                "description": {
+                    "translation": ""
+                },
+                "keywords": {
+                    "translation": ""
+                },
+                "title": {
+                    "translation": ""
+                }
+            },
+            "intl": {
+                "beta": {
+                    "description": {
+                        "translation": ""
+                    },
+                    "keywords": {
+                        "translation": ""
+                    },
+                    "title": {
+                        "translation": ""
+                    }
+                },
+                "weekly": {
+                    "description": {
+                        "translation": ""
+                    },
+                    "keywords": {
+                        "translation": ""
+                    },
+                    "title": {
+                        "translation": ""
+                    }
+                }
+            }
+        }
+    }
+}

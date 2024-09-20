@@ -1,0 +1,25 @@
+{
+    "invitation": {
+        "cannot_help_self": {
+            "translation": ""
+        },
+        "already_help_user": {
+            "translation": ""
+        },
+        "limit_help_count": {
+            "translation": ""
+        },
+        "limit_user_helped_count": {
+            "translation": ""
+        },
+        "code_notfound": {
+            "translation": ""
+        }
+    },
+    "activity_not_start": {
+        "translation": ""
+    },
+    "activity_finished": {
+        "translation": ""
+    }
+}

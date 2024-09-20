@@ -1,0 +1,24 @@
+{
+    "custom": {
+        "email_address": {
+            "translation": ""
+        }
+    },
+    "field": {
+        "email_address": {
+            "translation": ""
+        },
+        "email_code": {
+            "translation": ""
+        },
+        "phone_code": {
+            "translation": ""
+        },
+        "phone_number": {
+            "translation": ""
+        }
+    },
+    "required": {
+        "translation": ""
+    }
+}

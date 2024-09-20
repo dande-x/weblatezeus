@@ -1,0 +1,35 @@
+{
+    "unknown": {
+        "translation": ""
+    },
+    "internal": {
+        "translation": ""
+    },
+    "invalid_openid": {
+        "translation": ""
+    },
+    "invalid_access_token": {
+        "translation": ""
+    },
+    "user_session_key_not_found": {
+        "translation": ""
+    },
+    "miniapp_not_found": {
+        "translation": ""
+    },
+    "invalid_session_code": {
+        "translation": ""
+    },
+    "invalid_version": {
+        "translation": ""
+    },
+    "miniapp_developer_exceed_limit": {
+        "translation": ""
+    },
+    "miniapp_developer_already_exists": {
+        "translation": ""
+    },
+    "develop_permission_required": {
+        "translation": ""
+    }
+}

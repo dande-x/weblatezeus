@@ -1,0 +1,26 @@
+{
+    "config_not_found": {
+        "translation": ""
+    },
+    "team_is_full": {
+        "translation": ""
+    },
+    "team_not_found": {
+        "translation": ""
+    },
+    "join_condition_not_match": {
+        "translation": ""
+    },
+    "exist_team": {
+        "translation": ""
+    },
+    "create_condition_not_match": {
+        "translation": ""
+    },
+    "user_has_team": {
+        "translation": ""
+    },
+    "user_already_in_team": {
+        "translation": ""
+    }
+}

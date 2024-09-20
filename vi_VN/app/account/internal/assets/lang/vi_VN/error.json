@@ -1,0 +1,277 @@
+{
+    "account_has_been_activated": {
+        "translation": ""
+    },
+    "account_is_deleted": {
+        "translation": ""
+    },
+    "account_is_deactivated": {
+        "translation": ""
+    },
+    "account_not_found_or_deleted": {
+        "translation": ""
+    },
+    "can_not_unbind_phone": {
+        "translation": ""
+    },
+    "can_not_unbind_phone_for_intl": {
+        "translation": ""
+    },
+    "can_not_unbind_social": {
+        "translation": ""
+    },
+    "can_not_unbind_social_for_intl": {
+        "translation": ""
+    },
+    "can_not_unbind_email": {
+        "translation": ""
+    },
+    "captcha": {
+        "invalid_code": {
+            "translation": ""
+        },
+        "retry_after_seconds": {
+            "translation": ""
+        },
+        "too_many_attempts": {
+            "translation": ""
+        }
+    },
+    "client_test_users_limit": {
+        "translation": ""
+    },
+    "cn_block_intl": {
+        "translation": ""
+    },
+    "do_not_register": {
+        "translation": ""
+    },
+    "email_has_been_register_user_id_is": {
+        "translation": ""
+    },
+    "email_is_exists": {
+        "translation": ""
+    },
+    "email_unregistered": {
+        "translation": ""
+    },
+    "function_upgrade": {
+        "translation": ""
+    },
+    "has_bind_another_account_please_login_use_it": {
+        "translation": ""
+    },
+    "has_bind_cn_block_intl": {
+        "translation": ""
+    },
+    "has_bind_intl_block_cn": {
+        "translation": ""
+    },
+    "internal": {
+        "translation": ""
+    },
+    "intl_block_cn": {
+        "translation": ""
+    },
+    "invalid_bundle_id": {
+        "translation": ""
+    },
+    "invalid_domain": {
+        "translation": ""
+    },
+    "invalid_email": {
+        "translation": ""
+    },
+    "invalid_email_suggestion": {
+        "translation": ""
+    },
+    "invalid_package_name": {
+        "translation": ""
+    },
+    "invalid_package_sign": {
+        "translation": ""
+    },
+    "invalid_password": {
+        "translation": ""
+    },
+    "invalid_phone_number": {
+        "translation": ""
+    },
+    "no_supported_phone_for_this_region": {
+        "translation": ""
+    },
+    "invalid_request": {
+        "translation": ""
+    },
+    "invalid_time": {
+        "translation": ""
+    },
+    "keep_one_login_method": {
+        "translation": ""
+    },
+    "line_login_or_bind_disabled": {
+        "translation": ""
+    },
+    "login_method_exists_and_user_deactivated": {
+        "translation": ""
+    },
+    "login_session_has_expired": {
+        "translation": ""
+    },
+    "overseas_user_unable_to_login": {
+        "translation": ""
+    },
+    "page_has_expired": {
+        "translation": ""
+    },
+    "password_unregistered": {
+        "translation": ""
+    },
+    "permission_denied": {
+        "translation": ""
+    },
+    "phone_can_not_be_merged": {
+        "translation": ""
+    },
+    "phone_is_banned": {
+        "translation": ""
+    },
+    "phone_is_bound": {
+        "translation": ""
+    },
+    "phone_is_exists": {
+        "translation": ""
+    },
+    "phone_unregistered": {
+        "translation": ""
+    },
+    "phone_verify_unregistered": {
+        "translation": ""
+    },
+    "platforms_package_limit": {
+        "translation": ""
+    },
+    "product_banned": {
+        "translation": ""
+    },
+    "product_disabled": {
+        "translation": ""
+    },
+    "product_is_not_banned": {
+        "translation": ""
+    },
+    "product_was_not_enabled": {
+        "translation": ""
+    },
+    "register_forbidden": {
+        "translation": ""
+    },
+    "register_forbidden_for_age": {
+        "translation": ""
+    },
+    "repeat_bundle_id": {
+        "translation": ""
+    },
+    "repeat_package_name": {
+        "translation": ""
+    },
+    "session_has_expired": {
+        "translation": ""
+    },
+    "social_is_banned": {
+        "translation": ""
+    },
+    "social_is_exists": {
+        "translation": ""
+    },
+    "social_unregistered": {
+        "translation": ""
+    },
+    "system_upgrade_profile_update_forbidden": {
+        "translation": ""
+    },
+    "system_upgrade_register_forbidden": {
+        "translation": ""
+    },
+    "the_email_registered": {
+        "translation": ""
+    },
+    "the_password_registered": {
+        "translation": ""
+    },
+    "the_phone_registered": {
+        "translation": ""
+    },
+    "the_social_registered": {
+        "translation": ""
+    },
+    "union_arrears": {
+        "translation": ""
+    },
+    "unknown": {
+        "translation": ""
+    },
+    "user_bound_phone_number": {
+        "translation": ""
+    },
+    "user_disabled_until_time": {
+        "translation": ""
+    },
+    "user_have_not_bound_phone_number": {
+        "translation": ""
+    },
+    "user_is_banned": {
+        "translation": ""
+    },
+    "user_is_disabled": {
+        "translation": ""
+    },
+    "user_is_not_deactivated": {
+        "translation": ""
+    },
+    "you_have_linked_your_email": {
+        "translation": ""
+    },
+    "you_have_linked_your_phone": {
+        "translation": ""
+    },
+    "you_have_not_link_your_email": {
+        "translation": ""
+    },
+    "email_activated": {
+        "translation": ""
+    },
+    "email_unactivated": {
+        "translation": ""
+    },
+    "you_have_not_link_your_phone": {
+        "translation": ""
+    },
+    "password_cannot_empty": {
+        "translation": ""
+    },
+    "get_mobile_failed": {
+        "translation": ""
+    },
+    "new_password_is_eq_old": {
+        "translation": ""
+    },
+    "please_upgrade_client": {
+        "translation": ""
+    },
+    "can_not_deactivate_user": {
+        "translation": ""
+    },
+    "no_supported_email": {
+        "translation": ""
+    },
+    "disable_suffix_email_hmledu": {
+        "translation": ""
+    },
+    "phone_not_supported_for_intl": {
+        "translation": ""
+    },
+    "client_request_scopes_not_allowed": {
+        "translation": ""
+    }
+}

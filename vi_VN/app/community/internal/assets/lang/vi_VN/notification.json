@@ -1,0 +1,33 @@
+{
+    "obj_mapping": {
+        "topic": {
+            "translation": ""
+        },
+        "post": {
+            "translation": ""
+        },
+        "review": {
+            "translation": ""
+        },
+        "review_comment": {
+            "translation": ""
+        },
+        "video": {
+            "translation": ""
+        },
+        "video_comment": {
+            "translation": ""
+        },
+        "moment": {
+            "translation": ""
+        },
+        "moment_comment": {
+            "translation": ""
+        }
+    },
+    "empty": {
+        "del_obj": {
+            "translation": ""
+        }
+    }
+}

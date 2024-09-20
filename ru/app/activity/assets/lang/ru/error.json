@@ -1,0 +1,30 @@
+{
+    "internal": {
+        "translation": "Внутренняя ошибка сервера"
+    },
+    "network_error": {
+        "translation": "Сетевая задержка, пожалуйста, попробуйте снова"
+    },
+    "task": {
+        "not_started": {
+            "translation": "Задание не начато"
+        },
+        "not_finished": {
+            "translation": "Задание не завершено"
+        },
+        "expired": {
+            "translation": "Срок выполнения задания истек"
+        },
+        "generate_invite_code_failed": {
+            "translation": "Ошибка генерации кода приглашения"
+        },
+        "already_finished": {
+            "translation": "Задание уже завершено"
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": "Недостаточно баллов"
+        }
+    }
+}

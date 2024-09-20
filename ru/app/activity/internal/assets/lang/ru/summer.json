@@ -1,0 +1,25 @@
+{
+    "invitation": {
+        "cannot_help_self": {
+            "translation": "Невозможно помочь себе"
+        },
+        "already_help_user": {
+            "translation": "Уже помогли этому пользователю"
+        },
+        "limit_help_count": {
+            "translation": "Сегодняшнее количество помощи достигло лимита, приходите завтра~"
+        },
+        "limit_user_helped_count": {
+            "translation": "Слишком много людей уже помогли вашему другу, приходите завтра~"
+        },
+        "code_notfound": {
+            "translation": "Код приглашения неверен, пожалуйста, введите его снова"
+        }
+    },
+    "activity_not_start": {
+        "translation": "Мероприятие не началось"
+    },
+    "activity_finished": {
+        "translation": "Мероприятие завершено"
+    }
+}

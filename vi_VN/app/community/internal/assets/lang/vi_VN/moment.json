@@ -1,0 +1,13 @@
+{
+    "schedule_publish": {
+        "time_min_limit": {
+            "translation": ""
+        },
+        "cannot_set_time_already_publish": {
+            "translation": ""
+        },
+        "cannot_cancel_already_publish": {
+            "translation": ""
+        }
+    }
+}

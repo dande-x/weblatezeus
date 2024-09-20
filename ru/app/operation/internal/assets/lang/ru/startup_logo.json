@@ -1,0 +1,13 @@
+{
+    "interface": {
+        "uri_title": {
+            "translation": "Нажмите, чтобы перейти на страницу деталей"
+        },
+        "skip_ads_title": {
+            "translation": "Пропустить рекламу %d"
+        },
+        "skip_title": {
+            "translation": "Пропустить %d"
+        }
+    }
+}

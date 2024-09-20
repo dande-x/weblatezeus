@@ -1,0 +1,74 @@
+{
+    "notification.title.up": {
+        "translation": ""
+    },
+    "notification.title.reply": {
+        "translation": ""
+    },
+    "error.internal": {
+        "translation": ""
+    },
+    "error.unknown": {
+        "translation": ""
+    },
+    "developer.errors.topic_not_exists": {
+        "translation": ""
+    },
+    "developer.errors.video_not_exists": {
+        "translation": ""
+    },
+    "developer.errors.moment_not_exists": {
+        "translation": ""
+    },
+    "developer.errors.invalid_url": {
+        "translation": ""
+    },
+    "developer.errors.inner_app_moment.topic_not_ready": {
+        "translation": ""
+    },
+    "developer.errors.video_not_ready": {
+        "translation": ""
+    },
+    "developer.errors.inner_app_moment.over_online_rec_limit": {
+        "translation": ""
+    },
+    "interface.word.all": {
+        "translation": ""
+    },
+    "interface.word.official": {
+        "translation": ""
+    },
+    "interface.word.elite": {
+        "translation": ""
+    },
+    "interface.word.video": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.detail": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.version": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.group_tag": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.strategy": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.puzzle": {
+        "translation": ""
+    },
+    "developer.forum.tapitk.inner_app_type.game_set": {
+        "translation": ""
+    },
+    "developer.errors.inner_app_moment.url_not_effective": {
+        "translation": ""
+    },
+    "developer.errors.inner_app_moment.url_not_support": {
+        "translation": ""
+    },
+    "notification.title.collect": {
+        "translation": ""
+    }
+}

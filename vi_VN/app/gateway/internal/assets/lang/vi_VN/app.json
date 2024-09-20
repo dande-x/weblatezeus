@@ -1,0 +1,209 @@
+{
+    "button_label": {
+        "play_booster": {
+            "translation": ""
+        },
+        "open_with_cloud": {
+            "translation": ""
+        },
+        "open_with_sandbox": {
+            "translation": ""
+        },
+        "device_not_supported": {
+            "translation": ""
+        },
+        "participate_test": {
+            "translation": ""
+        },
+        "has_recruit": {
+            "translation": ""
+        },
+        "recruit_test": {
+            "translation": ""
+        },
+        "pre_download": {
+            "translation": ""
+        }
+    },
+    "information": {
+        "developer_legal": {
+            "translation": ""
+        },
+        "unified_social_credit_identifier": {
+            "translation": ""
+        },
+        "released_date": {
+            "translation": ""
+        },
+        "platform": {
+            "translation": ""
+        }
+    },
+    "highlight": {
+        "no_ad": {
+            "translation": ""
+        },
+        "no_purchase": {
+            "translation": ""
+        }
+    },
+    "security_badge": {
+        "has_official": {
+            "label": {
+                "translation": ""
+            },
+            "description": {
+                "translation": ""
+            }
+        },
+        "tap_certificate": {
+            "label": {
+                "translation": ""
+            },
+            "description": {
+                "translation": ""
+            }
+        },
+        "fast_login": {
+            "label": {
+                "translation": ""
+            },
+            "description": {
+                "translation": ""
+            }
+        },
+        "security": {
+            "label": {
+                "translation": ""
+            },
+            "description": {
+                "translation": ""
+            },
+            "no_virus": {
+                "translation": ""
+            },
+            "no_vulnerability": {
+                "translation": ""
+            }
+        },
+        "privacy_compliance": {
+            "label": {
+                "translation": ""
+            },
+            "description": {
+                "translation": ""
+            }
+        }
+    },
+    "stat": {
+        "downloads": {
+            "translation": ""
+        },
+        "hits": {
+            "translation": ""
+        },
+        "followers": {
+            "translation": ""
+        }
+    },
+    "library": {
+        "discovery": {
+            "category": {
+                "translation": ""
+            },
+            "tap_feature": {
+                "translation": ""
+            },
+            "apk_size": {
+                "translation": ""
+            },
+            "run_environment": {
+                "translation": ""
+            },
+            "download_local": {
+                "translation": ""
+            },
+            "no_32bits_game_assistant": {
+                "translation": ""
+            },
+            "unlimited": {
+                "translation": ""
+            },
+            "status_closed": {
+                "translation": ""
+            },
+            "status_download": {
+                "translation": ""
+            },
+            "status_paid": {
+                "translation": ""
+            }
+        }
+    },
+    "accident": {
+        "label": {
+            "translation": ""
+        }
+    },
+    "reserve": {
+        "close_auto_download": {
+            "translation": ""
+        }
+    },
+    "announcement_period": {
+        "alter": {
+            "title": {
+                "translation": ""
+            },
+            "content": {
+                "translation": ""
+            }
+        }
+    },
+    "app_event": {
+        "debut": {
+            "translation": ""
+        },
+        "beta": {
+            "translation": ""
+        },
+        "update": {
+            "translation": ""
+        },
+        "reserve": {
+            "translation": ""
+        },
+        "showcase": {
+            "translation": ""
+        },
+        "gameplay_reveal": {
+            "translation": ""
+        },
+        "recruitment": {
+            "translation": ""
+        },
+        "limited_time_free": {
+            "translation": ""
+        },
+        "limited_time_discount": {
+            "translation": ""
+        },
+        "gift_code": {
+            "translation": ""
+        },
+        "event": {
+            "translation": ""
+        },
+        "livestream": {
+            "translation": ""
+        }
+    },
+    "env_type": {
+        "beta": {
+            "translation": ""
+        },
+        "preview": {
+            "translation": ""
+        }
+    }
+}

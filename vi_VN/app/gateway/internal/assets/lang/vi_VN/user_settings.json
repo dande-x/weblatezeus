@@ -1,0 +1,24 @@
+{
+    "notification_collect": {
+        "title": {
+            "translation": ""
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_played_to_review": {
+        "title": {
+            "translation": ""
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_game_of_the_day": {
+        "translation": ""
+    },
+    "notification_personalized_recommendations": {
+        "translation": ""
+    }
+}

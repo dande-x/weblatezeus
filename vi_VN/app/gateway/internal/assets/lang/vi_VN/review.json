@@ -1,0 +1,80 @@
+{
+    "zuiti": {
+        "reason": {
+            "translation": ""
+        },
+        "reason_content": {
+            "translation": ""
+        },
+        "reasons": {
+            "0": {
+                "translation": ""
+            },
+            "1": {
+                "translation": ""
+            },
+            "2": {
+                "translation": ""
+            }
+        },
+        "contents": {
+            "0": {
+                "translation": ""
+            },
+            "1": {
+                "translation": ""
+            },
+            "2": {
+                "translation": ""
+            }
+        }
+    },
+    "label": {
+        "accident": {
+            "translation": ""
+        },
+        "abnormal_reason": {
+            "1": {
+                "translation": ""
+            },
+            "2": {
+                "translation": ""
+            },
+            "3": {
+                "translation": ""
+            }
+        }
+    },
+    "admin_collapsed_reasons": {
+        "0": {
+            "translation": ""
+        },
+        "1": {
+            "translation": ""
+        },
+        "2": {
+            "translation": ""
+        },
+        "3": {
+            "translation": ""
+        },
+        "4": {
+            "translation": ""
+        },
+        "5": {
+            "translation": ""
+        },
+        "6": {
+            "translation": ""
+        },
+        "7": {
+            "translation": ""
+        },
+        "8": {
+            "translation": ""
+        },
+        "9": {
+            "translation": ""
+        }
+    }
+}

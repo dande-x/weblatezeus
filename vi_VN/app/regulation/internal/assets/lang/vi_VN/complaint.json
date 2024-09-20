@@ -1,0 +1,28 @@
+{
+    "resolve_type": {
+        "normal      ": {
+            "translation": ""
+        },
+        "ban         ": {
+            "translation": ""
+        },
+        "delete      ": {
+            "translation": ""
+        },
+        "collapsed   ": {
+            "translation": ""
+        },
+        "ignore      ": {
+            "translation": ""
+        },
+        "hidden      ": {
+            "translation": ""
+        },
+        "silent      ": {
+            "translation": ""
+        },
+        "self_deleted": {
+            "translation": ""
+        }
+    }
+}

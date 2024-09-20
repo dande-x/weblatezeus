@@ -1,0 +1,52 @@
+{
+    "bottom": {
+        "text": {
+            "translation": ""
+        }
+    },
+    "confirm_email": {
+        "button1": {
+            "text": {
+                "translation": ""
+            }
+        },
+        "button2": {
+            "text": {
+                "translation": ""
+            }
+        },
+        "content_text1": {
+            "translation": ""
+        },
+        "content_text2": {
+            "translation": ""
+        },
+        "content_text3": {
+            "translation": ""
+        },
+        "content_title": {
+            "translation": ""
+        },
+        "text1": {
+            "translation": ""
+        }
+    },
+    "download_button": {
+        "text": {
+            "translation": ""
+        }
+    },
+    "taptap": {
+        "text": {
+            "translation": ""
+        }
+    },
+    "unsubscribe": {
+        "translation": ""
+    },
+    "welcome": {
+        "title": {
+            "translation": ""
+        }
+    }
+}

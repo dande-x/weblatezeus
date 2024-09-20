@@ -1,0 +1,32 @@
+{
+    "refund_apply": {
+        "label": {
+            "awaiting": {
+                "translation": ""
+            },
+            "cancel": {
+                "translation": ""
+            },
+            "declined": {
+                "translation": ""
+            },
+            "failed": {
+                "translation": ""
+            },
+            "refunded": {
+                "translation": ""
+            },
+            "submitted": {
+                "translation": ""
+            }
+        },
+        "text": {
+            "failed": {
+                "translation": ""
+            },
+            "refunded": {
+                "translation": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "prize_un_limit_total": {
+        "translation": "Общее количество этого приза не ограничено"
+    },
+    "no_stock": {
+        "translation": "Недостаточно запасов призов"
+    },
+    "livelink": {
+        "flow_invalid": {
+            "translation": "Недействительный livelink процесс"
+        },
+        "not_found_group": {
+            "translation": "Группа livelink не найдена"
+        },
+        "exist_group": {
+            "translation": "Группа livelink уже существует"
+        }
+    },
+    "not_found_goods_prize": {
+        "translation": "В этом мероприятии не предусмотрены физические призы, невозможно экспортировать список победителей."
+    }
+}

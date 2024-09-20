@@ -1,0 +1,25 @@
+{
+    "vote_not_start": {
+        "translation": ""
+    },
+    "vote_end": {
+        "translation": ""
+    },
+    "already_voted": {
+        "translation": ""
+    },
+    "no_publish": {
+        "translation": ""
+    },
+    "game_award": {
+        "exhausted": {
+            "translation": ""
+        },
+        "app_voted": {
+            "translation": ""
+        },
+        "app_not_found": {
+            "translation": ""
+        }
+    }
+}

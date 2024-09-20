@@ -1,0 +1,35 @@
+{
+    "BLOCKLIST_ALREADY_EXISTS": {
+        "translation": ""
+    },
+    "CAPTCHA_FAILED": {
+        "translation": ""
+    },
+    "FRIEND_ALREADY_FOLLOWED": {
+        "translation": ""
+    },
+    "IDCARD_ALREADY_EXISTS": {
+        "translation": ""
+    },
+    "INSUFFICIENT_PRODUCT": {
+        "translation": ""
+    },
+    "NEEDS_CAPTCHA": {
+        "translation": ""
+    },
+    "USER_IS_DEACTIVATED": {
+        "translation": ""
+    },
+    "USER_IS_NOT_QUALIFIED": {
+        "translation": ""
+    },
+    "COMPLIANCE_TEST_WRONG_CLIENT": {
+        "translation": ""
+    },
+    "APP_TEST_USER_IS_NOT_QUALIFIED": {
+        "translation": ""
+    },
+    "APP_TEST_NOT_WITHIN_DURATION": {
+        "translation": ""
+    }
+}

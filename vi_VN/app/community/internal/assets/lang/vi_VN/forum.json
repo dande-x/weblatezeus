@@ -1,0 +1,27 @@
+{
+    "permission": {
+        "silence": {
+            "translation": ""
+        }
+    },
+    "management": {
+        "involving_ads": {
+            "translation": ""
+        },
+        "involving_rules": {
+            "translation": ""
+        },
+        "involving_infringement": {
+            "translation": ""
+        },
+        "too_early": {
+            "translation": ""
+        },
+        "battle": {
+            "translation": ""
+        },
+        "other": {
+            "translation": ""
+        }
+    }
+}

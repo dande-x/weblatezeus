@@ -1,0 +1,11 @@
+{
+    "remain_fail": {
+        "translation": "Больше нет попыток для розыгрыша"
+    },
+    "lottery_not_start": {
+        "translation": "Розыгрыш начнется в:time"
+    },
+    "lottery_end": {
+        "translation": "Розыгрыш завершен"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "email": {
+        "title": {
+            "translation": ""
+        },
+        "hello_text": {
+            "translation": ""
+        },
+        "content_text": {
+            "translation": ""
+        },
+        "btn_text": {
+            "translation": ""
+        },
+        "warning_text": {
+            "translation": ""
+        },
+        "noreply_text": {
+            "translation": ""
+        }
+    },
+    "userinfo_nickname": {
+        "translation": ""
+    },
+    "userinfo_avatar": {
+        "translation": ""
+    },
+    "userinfo_wechat": {
+        "translation": ""
+    },
+    "userinfo_phone": {
+        "translation": ""
+    },
+    "userinfo_gender": {
+        "translation": ""
+    },
+    "userinfo_birthday": {
+        "translation": ""
+    },
+    "userinfo_region": {
+        "translation": ""
+    },
+    "userinfo_version": {
+        "translation": ""
+    },
+    "userinfo_gender_female": {
+        "translation": ""
+    },
+    "userinfo_gender_male": {
+        "translation": ""
+    },
+    "userinfo_gender_unknown": {
+        "translation": ""
+    },
+    "permission_denied": {
+        "translation": ""
+    },
+    "permission_denied_content": {
+        "translation": ""
+    },
+    "link_expired": {
+        "translation": ""
+    },
+    "link_expired_content": {
+        "translation": ""
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "login_from": {
+        "password": {
+            "translation": ""
+        },
+        "authorization_code": {
+            "translation": ""
+        },
+        "social_apple": {
+            "translation": ""
+        },
+        "social_facebook": {
+            "translation": ""
+        },
+        "social_google": {
+            "translation": ""
+        },
+        "social_line": {
+            "translation": ""
+        },
+        "social_naver": {
+            "translation": ""
+        },
+        "social_qq": {
+            "translation": ""
+        },
+        "social_wechat": {
+            "translation": ""
+        }
+    },
+    "scope": {
+        "public_profile": {
+            "translation": ""
+        },
+        "user_friends": {
+            "translation": ""
+        },
+        "user_friends_all": {
+            "translation": ""
+        },
+        "user_idcard": {
+            "translation": ""
+        },
+        "compliance": {
+            "translation": ""
+        },
+        "email": {
+            "translation": ""
+        },
+        "basic_info": {
+            "translation": ""
+        },
+        "phone": {
+            "translation": ""
+        }
+    },
+    "scope_intro": {
+        "public_profile": {
+            "translation": ""
+        },
+        "user_friends": {
+            "translation": ""
+        },
+        "user_friends_all": {
+            "translation": ""
+        },
+        "user_idcard": {
+            "translation": ""
+        },
+        "compliance": {
+            "translation": ""
+        },
+        "email": {
+            "translation": ""
+        },
+        "basic_info": {
+            "translation": ""
+        },
+        "phone": {
+            "translation": ""
+        }
+    }
+}

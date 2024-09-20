@@ -1,0 +1,20 @@
+{
+    "certification_bind_too_times_not_allow": {
+        "translation": ""
+    },
+    "idcard_authentication_frequently_limit": {
+        "translation": ""
+    },
+    "not_match_issuing_region": {
+        "translation": ""
+    },
+    "oversea_user_need_birthday": {
+        "translation": ""
+    },
+    "please_check_id_number_entered": {
+        "translation": ""
+    },
+    "please_check_name_entered": {
+        "translation": ""
+    }
+}

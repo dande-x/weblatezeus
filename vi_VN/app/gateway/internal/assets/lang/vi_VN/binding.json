@@ -1,0 +1,87 @@
+{
+    "field": {
+        "user_ids": {
+            "translation": ""
+        },
+        "title": {
+            "translation": ""
+        },
+        "contents": {
+            "translation": ""
+        },
+        "package_name": {
+            "translation": ""
+        },
+        "package_sign": {
+            "translation": ""
+        },
+        "bundle_id": {
+            "translation": ""
+        }
+    },
+    "lt": {
+        "array": {
+            "translation": ""
+        }
+    },
+    "gt": {
+        "array": {
+            "translation": ""
+        }
+    },
+    "required": {
+        "translation": ""
+    },
+    "required_without": {
+        "translation": ""
+    },
+    "utf8_max": {
+        "string": {
+            "translation": ""
+        }
+    },
+    "utf8_min": {
+        "string": {
+            "translation": ""
+        }
+    },
+    "custom": {
+        "contents": {
+            "required": {
+                "translation": ""
+            },
+            "strict_required": {
+                "translation": ""
+            }
+        },
+        "title": {
+            "required": {
+                "translation": ""
+            },
+            "strict_required": {
+                "translation": ""
+            }
+        },
+        "mobile": {
+            "default": {
+                "translation": ""
+            },
+            "required": {
+                "translation": ""
+            }
+        },
+        "wechat": {
+            "default": {
+                "translation": ""
+            }
+        },
+        "score": {
+            "required": {
+                "translation": ""
+            }
+        }
+    },
+    "eq": {
+        "translation": ""
+    }
+}

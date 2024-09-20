@@ -1,0 +1,27 @@
+{
+    "button": {
+        "requeue": {
+            "translation": ""
+        },
+        "cancel": {
+            "translation": ""
+        },
+        "upgrade": {
+            "translation": ""
+        }
+    },
+    "text": {
+        "feature_need_upgrade_tap": {
+            "translation": ""
+        },
+        "play_games_need_upgrade_tap": {
+            "translation": ""
+        },
+        "verify_anti_addiction_in_app": {
+            "translation": ""
+        },
+        "verified_anti_addiction": {
+            "translation": ""
+        }
+    }
+}

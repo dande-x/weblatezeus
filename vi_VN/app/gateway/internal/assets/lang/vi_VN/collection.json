@@ -1,0 +1,32 @@
+{
+    "title": {
+        "rankings": {
+            "translation": "Bảng xếp hạng"
+        },
+        "hot_collections": {
+            "translation": "Được yêu thích"
+        },
+        "trending_posts": {
+            "translation": "Bài viết nổi bật"
+        },
+        "explore_gaming": {
+            "translation": "Khám phá"
+        },
+        "games_you_may_like": {
+            "translation": "Được đề xuất"
+        }
+    },
+    "tag": {
+        "all": {
+            "translation": "Tất cả"
+        }
+    },
+    "label": {
+        "games_beta_test": {
+            "translation": "Đang thử nghiệm"
+        },
+        "games_new_releases": {
+            "translation": "Mới ra mắt"
+        }
+    }
+}

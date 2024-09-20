@@ -1,0 +1,42 @@
+{
+    "management": {
+        "poster_activity": {
+            "translation": ""
+        },
+        "custom_url": {
+            "translation": ""
+        },
+        "poster": {
+            "translation": ""
+        },
+        "map": {
+            "translation": ""
+        }
+    },
+    "post": {
+        "contents_link": {
+            "translation": ""
+        },
+        "contents_list": {
+            "translation": ""
+        },
+        "contents_horizontal_rule": {
+            "translation": ""
+        },
+        "contents_link_card": {
+            "translation": ""
+        },
+        "contents_app": {
+            "translation": ""
+        },
+        "contents_vote": {
+            "translation": ""
+        },
+        "contents_video": {
+            "translation": ""
+        },
+        "contents_image": {
+            "translation": ""
+        }
+    }
+}

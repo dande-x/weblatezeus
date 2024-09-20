@@ -1,0 +1,116 @@
+{
+    "internal": {
+        "translation": ""
+    },
+    "network_error": {
+        "translation": ""
+    },
+    "task": {
+        "not_started": {
+            "translation": ""
+        },
+        "not_finished": {
+            "translation": ""
+        },
+        "expired": {
+            "translation": ""
+        },
+        "generate_invite_code_failed": {
+            "translation": ""
+        },
+        "already_finished": {
+            "translation": ""
+        },
+        "award_type_not_supported": {
+            "translation": ""
+        },
+        "award_already_received": {
+            "translation": ""
+        },
+        "already_invited": {
+            "translation": ""
+        },
+        "not_invite_self": {
+            "translation": ""
+        },
+        "limit_new_user_invited": {
+            "translation": ""
+        },
+        "limit_not_activity_user_invited": {
+            "translation": ""
+        },
+        "limit_new_or_not_activity_user_invited": {
+            "translation": ""
+        },
+        "limit_ug_target_user_invited": {
+            "translation": ""
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": ""
+        },
+        "milestone_not_condition": {
+            "translation": ""
+        },
+        "milestone_already_received": {
+            "translation": ""
+        }
+    },
+    "activity_not_start": {
+        "translation": ""
+    },
+    "activity_finished": {
+        "translation": ""
+    },
+    "group_buy": {
+        "not_started": {
+            "translation": ""
+        },
+        "expired": {
+            "translation": ""
+        },
+        "not_found": {
+            "translation": ""
+        },
+        "already_joined": {
+            "translation": ""
+        },
+        "already_joined_another_group": {
+            "translation": ""
+        },
+        "join_failed": {
+            "translation": ""
+        },
+        "cannot_join_own_group": {
+            "translation": ""
+        },
+        "host_pay_failed": {
+            "translation": ""
+        },
+        "guest_pay_failed": {
+            "translation": ""
+        },
+        "group_failed": {
+            "translation": ""
+        },
+        "invalid_status": {
+            "translation": ""
+        },
+        "not_host": {
+            "translation": ""
+        },
+        "not_guest": {
+            "translation": ""
+        },
+        "reward_failed": {
+            "translation": ""
+        },
+        "finish_failed": {
+            "translation": ""
+        },
+        "others_have_paid": {
+            "translation": ""
+        }
+    }
+}

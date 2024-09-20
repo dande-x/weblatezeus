@@ -1,0 +1,219 @@
+{
+    "profile": {
+        "title": {
+            "translation": ""
+        },
+        "nickname": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "avatar": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "social": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "phone": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "gender": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "birthday": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "region": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        }
+    },
+    "identity": {
+        "title": {
+            "translation": ""
+        },
+        "name": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "number": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        }
+    },
+    "service": {
+        "title": {
+            "translation": ""
+        },
+        "trade": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            },
+            "collected": {
+                "translation": ""
+            }
+        },
+        "order": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            },
+            "collected": {
+                "translation": ""
+            }
+        },
+        "history": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            },
+            "collected": {
+                "translation": ""
+            }
+        },
+        "collection": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            },
+            "collected": {
+                "translation": ""
+            }
+        }
+    },
+    "device": {
+        "title": {
+            "translation": ""
+        },
+        "device": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "os": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        },
+        "version": {
+            "title": {
+                "translation": ""
+            },
+            "purpose": {
+                "translation": ""
+            },
+            "scene": {
+                "translation": ""
+            }
+        }
+    },
+    "collected": {
+        "translation": ""
+    },
+    "uncollected": {
+        "translation": ""
+    },
+    "link_text": {
+        "translation": ""
+    }
+}

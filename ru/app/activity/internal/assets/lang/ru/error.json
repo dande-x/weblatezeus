@@ -1,0 +1,116 @@
+{
+    "internal": {
+        "translation": "Внутренняя ошибка сервера"
+    },
+    "network_error": {
+        "translation": "Сетевая задержка, пожалуйста, попробуйте снова"
+    },
+    "task": {
+        "not_started": {
+            "translation": "Задание не начато"
+        },
+        "not_finished": {
+            "translation": "Задание не завершено"
+        },
+        "expired": {
+            "translation": "Срок выполнения задания истек"
+        },
+        "generate_invite_code_failed": {
+            "translation": "Не удалось сгенерировать код приглашения"
+        },
+        "already_finished": {
+            "translation": "Задание уже завершено"
+        },
+        "award_type_not_supported": {
+            "translation": "Тип награды не поддерживается"
+        },
+        "award_already_received": {
+            "translation": "Награда уже получена"
+        },
+        "already_invited": {
+            "translation": "Можно помочь только одному человеку, посмотрите другие задания"
+        },
+        "not_invite_self": {
+            "translation": "Нельзя помочь самому себе"
+        },
+        "limit_new_user_invited": {
+            "translation": "Только новые зарегистрированные пользователи TapTap могут помочь"
+        },
+        "limit_not_activity_user_invited": {
+            "translation": "Только старые пользователи TapTap, не входившие в систему более :days дней, могут помочь"
+        },
+        "limit_new_or_not_activity_user_invited": {
+            "translation": "Только новые зарегистрированные пользователи TapTap или старые пользователи, не входившие в систему более :days дней, могут помочь"
+        },
+        "limit_ug_target_user_invited": {
+            "translation": "Этот пользователь не является целевым пользователем, не может помочь"
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": "Недостаточно баллов"
+        },
+        "milestone_not_condition": {
+            "translation": "Условия для получения не выполнены"
+        },
+        "milestone_already_received": {
+            "translation": "Награда уже получена"
+        }
+    },
+    "activity_not_start": {
+        "translation": "Активность еще не началась"
+    },
+    "activity_finished": {
+        "translation": "Активность завершена"
+    },
+    "group_buy": {
+        "not_started": {
+            "translation": "Групповая покупка еще не началась"
+        },
+        "expired": {
+            "translation": "Групповая покупка истекла"
+        },
+        "not_found": {
+            "translation": "Запись групповой покупки не найдена"
+        },
+        "already_joined": {
+            "translation": "Текущая группа заполнена, пожалуйста, попробуйте позже"
+        },
+        "already_joined_another_group": {
+            "translation": "Вы уже присоединились к другой группе, пожалуйста, подождите 5 минут и попробуйте снова"
+        },
+        "join_failed": {
+            "translation": "Не удалось присоединиться к групповой покупке, пожалуйста, попробуйте снова"
+        },
+        "cannot_join_own_group": {
+            "translation": "Нельзя участвовать в своей групповой покупке"
+        },
+        "host_pay_failed": {
+            "translation": "Не удалось создать группу, пожалуйста, не повторяйте оплату"
+        },
+        "guest_pay_failed": {
+            "translation": "Не удалось присоединиться к группе, пожалуйста, не повторяйте оплату"
+        },
+        "group_failed": {
+            "translation": "Не удалось создать группу, пожалуйста, не повторяйте запрос"
+        },
+        "invalid_status": {
+            "translation": "Статус группы не совпадает, невозможно успешно создать группу"
+        },
+        "not_host": {
+            "translation": "Вы не капитан, невозможно успешно создать группу"
+        },
+        "not_guest": {
+            "translation": "Вы не участник, невозможно успешно создать группу"
+        },
+        "reward_failed": {
+            "translation": "Не удалось выдать награду"
+        },
+        "finish_failed": {
+            "translation": "Не удалось завершить групповую покупку, пожалуйста, не повторяйте запрос"
+        },
+        "others_have_paid": {
+            "translation": "Эта группа уже успешно создана, пожалуйста, участвуйте в других групповых покупках"
+        }
+    }
+}

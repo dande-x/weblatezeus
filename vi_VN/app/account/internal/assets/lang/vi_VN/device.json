@@ -1,0 +1,111 @@
+{
+    "unknown": {
+        "translation": ""
+    },
+    "browser": {
+        "default": {
+            "translation": ""
+        },
+        "baidu": {
+            "translation": ""
+        },
+        "ucBrowser": {
+            "translation": ""
+        },
+        "quark": {
+            "translation": ""
+        },
+        "miuiBrowser": {
+            "translation": ""
+        },
+        "huaweiBrowser": {
+            "translation": ""
+        },
+        "QQBrowser": {
+            "translation": ""
+        }
+    },
+    "android": {
+        "translation": ""
+    },
+    "ios": {
+        "translation": ""
+    },
+    "project_name": {
+        "taptap": {
+            "translation": ""
+        },
+        "taptaptest": {
+            "translation": ""
+        },
+        "taptap2": {
+            "translation": ""
+        },
+        "taptap3": {
+            "translation": ""
+        },
+        "tappad": {
+            "translation": ""
+        },
+        "iostap": {
+            "translation": ""
+        },
+        "iostap2": {
+            "translation": ""
+        },
+        "iostap3": {
+            "translation": ""
+        },
+        "wechat": {
+            "translation": ""
+        },
+        "webapp": {
+            "translation": ""
+        },
+        "webappintl": {
+            "translation": ""
+        },
+        "iosplay": {
+            "translation": ""
+        },
+        "iosnow": {
+            "translation": ""
+        },
+        "tapitk": {
+            "translation": ""
+        },
+        "taprocket": {
+            "translation": ""
+        },
+        "tapintlrocket": {
+            "translation": ""
+        },
+        "iosrocket": {
+            "translation": ""
+        },
+        "iosintlrocket": {
+            "translation": ""
+        },
+        "iosglobal": {
+            "translation": ""
+        },
+        "iosglobaltest": {
+            "translation": ""
+        },
+        "tapintl2": {
+            "translation": ""
+        },
+        "tapintl2test": {
+            "translation": ""
+        },
+        "iosintl": {
+            "translation": ""
+        },
+        "iosintltest": {
+            "translation": ""
+        },
+        "handheld": {
+            "translation": ""
+        }
+    }
+}

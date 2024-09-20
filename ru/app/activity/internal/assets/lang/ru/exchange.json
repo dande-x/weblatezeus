@@ -1,0 +1,11 @@
+{
+    "prize_inventory_not_enough": {
+        "translation": "Извините, нет в наличии"
+    },
+    "prize_exchange_total_limit": {
+        "translation": "Достигнут лимит обмена, посмотрите другие призы"
+    },
+    "score_not_enough": {
+        "translation": ":title недостаточно, обмен не удался"
+    }
+}

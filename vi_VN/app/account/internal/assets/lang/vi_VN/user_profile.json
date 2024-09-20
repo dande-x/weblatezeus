@@ -1,0 +1,25 @@
+{
+    "gender": {
+        "male": {
+            "translation": ""
+        },
+        "female": {
+            "translation": ""
+        },
+        "non_binary": {
+            "translation": ""
+        },
+        "not_to_say": {
+            "translation": ""
+        }
+    },
+    "nickname_under_review_prefix": {
+        "translation": ""
+    },
+    "intro_under_review_prefix": {
+        "translation": ""
+    },
+    "setting_region_not_match_location": {
+        "translation": ""
+    }
+}

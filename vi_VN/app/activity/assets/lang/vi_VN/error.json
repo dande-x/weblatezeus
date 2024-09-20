@@ -1,0 +1,30 @@
+{
+    "internal": {
+        "translation": ""
+    },
+    "network_error": {
+        "translation": ""
+    },
+    "task": {
+        "not_started": {
+            "translation": ""
+        },
+        "not_finished": {
+            "translation": ""
+        },
+        "expired": {
+            "translation": ""
+        },
+        "generate_invite_code_failed": {
+            "translation": ""
+        },
+        "already_finished": {
+            "translation": ""
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": ""
+        }
+    }
+}

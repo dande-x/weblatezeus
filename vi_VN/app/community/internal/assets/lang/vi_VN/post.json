@@ -1,0 +1,16 @@
+{
+    "sort": {
+        "popular_replies": {
+            "translation": ""
+        },
+        "earliest_replies": {
+            "translation": ""
+        },
+        "latest_replies": {
+            "translation": ""
+        },
+        "likes_number": {
+            "translation": ""
+        }
+    }
+}

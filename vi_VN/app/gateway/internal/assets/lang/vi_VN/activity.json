@@ -1,0 +1,39 @@
+{
+    "task": {
+        "type_error": {
+            "translation": ""
+        },
+        "closed": {
+            "translation": ""
+        },
+        "failed_to_generate_code": {
+            "translation": ""
+        },
+        "unsupported_action_type": {
+            "translation": ""
+        },
+        "uid_cannot_empty": {
+            "translation": ""
+        },
+        "smfp_cannot_empty": {
+            "translation": ""
+        }
+    },
+    "not_start": {
+        "translation": ""
+    },
+    "finished": {
+        "translation": ""
+    },
+    "safe_risk_msg": {
+        "translation": ""
+    },
+    "topic_lottery": {
+        "condition_count_limit": {
+            "translation": ""
+        },
+        "condition_invalid": {
+            "translation": ""
+        }
+    }
+}

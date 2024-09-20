@@ -1,0 +1,95 @@
+{
+    "tab": {
+        "top_charts": {
+            "translation": ""
+        },
+        "upcoming": {
+            "translation": ""
+        },
+        "gamelist": {
+            "translation": ""
+        },
+        "trending": {
+            "translation": ""
+        },
+        "genres": {
+            "translation": ""
+        },
+        "events": {
+            "translation": ""
+        },
+        "game_of_the_day": {
+            "translation": ""
+        },
+        "calendar": {
+            "translation": ""
+        },
+        "new_releases": {
+            "translation": ""
+        },
+        "beta": {
+            "translation": ""
+        }
+    },
+    "filter": {
+        "show": {
+            "translation": ""
+        },
+        "show_recommended": {
+            "translation": ""
+        },
+        "show_most_popular": {
+            "translation": ""
+        },
+        "show_popular_new_releases": {
+            "translation": ""
+        },
+        "show_new_releases": {
+            "translation": ""
+        },
+        "show_popular_upcoming": {
+            "translation": ""
+        },
+        "show_all_upcoming": {
+            "translation": ""
+        },
+        "show_top_wishlisted": {
+            "translation": ""
+        },
+        "show_in_beta": {
+            "translation": ""
+        },
+        "show_upcoming_beta": {
+            "translation": ""
+        },
+        "view": {
+            "translation": ""
+        },
+        "view_card": {
+            "translation": ""
+        },
+        "view_list": {
+            "translation": ""
+        },
+        "platform": {
+            "translation": ""
+        },
+        "editors_choice": {
+            "translation": ""
+        },
+        "rating": {
+            "translation": ""
+        }
+    },
+    "title": {
+        "tag_and_tag": {
+            "translation": ""
+        },
+        "tag_and_more": {
+            "translation": ""
+        },
+        "all_tags": {
+            "translation": ""
+        }
+    }
+}

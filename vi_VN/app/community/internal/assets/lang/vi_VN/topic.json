@@ -1,0 +1,38 @@
+{
+    "phrase": {
+        "silence_by_forum_admin": {
+            "translation": ""
+        },
+        "forum_not_support_content_publish": {
+            "translation": ""
+        }
+    },
+    "sentence": {
+        "solved_question_cannot_edit": {
+            "translation": ""
+        },
+        "write_something_for_topic_draft": {
+            "translation": ""
+        },
+        "cannot_change_type": {
+            "translation": ""
+        },
+        "pin_video_type_need_pin_video": {
+            "translation": ""
+        },
+        "top_limit": {
+            "translation": ""
+        },
+        "top_forbidden_for_group_label_isolated": {
+            "translation": ""
+        },
+        "title_required": {
+            "translation": ""
+        }
+    },
+    "contribute": {
+        "cannot_meet": {
+            "translation": ""
+        }
+    }
+}

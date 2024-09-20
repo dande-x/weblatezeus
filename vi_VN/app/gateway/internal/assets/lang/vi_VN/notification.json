@@ -1,0 +1,180 @@
+{
+    "notice": {
+        "label": {
+            "must": {
+                "translation": ""
+            },
+            "auto": {
+                "translation": ""
+            },
+            "mute": {
+                "translation": ""
+            }
+        },
+        "content": {
+            "must": {
+                "translation": ""
+            },
+            "auto": {
+                "translation": ""
+            },
+            "mute": {
+                "translation": ""
+            }
+        }
+    },
+    "bottom": {
+        "text": {
+            "game_serial_number": {
+                "translation": ""
+            },
+            "game_gift_number": {
+                "translation": ""
+            },
+            "redeem_code": {
+                "translation": ""
+            },
+            "redeem_code_text": {
+                "translation": ""
+            },
+            "game_gift_number_text": {
+                "translation": ""
+            },
+            "game_serial_number_text": {
+                "translation": ""
+            }
+        },
+        "label": {
+            "game_serial_number": {
+                "translation": ""
+            },
+            "game_gift_number": {
+                "translation": ""
+            },
+            "play": {
+                "translation": ""
+            },
+            "go_to": {
+                "translation": ""
+            },
+            "redeem_code": {
+                "translation": ""
+            }
+        }
+    },
+    "prefix": {
+        "text": {
+            "game_serial_number": {
+                "translation": ""
+            },
+            "game_gift_number": {
+                "translation": ""
+            },
+            "redeem_code": {
+                "translation": ""
+            },
+            "test": {
+                "translation": ""
+            },
+            "download": {
+                "translation": ""
+            },
+            "open_test": {
+                "translation": ""
+            },
+            "new": {
+                "translation": ""
+            },
+            "new_version": {
+                "translation": ""
+            }
+        }
+    },
+    "message": {
+        "send_need_follow": {
+            "translation": ""
+        }
+    },
+    "obj_mapping": {
+        "topic": {
+            "translation": ""
+        },
+        "post": {
+            "translation": ""
+        },
+        "review": {
+            "translation": ""
+        },
+        "review_comment": {
+            "translation": ""
+        },
+        "video": {
+            "translation": ""
+        },
+        "video_comment": {
+            "translation": ""
+        },
+        "moment": {
+            "translation": ""
+        },
+        "moment_comment": {
+            "translation": ""
+        },
+        "album": {
+            "translation": ""
+        },
+        "album_comment": {
+            "translation": ""
+        },
+        "gift": {
+            "translation": ""
+        },
+        "commentary": {
+            "translation": ""
+        },
+        "creation_post": {
+            "translation": ""
+        },
+        "creation_comment": {
+            "translation": ""
+        }
+    },
+    "title": {
+        "collect": {
+            "translation": ""
+        },
+        "repost": {
+            "translation": ""
+        }
+    },
+    "system_sender": {
+        "5": {
+            "name": {
+                "translation": ""
+            },
+            "goto": {
+                "translation": ""
+            }
+        },
+        "6": {
+            "name": {
+                "translation": ""
+            }
+        },
+        "7": {
+            "name": {
+                "translation": ""
+            }
+        },
+        "8": {
+            "name": {
+                "translation": ""
+            }
+        }
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "translation": {
+            "other": ""
+        }
+    }
+}

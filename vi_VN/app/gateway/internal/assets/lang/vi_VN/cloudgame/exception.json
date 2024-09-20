@@ -1,0 +1,83 @@
+{
+    "upgrade_taptap_to_daily": {
+        "translation": ""
+    },
+    "old_version_draw_period_title": {
+        "translation": ""
+    },
+    "old_version_draw_period_text": {
+        "translation": ""
+    },
+    "old_version_use_up_time_title": {
+        "translation": ""
+    },
+    "queue_limit_title": {
+        "translation": ""
+    },
+    "queue_limit_text": {
+        "translation": ""
+    },
+    "use_up_time_title": {
+        "translation": ""
+    },
+    "use_up_time_text": {
+        "translation": ""
+    },
+    "queue_expired_title": {
+        "translation": ""
+    },
+    "queue_expired_text": {
+        "translation": ""
+    },
+    "start_error": {
+        "translation": ""
+    },
+    "start_failed": {
+        "translation": ""
+    },
+    "cloud_game_closed": {
+        "translation": ""
+    },
+    "user_started": {
+        "translation": ""
+    },
+    "cid_closing": {
+        "translation": ""
+    },
+    "user_status_abnormal": {
+        "translation": ""
+    },
+    "queue_change_app": {
+        "translation": ""
+    },
+    "queue_change_device": {
+        "translation": ""
+    },
+    "queue_change_node": {
+        "translation": ""
+    },
+    "queue_change_version": {
+        "translation": ""
+    },
+    "can_not_draw_free_period": {
+        "translation": ""
+    },
+    "not_supported": {
+        "translation": ""
+    },
+    "dispatch_failed": {
+        "translation": ""
+    },
+    "not_found_node": {
+        "translation": ""
+    },
+    "select_designated_node": {
+        "translation": ""
+    },
+    "no_available_node": {
+        "translation": ""
+    },
+    "pc_use_up_time_title": {
+        "translation": ""
+    }
+}

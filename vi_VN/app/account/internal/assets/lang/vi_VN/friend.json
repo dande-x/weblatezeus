@@ -1,0 +1,26 @@
+{
+    "blacklisting": {
+        "translation": ""
+    },
+    "cannot_follow_user_from_different_store": {
+        "translation": ""
+    },
+    "deleted_alert_follow": {
+        "translation": ""
+    },
+    "following_failed_in_blacklisting": {
+        "translation": ""
+    },
+    "following_failed_insufficient_scope_friend": {
+        "translation": ""
+    },
+    "following_failed_max_size_limit": {
+        "translation": ""
+    },
+    "not_allow_follow_self": {
+        "translation": ""
+    },
+    "blocking_failed_insufficient_scope_friend": {
+        "translation": ""
+    }
+}

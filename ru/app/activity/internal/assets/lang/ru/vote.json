@@ -1,0 +1,25 @@
+{
+    "vote_not_start": {
+        "translation": "Голосование начнется в:time"
+    },
+    "vote_end": {
+        "translation": "Голосование завершено"
+    },
+    "already_voted": {
+        "translation": "Вы уже проголосовали"
+    },
+    "no_publish": {
+        "translation": "Голосование еще не опубликовано"
+    },
+    "game_award": {
+        "exhausted": {
+            "translation": "Недостаточно оставшихся голосов"
+        },
+        "app_voted": {
+            "translation": "Нельзя повторно номинировать одну и ту же игру"
+        },
+        "app_not_found": {
+            "translation": "Эта игра не соответствует стандартам номинации"
+        }
+    }
+}

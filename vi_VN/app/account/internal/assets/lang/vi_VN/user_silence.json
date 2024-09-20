@@ -1,0 +1,61 @@
+{
+    "reason": {
+        "hostility": {
+            "translation": ""
+        },
+        "rubbish": {
+            "translation": ""
+        },
+        "pulp": {
+            "translation": ""
+        },
+        "illegal": {
+            "translation": ""
+        },
+        "other": {
+            "translation": ""
+        },
+        "illegal_prohibited": {
+            "translation": ""
+        },
+        "maliciously_lead_war": {
+            "translation": ""
+        },
+        "bad_conduct": {
+            "translation": ""
+        },
+        "ad_exchange": {
+            "translation": ""
+        },
+        "black_product_ads": {
+            "translation": ""
+        },
+        "personal_attacks": {
+            "translation": ""
+        },
+        "vulgar": {
+            "translation": ""
+        },
+        "violating_community_norms": {
+            "translation": ""
+        },
+        "uncomfortable": {
+            "translation": ""
+        },
+        "violation_community_rules": {
+            "translation": ""
+        },
+        "intl_hate_speech": {
+            "translation": ""
+        },
+        "intl_sexual_content": {
+            "translation": ""
+        },
+        "intl_prohibited_content": {
+            "translation": ""
+        },
+        "intl_extremism": {
+            "translation": ""
+        }
+    }
+}

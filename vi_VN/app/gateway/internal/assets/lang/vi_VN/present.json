@@ -1,0 +1,23 @@
+{
+    "pre_register_succeed": {
+        "translation": ""
+    },
+    "pre_register_succeed_with_chance": {
+        "translation": ""
+    },
+    "pre_register_failed": {
+        "translation": ""
+    },
+    "pre_register_canceled": {
+        "translation": ""
+    },
+    "share_succeed": {
+        "translation": ""
+    },
+    "share_succeed_with_chance": {
+        "translation": ""
+    },
+    "share_failed": {
+        "translation": ""
+    }
+}

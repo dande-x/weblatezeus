@@ -1,0 +1,11 @@
+{
+    "prize_not_start": {
+        "translation": "Время розыгрыша еще не наступило"
+    },
+    "prize_is_lottery": {
+        "translation": "Розыгрыш завершен"
+    },
+    "prize_join_user_empty": {
+        "translation": "Нет пользователей, участвующих в розыгрыше"
+    }
+}
