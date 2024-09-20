@@ -1,0 +1,8 @@
+{
+    "only_upload_limit_count": {
+        "translation": "最多只可上传:count个视频"
+    },
+    "please_upload_video": {
+        "translation": "请上传视频"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "blacklist_count_limit": {
+        "translation": "达到黑名单上限，拉黑失败"
+    },
+    "not_allow_block_self": {
+        "translation": "不允许拉黑自己"
+    }
+}

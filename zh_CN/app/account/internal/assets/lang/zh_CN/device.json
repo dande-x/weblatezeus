@@ -1,0 +1,111 @@
+{
+    "unknown": {
+        "translation": "未知设备"
+    },
+    "browser": {
+        "default": {
+            "translation": "浏览器"
+        },
+        "baidu": {
+            "translation": "百度浏览器"
+        },
+        "ucBrowser": {
+            "translation": "UC浏览器"
+        },
+        "quark": {
+            "translation": "夸克浏览器"
+        },
+        "miuiBrowser": {
+            "translation": "小米浏览器"
+        },
+        "huaweiBrowser": {
+            "translation": "华为浏览器"
+        },
+        "QQBrowser": {
+            "translation": "QQ浏览器"
+        }
+    },
+    "android": {
+        "translation": "Android 设备"
+    },
+    "ios": {
+        "translation": "iOS 设备"
+    },
+    "project_name": {
+        "taptap": {
+            "translation": "TapTap 客户端"
+        },
+        "taptaptest": {
+            "translation": "TapTap 客户端"
+        },
+        "taptap2": {
+            "translation": "TapTap 客户端"
+        },
+        "taptap3": {
+            "translation": "TapTap 客户端"
+        },
+        "tappad": {
+            "translation": "TapTap Pad"
+        },
+        "iostap": {
+            "translation": "TapTap 客户端"
+        },
+        "iostap2": {
+            "translation": "TapTap 客户端"
+        },
+        "iostap3": {
+            "translation": "TapTap 客户端"
+        },
+        "wechat": {
+            "translation": "微信小程序"
+        },
+        "webapp": {
+            "translation": "Web App"
+        },
+        "webappintl": {
+            "translation": "Web App"
+        },
+        "iosplay": {
+            "translation": "TapTap Play"
+        },
+        "iosnow": {
+            "translation": "TapTap 客户端"
+        },
+        "tapitk": {
+            "translation": "内嵌社区"
+        },
+        "taprocket": {
+            "translation": "Tap 加速器"
+        },
+        "tapintlrocket": {
+            "translation": "Tap 加速器"
+        },
+        "iosrocket": {
+            "translation": "Tap 加速器"
+        },
+        "iosintlrocket": {
+            "translation": "Tap 加速器"
+        },
+        "iosglobal": {
+            "translation": "TapTap 国际端"
+        },
+        "iosglobaltest": {
+            "translation": "TapTap 国际端"
+        },
+        "tapintl2": {
+            "translation": "TapTap 国际端"
+        },
+        "tapintl2test": {
+            "translation": "TapTap 国际端"
+        },
+        "iosintl": {
+            "translation": "TapTap 国际端"
+        },
+        "iosintltest": {
+            "translation": "TapTap 国际端"
+        },
+        "handheld": {
+            "translation": "TapTap 掌机版"
+        }
+    }
+}

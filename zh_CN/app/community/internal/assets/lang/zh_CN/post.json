@@ -1,0 +1,16 @@
+{
+    "sort": {
+        "popular_replies": {
+            "translation": "热门回复"
+        },
+        "earliest_replies": {
+            "translation": "最早回复"
+        },
+        "latest_replies": {
+            "translation": "最新回复"
+        },
+        "likes_number": {
+            "translation": "获赞数量"
+        }
+    }
+}

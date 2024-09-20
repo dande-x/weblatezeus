@@ -1,0 +1,67 @@
+{
+    "email": {
+        "title": {
+            "translation": "TapTap 个人信息导出"
+        },
+        "hello_text": {
+            "translation": "您好，"
+        },
+        "content_text": {
+            "translation": "您的个人信息准备完成，请在电脑浏览器中打开下面的链接，72小时内可下载："
+        },
+        "btn_text": {
+            "translation": "前往下载个人信息"
+        },
+        "warning_text": {
+            "translation": "您的个人信息包含敏感信息，请您谨慎下载，妥善保存，不要轻易向他人透露您的个人信息。"
+        },
+        "noreply_text": {
+            "translation": "此邮件由系统自动发出，请勿直接回复，谢谢！如有问题请您联系官方客服。"
+        }
+    },
+    "userinfo_nickname": {
+        "translation": "昵称："
+    },
+    "userinfo_avatar": {
+        "translation": "头像："
+    },
+    "userinfo_wechat": {
+        "translation": "微信："
+    },
+    "userinfo_phone": {
+        "translation": "手机号："
+    },
+    "userinfo_gender": {
+        "translation": "性别："
+    },
+    "userinfo_birthday": {
+        "translation": "生日："
+    },
+    "userinfo_region": {
+        "translation": "地区："
+    },
+    "userinfo_version": {
+        "translation": "TapTap 版本："
+    },
+    "userinfo_gender_female": {
+        "translation": "女"
+    },
+    "userinfo_gender_male": {
+        "translation": "男"
+    },
+    "userinfo_gender_unknown": {
+        "translation": "未知"
+    },
+    "permission_denied": {
+        "translation": "无访问权限"
+    },
+    "permission_denied_content": {
+        "translation": "请登录正确的账号后再次尝试"
+    },
+    "link_expired": {
+        "translation": "文件已失效"
+    },
+    "link_expired_content": {
+        "translation": "请重新申请下载个人信息"
+    }
+}

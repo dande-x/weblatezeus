@@ -1,0 +1,22 @@
+{
+    "prize_un_limit_total": {
+        "translation": "该奖品总数为无限"
+    },
+    "no_stock": {
+        "translation": "奖品库存不足"
+    },
+    "livelink": {
+        "flow_invalid": {
+            "translation": "无效的livelink流程"
+        },
+        "not_found_group": {
+            "translation": "livelink礼包组不存在"
+        },
+        "exist_group": {
+            "translation": "livelink礼包组已存在"
+        }
+    },
+    "not_found_goods_prize": {
+        "translation": "本次活动未设置实物奖品，无法导出实物中奖名单。"
+    }
+}

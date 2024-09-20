@@ -1,0 +1,83 @@
+{
+    "upgrade_taptap_to_daily": {
+        "translation": "更新TapTap，每日签到获取更多时长"
+    },
+    "old_version_draw_period_title": {
+        "translation": "免费时长方案调整"
+    },
+    "old_version_draw_period_text": {
+        "translation": "已赠送您:period_once小时免费时长，重新点击云玩即可开始游戏！<br\/>PS: 更新TapTap可获得更多时长"
+    },
+    "old_version_use_up_time_title": {
+        "translation": "剩余时长不足"
+    },
+    "queue_limit_title": {
+        "translation": "排队人数超过上限..."
+    },
+    "queue_limit_text": {
+        "translation": "服务器爆满啦！请稍后尝试"
+    },
+    "use_up_time_title": {
+        "translation": "今天时长已耗尽..."
+    },
+    "use_up_time_text": {
+        "translation": "每天打卡领取:period_daily分钟免费时长"
+    },
+    "queue_expired_title": {
+        "translation": "排队被中止"
+    },
+    "queue_expired_text": {
+        "translation": "上次排到后超过1小时未进入游戏，排队已自动退出"
+    },
+    "start_error": {
+        "translation": "启动失败"
+    },
+    "start_failed": {
+        "translation": "云游戏启动失败"
+    },
+    "cloud_game_closed": {
+        "translation": "云游戏暂未开启"
+    },
+    "user_started": {
+        "translation": "已存在进行中的云游戏"
+    },
+    "cid_closing": {
+        "translation": "正在关闭云游戏，请点击云玩重试"
+    },
+    "user_status_abnormal": {
+        "translation": "用户状态异常"
+    },
+    "queue_change_app": {
+        "translation": "已切换排队游戏"
+    },
+    "queue_change_device": {
+        "translation": "已切换排队设备"
+    },
+    "queue_change_node": {
+        "translation": "已切换服务器"
+    },
+    "queue_change_version": {
+        "translation": "已切换排队设备"
+    },
+    "can_not_draw_free_period": {
+        "translation": "奖励没有啦，明天再来哦～"
+    },
+    "not_supported": {
+        "translation": "暂不支持"
+    },
+    "dispatch_failed": {
+        "translation": "容器调度失败"
+    },
+    "not_found_node": {
+        "translation": "当前版本过低，请升级最新版体验云玩"
+    },
+    "select_designated_node": {
+        "translation": "请选择指定服务器"
+    },
+    "no_available_node": {
+        "translation": "当前版本过低，请升级到最新版体验云玩"
+    },
+    "pc_use_up_time_title": {
+        "translation": "端游时长已耗尽..."
+    }
+}

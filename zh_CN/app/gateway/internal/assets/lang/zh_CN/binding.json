@@ -1,0 +1,87 @@
+{
+    "field": {
+        "user_ids": {
+            "translation": "用户 IDs"
+        },
+        "title": {
+            "translation": "标题"
+        },
+        "contents": {
+            "translation": "内容"
+        },
+        "package_name": {
+            "translation": "包名"
+        },
+        "package_sign": {
+            "translation": "签名"
+        },
+        "bundle_id": {
+            "translation": "bundle ID"
+        }
+    },
+    "lt": {
+        "array": {
+            "translation": "「:field」需要小于 :param 项"
+        }
+    },
+    "gt": {
+        "array": {
+            "translation": "「:field」需要大于 :param 项"
+        }
+    },
+    "required": {
+        "translation": "「:field」必填"
+    },
+    "required_without": {
+        "translation": ":field 或者 :param 必填"
+    },
+    "utf8_max": {
+        "string": {
+            "translation": ":field 不能超过 :param 个字符"
+        }
+    },
+    "utf8_min": {
+        "string": {
+            "translation": ":field 至少 :param 个字符"
+        }
+    },
+    "custom": {
+        "contents": {
+            "required": {
+                "translation": "写点内容再发送吧"
+            },
+            "strict_required": {
+                "translation": "写点内容再发送吧"
+            }
+        },
+        "title": {
+            "required": {
+                "translation": "请输入标题"
+            },
+            "strict_required": {
+                "translation": "请输入标题"
+            }
+        },
+        "mobile": {
+            "default": {
+                "translation": "请输入正确的手机号"
+            },
+            "required": {
+                "translation": "请输入手机号"
+            }
+        },
+        "wechat": {
+            "default": {
+                "translation": "请输入正确的微信号"
+            }
+        },
+        "score": {
+            "required": {
+                "translation": "请先打分"
+            }
+        }
+    },
+    "eq": {
+        "translation": "「:field」必须等于 :param"
+    }
+}

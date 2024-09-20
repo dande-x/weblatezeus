@@ -1,0 +1,42 @@
+{
+    "management": {
+        "poster_activity": {
+            "translation": "建站器活动页"
+        },
+        "custom_url": {
+            "translation": "自定义 Wiki 链接"
+        },
+        "poster": {
+            "translation": "建站器活动页"
+        },
+        "map": {
+            "translation": "地图"
+        }
+    },
+    "post": {
+        "contents_link": {
+            "translation": "[链接]"
+        },
+        "contents_list": {
+            "translation": "[列表]"
+        },
+        "contents_horizontal_rule": {
+            "translation": "[分割线]"
+        },
+        "contents_link_card": {
+            "translation": "[链接卡片]"
+        },
+        "contents_app": {
+            "translation": "[游戏卡片]"
+        },
+        "contents_vote": {
+            "translation": "[投票]"
+        },
+        "contents_video": {
+            "translation": "[视频]"
+        },
+        "contents_image": {
+            "translation": "[图片]"
+        }
+    }
+}

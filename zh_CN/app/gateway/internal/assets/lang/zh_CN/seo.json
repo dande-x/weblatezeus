@@ -1,0 +1,41 @@
+{
+    "rankings": {
+        "android": {
+            "exclusive": {
+                "description": {
+                    "translation": "TapTap 为您提供安卓独家手游排行榜，为您推荐当下独家高分的手机游戏。"
+                },
+                "keywords": {
+                    "translation": "安卓独家手游排行榜,安卓独家手游推荐"
+                },
+                "title": {
+                    "translation": "安卓独家手游排行榜 - 安卓独家手游推荐 &#124; TapTap 排行榜"
+                }
+            },
+            "intl": {
+                "beta": {
+                    "description": {
+                        "translation": "TapTap 为您提供:area安卓测试手游排行榜，为您推荐当下最新的手机测试游戏。"
+                    },
+                    "keywords": {
+                        "translation": ":area测试手游排行榜,安卓测试手游推荐"
+                    },
+                    "title": {
+                        "translation": ":area安卓测试手游排行榜 - 安卓热门手游推荐 &#124; TapTap 排行榜"
+                    }
+                },
+                "weekly": {
+                    "description": {
+                        "translation": "TapTap 为您提供:area安卓本周人气手游排行榜，为您推荐当下人气最高的手机游戏。"
+                    },
+                    "keywords": {
+                        "translation": ":area本周人气手游排行榜,安卓本周人气手游推荐"
+                    },
+                    "title": {
+                        "translation": ":area安卓本周人气手游排行榜 - 安卓热门手游推荐 &#124; TapTap 排行榜"
+                    }
+                }
+            }
+        }
+    }
+}

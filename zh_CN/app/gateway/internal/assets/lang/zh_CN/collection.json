@@ -1,0 +1,32 @@
+{
+    "title": {
+        "rankings": {
+            "translation": "排行榜"
+        },
+        "hot_collections": {
+            "translation": "今日推荐"
+        },
+        "trending_posts": {
+            "translation": "今日游戏头条"
+        },
+        "explore_gaming": {
+            "translation": "更多推荐"
+        },
+        "games_you_may_like": {
+            "translation": "更多游戏分类"
+        }
+    },
+    "tag": {
+        "all": {
+            "translation": "全部"
+        }
+    },
+    "label": {
+        "games_beta_test": {
+            "translation": "测试中"
+        },
+        "games_new_releases": {
+            "translation": "最新发行"
+        }
+    }
+}

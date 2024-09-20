@@ -1,0 +1,116 @@
+{
+    "internal": {
+        "translation": "服务器内部错误"
+    },
+    "network_error": {
+        "translation": "网络延迟，请重试"
+    },
+    "task": {
+        "not_started": {
+            "translation": "任务未开始"
+        },
+        "not_finished": {
+            "translation": "任务未完成"
+        },
+        "expired": {
+            "translation": "任务已过期"
+        },
+        "generate_invite_code_failed": {
+            "translation": "邀请码生成失败"
+        },
+        "already_finished": {
+            "translation": "任务已完成"
+        },
+        "award_type_not_supported": {
+            "translation": "奖励类型不支持"
+        },
+        "award_already_received": {
+            "translation": "奖励已领取"
+        },
+        "already_invited": {
+            "translation": "只能给一人助力，看看其他任务吧"
+        },
+        "not_invite_self": {
+            "translation": "不能助力自己"
+        },
+        "limit_new_user_invited": {
+            "translation": "仅限TapTap新注册用户可助力"
+        },
+        "limit_not_activity_user_invited": {
+            "translation": "仅限:days天以上未登录TapTap老用户可助力"
+        },
+        "limit_new_or_not_activity_user_invited": {
+            "translation": "仅限TapTap新注册用户、或:days天以上未登录老用户可助力"
+        },
+        "limit_ug_target_user_invited": {
+            "translation": "该用户非目标用户，无法助力"
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": "积分不足"
+        },
+        "milestone_not_condition": {
+            "translation": "未达到领取条件"
+        },
+        "milestone_already_received": {
+            "translation": "奖励已领取"
+        }
+    },
+    "activity_not_start": {
+        "translation": "活动未开始"
+    },
+    "activity_finished": {
+        "translation": "活动已结束"
+    },
+    "group_buy": {
+        "not_started": {
+            "translation": "组队购买未开始"
+        },
+        "expired": {
+            "translation": "组队购买已过期"
+        },
+        "not_found": {
+            "translation": "没有找到组队购买记录"
+        },
+        "already_joined": {
+            "translation": "当前组队已满，请稍后再试"
+        },
+        "already_joined_another_group": {
+            "translation": "当前已加入其它队伍，请等待5分钟后重试"
+        },
+        "join_failed": {
+            "translation": "参与组队购买失败，请重试"
+        },
+        "cannot_join_own_group": {
+            "translation": "不能参与自己的组队购买"
+        },
+        "host_pay_failed": {
+            "translation": "队长组队失败，请勿重复支付"
+        },
+        "guest_pay_failed": {
+            "translation": "队员组队失败，请勿重复支付"
+        },
+        "group_failed": {
+            "translation": "组队失败，请勿重复请求"
+        },
+        "invalid_status": {
+            "translation": "组队状态不一致，无法成功组队"
+        },
+        "not_host": {
+            "translation": "不是队长，无法成功组队"
+        },
+        "not_guest": {
+            "translation": "不是队员，无法成功组队"
+        },
+        "reward_failed": {
+            "translation": "奖励发放失败"
+        },
+        "finish_failed": {
+            "translation": "组队购买完成失败，请勿重复请求"
+        },
+        "others_have_paid": {
+            "translation": "该组队已成功，请参与其他组队购买"
+        }
+    }
+}

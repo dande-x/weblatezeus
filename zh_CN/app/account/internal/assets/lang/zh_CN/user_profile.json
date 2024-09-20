@@ -1,0 +1,25 @@
+{
+    "gender": {
+        "male": {
+            "translation": "男"
+        },
+        "female": {
+            "translation": "女"
+        },
+        "non_binary": {
+            "translation": "非二元性别"
+        },
+        "not_to_say": {
+            "translation": "不想说"
+        }
+    },
+    "nickname_under_review_prefix": {
+        "translation": "[审核中]"
+    },
+    "intro_under_review_prefix": {
+        "translation": "[审核中]"
+    },
+    "setting_region_not_match_location": {
+        "translation": "你设置的国家\/地区与所在位置不相符。"
+    }
+}

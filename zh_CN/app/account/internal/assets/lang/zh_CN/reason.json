@@ -1,0 +1,35 @@
+{
+    "BLOCKLIST_ALREADY_EXISTS": {
+        "translation": "不能重复拉黑"
+    },
+    "CAPTCHA_FAILED": {
+        "translation": "人机验证失败"
+    },
+    "FRIEND_ALREADY_FOLLOWED": {
+        "translation": "不能重复关注"
+    },
+    "IDCARD_ALREADY_EXISTS": {
+        "translation": "无法修改已过审身份信息"
+    },
+    "INSUFFICIENT_PRODUCT": {
+        "translation": "应用未开通 TapTap 登录服务"
+    },
+    "NEEDS_CAPTCHA": {
+        "translation": "人机验证失败"
+    },
+    "USER_IS_DEACTIVATED": {
+        "translation": "用户被冻结"
+    },
+    "USER_IS_NOT_QUALIFIED": {
+        "translation": "暂无测试资格或不在测试期间，无法登录游戏"
+    },
+    "COMPLIANCE_TEST_WRONG_CLIENT": {
+        "translation": "只能登录特定游戏"
+    },
+    "APP_TEST_USER_IS_NOT_QUALIFIED": {
+        "translation": "当前账号暂无测试资格，请确认下登录的账号吧~"
+    },
+    "APP_TEST_NOT_WITHIN_DURATION": {
+        "translation": "当前游戏还未开放测试计划呢~"
+    }
+}

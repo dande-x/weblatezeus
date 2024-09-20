@@ -1,0 +1,38 @@
+{
+    "phrase": {
+        "silence_by_forum_admin": {
+            "translation": "你已被论坛管理员禁言"
+        },
+        "forum_not_support_content_publish": {
+            "translation": "该论坛暂不支持内容发布"
+        }
+    },
+    "sentence": {
+        "solved_question_cannot_edit": {
+            "translation": "问题已获得了解答， 无法进行再次编辑。"
+        },
+        "write_something_for_topic_draft": {
+            "translation": "写点内容再发送吧"
+        },
+        "cannot_change_type": {
+            "translation": "不可以修改类型"
+        },
+        "pin_video_type_need_pin_video": {
+            "translation": "请上传视频"
+        },
+        "top_limit": {
+            "translation": "只允许置顶:number个内容"
+        },
+        "top_forbidden_for_group_label_isolated": {
+            "translation": "所属子板块【:name】已设置在首页不显示，不支持论坛置顶"
+        },
+        "title_required": {
+            "translation": "请输入标题"
+        }
+    },
+    "contribute": {
+        "cannot_meet": {
+            "translation": "未满足申精条件"
+        }
+    }
+}

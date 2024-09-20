@@ -1,0 +1,33 @@
+{
+    "obj_mapping": {
+        "topic": {
+            "translation": "动态"
+        },
+        "post": {
+            "translation": "评论"
+        },
+        "review": {
+            "translation": "评价"
+        },
+        "review_comment": {
+            "translation": "评论"
+        },
+        "video": {
+            "translation": "视频"
+        },
+        "video_comment": {
+            "translation": "评论"
+        },
+        "moment": {
+            "translation": "动态"
+        },
+        "moment_comment": {
+            "translation": "评论"
+        }
+    },
+    "empty": {
+        "del_obj": {
+            "translation": "该内容已被删除"
+        }
+    }
+}

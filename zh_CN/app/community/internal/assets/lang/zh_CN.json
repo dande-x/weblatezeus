@@ -1,0 +1,74 @@
+{
+    "notification.title.up": {
+        "translation": ":member 赞了你的:obj"
+    },
+    "notification.title.reply": {
+        "translation": ":member 回复了你的:obj"
+    },
+    "error.internal": {
+        "translation": ""
+    },
+    "error.unknown": {
+        "translation": ""
+    },
+    "developer.errors.topic_not_exists": {
+        "translation": "该帖子不存在"
+    },
+    "developer.errors.video_not_exists": {
+        "translation": "该视频不存在"
+    },
+    "developer.errors.moment_not_exists": {
+        "translation": "该动态不存在"
+    },
+    "developer.errors.invalid_url": {
+        "translation": "URL错误，请检查!"
+    },
+    "developer.errors.inner_app_moment.topic_not_ready": {
+        "translation": "该帖子尚未通过审核或已被隐藏"
+    },
+    "developer.errors.video_not_ready": {
+        "translation": "该视频尚未通过审核或已被隐藏"
+    },
+    "developer.errors.inner_app_moment.over_online_rec_limit": {
+        "translation": "在线运营位最多不超过五个"
+    },
+    "interface.word.all": {
+        "translation": "全部"
+    },
+    "interface.word.official": {
+        "translation": "官方"
+    },
+    "interface.word.elite": {
+        "translation": "精华"
+    },
+    "interface.word.video": {
+        "translation": "视频"
+    },
+    "developer.forum.tapitk.inner_app_type.detail": {
+        "translation": "详情页"
+    },
+    "developer.forum.tapitk.inner_app_type.version": {
+        "translation": "子版块"
+    },
+    "developer.forum.tapitk.inner_app_type.group_tag": {
+        "translation": "标签页"
+    },
+    "developer.forum.tapitk.inner_app_type.strategy": {
+        "translation": "攻略站"
+    },
+    "developer.forum.tapitk.inner_app_type.puzzle": {
+        "translation": "索引页"
+    },
+    "developer.forum.tapitk.inner_app_type.game_set": {
+        "translation": "合集页"
+    },
+    "developer.errors.inner_app_moment.url_not_effective": {
+        "translation": "请输入有效的链接"
+    },
+    "developer.errors.inner_app_moment.url_not_support": {
+        "translation": "请确认该类型帖子是否属于本游戏论坛"
+    },
+    "notification.title.collect": {
+        "translation": ":member 收藏了你的:obj"
+    }
+}

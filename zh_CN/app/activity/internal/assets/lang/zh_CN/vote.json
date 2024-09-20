@@ -1,0 +1,25 @@
+{
+    "vote_not_start": {
+        "translation": "投票将于:time开始"
+    },
+    "vote_end": {
+        "translation": "投票已结束"
+    },
+    "already_voted": {
+        "translation": "已投过票"
+    },
+    "no_publish": {
+        "translation": "投票尚未发布"
+    },
+    "game_award": {
+        "exhausted": {
+            "translation": "剩余票数不足"
+        },
+        "app_voted": {
+            "translation": "不能重复提名同一游戏"
+        },
+        "app_not_found": {
+            "translation": "该游戏不符合提名标准"
+        }
+    }
+}

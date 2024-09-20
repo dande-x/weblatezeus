@@ -1,0 +1,751 @@
+{
+    "name": {
+        "AC": {
+            "translation": "阿森松岛"
+        },
+        "AD": {
+            "translation": "安道尔"
+        },
+        "AE": {
+            "translation": "阿拉伯联合酋长国"
+        },
+        "AF": {
+            "translation": "阿富汗"
+        },
+        "AG": {
+            "translation": "安提瓜和巴布达"
+        },
+        "AI": {
+            "translation": "安圭拉"
+        },
+        "AL": {
+            "translation": "阿尔巴尼亚"
+        },
+        "AM": {
+            "translation": "亚美尼亚"
+        },
+        "AO": {
+            "translation": "安哥拉"
+        },
+        "AR": {
+            "translation": "阿根廷"
+        },
+        "AS": {
+            "translation": "美属萨摩亚"
+        },
+        "AT": {
+            "translation": "奥地利"
+        },
+        "AU": {
+            "translation": "澳大利亚"
+        },
+        "AW": {
+            "translation": "阿鲁巴"
+        },
+        "AX": {
+            "translation": "奥兰群岛"
+        },
+        "AZ": {
+            "translation": "阿塞拜疆"
+        },
+        "BA": {
+            "translation": "波斯尼亚和黑塞哥维那"
+        },
+        "BB": {
+            "translation": "巴巴多斯"
+        },
+        "BD": {
+            "translation": "孟加拉国"
+        },
+        "BE": {
+            "translation": "比利时"
+        },
+        "BF": {
+            "translation": "布基纳法索"
+        },
+        "BG": {
+            "translation": "保加利亚"
+        },
+        "BH": {
+            "translation": "巴林"
+        },
+        "BI": {
+            "translation": "布隆迪"
+        },
+        "BJ": {
+            "translation": "贝宁"
+        },
+        "BL": {
+            "translation": "圣巴泰勒米"
+        },
+        "BM": {
+            "translation": "百慕大"
+        },
+        "BN": {
+            "translation": "文莱"
+        },
+        "BO": {
+            "translation": "玻利维亚"
+        },
+        "BQ": {
+            "translation": "荷兰加勒比区"
+        },
+        "BR": {
+            "translation": "巴西"
+        },
+        "BS": {
+            "translation": "巴哈马"
+        },
+        "BT": {
+            "translation": "不丹"
+        },
+        "BW": {
+            "translation": "博茨瓦纳"
+        },
+        "BY": {
+            "translation": "白俄罗斯"
+        },
+        "BZ": {
+            "translation": "伯利兹"
+        },
+        "CA": {
+            "translation": "加拿大"
+        },
+        "CC": {
+            "translation": "科科斯（基林）群岛"
+        },
+        "CD": {
+            "translation": "刚果（金）"
+        },
+        "CF": {
+            "translation": "中非共和国"
+        },
+        "CG": {
+            "translation": "刚果（布）"
+        },
+        "CH": {
+            "translation": "瑞士"
+        },
+        "CI": {
+            "translation": "科特迪瓦"
+        },
+        "CK": {
+            "translation": "库克群岛"
+        },
+        "CL": {
+            "translation": "智利"
+        },
+        "CM": {
+            "translation": "喀麦隆"
+        },
+        "CN": {
+            "translation": "中国"
+        },
+        "CO": {
+            "translation": "哥伦比亚"
+        },
+        "CR": {
+            "translation": "哥斯达黎加"
+        },
+        "CU": {
+            "translation": "古巴"
+        },
+        "CV": {
+            "translation": "佛得角"
+        },
+        "CW": {
+            "translation": "库拉索"
+        },
+        "CX": {
+            "translation": "圣诞岛"
+        },
+        "CY": {
+            "translation": "塞浦路斯"
+        },
+        "CZ": {
+            "translation": "捷克共和国"
+        },
+        "DE": {
+            "translation": "德国"
+        },
+        "DG": {
+            "translation": "迪戈加西亚岛"
+        },
+        "DJ": {
+            "translation": "吉布提"
+        },
+        "DK": {
+            "translation": "丹麦"
+        },
+        "DM": {
+            "translation": "多米尼克"
+        },
+        "DO": {
+            "translation": "多米尼加共和国"
+        },
+        "DZ": {
+            "translation": "阿尔及利亚"
+        },
+        "EA": {
+            "translation": "休达及梅利利亚"
+        },
+        "EC": {
+            "translation": "厄瓜多尔"
+        },
+        "EE": {
+            "translation": "爱沙尼亚"
+        },
+        "EG": {
+            "translation": "埃及"
+        },
+        "EH": {
+            "translation": "西撒哈拉"
+        },
+        "ER": {
+            "translation": "厄立特里亚"
+        },
+        "ES": {
+            "translation": "西班牙"
+        },
+        "ET": {
+            "translation": "埃塞俄比亚"
+        },
+        "FI": {
+            "translation": "芬兰"
+        },
+        "FJ": {
+            "translation": "斐济"
+        },
+        "FK": {
+            "translation": "福克兰群岛"
+        },
+        "FM": {
+            "translation": "密克罗尼西亚"
+        },
+        "FO": {
+            "translation": "法罗群岛"
+        },
+        "FR": {
+            "translation": "法国"
+        },
+        "GA": {
+            "translation": "加蓬"
+        },
+        "GB": {
+            "translation": "英国"
+        },
+        "GD": {
+            "translation": "格林纳达"
+        },
+        "GE": {
+            "translation": "格鲁吉亚"
+        },
+        "GF": {
+            "translation": "法属圭亚那"
+        },
+        "GG": {
+            "translation": "根西岛"
+        },
+        "GH": {
+            "translation": "加纳"
+        },
+        "GI": {
+            "translation": "直布罗陀"
+        },
+        "GL": {
+            "translation": "格陵兰"
+        },
+        "GM": {
+            "translation": "冈比亚"
+        },
+        "GN": {
+            "translation": "几内亚"
+        },
+        "GP": {
+            "translation": "瓜德罗普"
+        },
+        "GQ": {
+            "translation": "赤道几内亚"
+        },
+        "GR": {
+            "translation": "希腊"
+        },
+        "GT": {
+            "translation": "危地马拉"
+        },
+        "GU": {
+            "translation": "关岛"
+        },
+        "GW": {
+            "translation": "几内亚比绍"
+        },
+        "GY": {
+            "translation": "圭亚那"
+        },
+        "HK": {
+            "translation": "中国香港"
+        },
+        "HN": {
+            "translation": "洪都拉斯"
+        },
+        "HR": {
+            "translation": "克罗地亚"
+        },
+        "HT": {
+            "translation": "海地"
+        },
+        "HU": {
+            "translation": "匈牙利"
+        },
+        "IC": {
+            "translation": "加纳利群岛"
+        },
+        "ID": {
+            "translation": "印度尼西亚"
+        },
+        "IE": {
+            "translation": "爱尔兰"
+        },
+        "IL": {
+            "translation": "以色列"
+        },
+        "IM": {
+            "translation": "曼岛"
+        },
+        "IN": {
+            "translation": "印度"
+        },
+        "IO": {
+            "translation": "英属印度洋领地"
+        },
+        "IQ": {
+            "translation": "伊拉克"
+        },
+        "IR": {
+            "translation": "伊朗"
+        },
+        "IS": {
+            "translation": "冰岛"
+        },
+        "IT": {
+            "translation": "意大利"
+        },
+        "JE": {
+            "translation": "泽西岛"
+        },
+        "JM": {
+            "translation": "牙买加"
+        },
+        "JO": {
+            "translation": "约旦"
+        },
+        "JP": {
+            "translation": "日本"
+        },
+        "KE": {
+            "translation": "肯尼亚"
+        },
+        "KG": {
+            "translation": "吉尔吉斯斯坦"
+        },
+        "KH": {
+            "translation": "柬埔寨"
+        },
+        "KI": {
+            "translation": "基里巴斯"
+        },
+        "KM": {
+            "translation": "科摩罗"
+        },
+        "KN": {
+            "translation": "圣基茨和尼维斯"
+        },
+        "KP": {
+            "translation": "朝鲜"
+        },
+        "KR": {
+            "translation": "韩国"
+        },
+        "KW": {
+            "translation": "科威特"
+        },
+        "KY": {
+            "translation": "开曼群岛"
+        },
+        "KZ": {
+            "translation": "哈萨克斯坦"
+        },
+        "LA": {
+            "translation": "老挝"
+        },
+        "LB": {
+            "translation": "黎巴嫩"
+        },
+        "LC": {
+            "translation": "圣卢西亚"
+        },
+        "LI": {
+            "translation": "列支敦士登"
+        },
+        "LK": {
+            "translation": "斯里兰卡"
+        },
+        "LR": {
+            "translation": "利比里亚"
+        },
+        "LS": {
+            "translation": "莱索托"
+        },
+        "LT": {
+            "translation": "立陶宛"
+        },
+        "LU": {
+            "translation": "卢森堡"
+        },
+        "LV": {
+            "translation": "拉脱维亚"
+        },
+        "LY": {
+            "translation": "利比亚"
+        },
+        "MA": {
+            "translation": "摩洛哥"
+        },
+        "MC": {
+            "translation": "摩纳哥"
+        },
+        "MD": {
+            "translation": "摩尔多瓦"
+        },
+        "ME": {
+            "translation": "黑山共和国"
+        },
+        "MF": {
+            "translation": "法属圣马丁"
+        },
+        "MG": {
+            "translation": "马达加斯加"
+        },
+        "MH": {
+            "translation": "马绍尔群岛"
+        },
+        "MK": {
+            "translation": "马其顿"
+        },
+        "ML": {
+            "translation": "马里"
+        },
+        "MM": {
+            "translation": "缅甸"
+        },
+        "MN": {
+            "translation": "蒙古"
+        },
+        "MO": {
+            "translation": "中国澳门"
+        },
+        "MP": {
+            "translation": "北马里亚纳群岛"
+        },
+        "MQ": {
+            "translation": "马提尼克"
+        },
+        "MR": {
+            "translation": "毛里塔尼亚"
+        },
+        "MS": {
+            "translation": "蒙特塞拉特"
+        },
+        "MT": {
+            "translation": "马耳他"
+        },
+        "MU": {
+            "translation": "毛里求斯"
+        },
+        "MV": {
+            "translation": "马尔代夫"
+        },
+        "MW": {
+            "translation": "马拉维"
+        },
+        "MX": {
+            "translation": "墨西哥"
+        },
+        "MY": {
+            "translation": "马来西亚"
+        },
+        "MZ": {
+            "translation": "莫桑比克"
+        },
+        "NA": {
+            "translation": "纳米比亚"
+        },
+        "NC": {
+            "translation": "新喀里多尼亚"
+        },
+        "NE": {
+            "translation": "尼日尔"
+        },
+        "NF": {
+            "translation": "诺福克岛"
+        },
+        "NG": {
+            "translation": "尼日利亚"
+        },
+        "NI": {
+            "translation": "尼加拉瓜"
+        },
+        "NL": {
+            "translation": "荷兰"
+        },
+        "NO": {
+            "translation": "挪威"
+        },
+        "NP": {
+            "translation": "尼泊尔"
+        },
+        "NR": {
+            "translation": "瑙鲁"
+        },
+        "NU": {
+            "translation": "纽埃"
+        },
+        "NZ": {
+            "translation": "新西兰"
+        },
+        "OM": {
+            "translation": "阿曼"
+        },
+        "PA": {
+            "translation": "巴拿马"
+        },
+        "PE": {
+            "translation": "秘鲁"
+        },
+        "PF": {
+            "translation": "法属波利尼西亚"
+        },
+        "PG": {
+            "translation": "巴布亚新几内亚"
+        },
+        "PH": {
+            "translation": "菲律宾"
+        },
+        "PK": {
+            "translation": "巴基斯坦"
+        },
+        "PL": {
+            "translation": "波兰"
+        },
+        "PM": {
+            "translation": "圣皮埃尔和密克隆"
+        },
+        "PN": {
+            "translation": "皮特凯恩群岛"
+        },
+        "PR": {
+            "translation": "波多黎各"
+        },
+        "PS": {
+            "translation": "巴勒斯坦领土"
+        },
+        "PT": {
+            "translation": "葡萄牙"
+        },
+        "PW": {
+            "translation": "帕劳"
+        },
+        "PY": {
+            "translation": "巴拉圭"
+        },
+        "QA": {
+            "translation": "卡塔尔"
+        },
+        "RE": {
+            "translation": "留尼汪"
+        },
+        "RO": {
+            "translation": "罗马尼亚"
+        },
+        "RS": {
+            "translation": "塞尔维亚"
+        },
+        "RU": {
+            "translation": "俄罗斯"
+        },
+        "RW": {
+            "translation": "卢旺达"
+        },
+        "SA": {
+            "translation": "沙特阿拉伯"
+        },
+        "SB": {
+            "translation": "所罗门群岛"
+        },
+        "SC": {
+            "translation": "塞舌尔"
+        },
+        "SD": {
+            "translation": "苏丹"
+        },
+        "SE": {
+            "translation": "瑞典"
+        },
+        "SG": {
+            "translation": "新加坡"
+        },
+        "SH": {
+            "translation": "圣赫勒拿"
+        },
+        "SI": {
+            "translation": "斯洛文尼亚"
+        },
+        "SJ": {
+            "translation": "斯瓦尔巴和扬马延"
+        },
+        "SK": {
+            "translation": "斯洛伐克"
+        },
+        "SL": {
+            "translation": "塞拉利昂"
+        },
+        "SM": {
+            "translation": "圣马力诺"
+        },
+        "SN": {
+            "translation": "塞内加尔"
+        },
+        "SO": {
+            "translation": "索马里"
+        },
+        "SR": {
+            "translation": "苏里南"
+        },
+        "SS": {
+            "translation": "南苏丹"
+        },
+        "ST": {
+            "translation": "圣多美和普林西比"
+        },
+        "SV": {
+            "translation": "萨尔瓦多"
+        },
+        "SX": {
+            "translation": "荷属圣马丁"
+        },
+        "SY": {
+            "translation": "叙利亚"
+        },
+        "SZ": {
+            "translation": "斯威士兰"
+        },
+        "TC": {
+            "translation": "特克斯和凯科斯群岛"
+        },
+        "TD": {
+            "translation": "乍得"
+        },
+        "TF": {
+            "translation": "法属南部领地"
+        },
+        "TG": {
+            "translation": "多哥"
+        },
+        "TH": {
+            "translation": "泰国"
+        },
+        "TJ": {
+            "translation": "塔吉克斯坦"
+        },
+        "TK": {
+            "translation": "托克劳"
+        },
+        "TL": {
+            "translation": "东帝汶"
+        },
+        "TM": {
+            "translation": "土库曼斯坦"
+        },
+        "TN": {
+            "translation": "突尼斯"
+        },
+        "TO": {
+            "translation": "汤加"
+        },
+        "TR": {
+            "translation": "土耳其"
+        },
+        "TT": {
+            "translation": "特立尼达和多巴哥"
+        },
+        "TV": {
+            "translation": "图瓦卢"
+        },
+        "TW": {
+            "translation": "中国台湾"
+        },
+        "TZ": {
+            "translation": "坦桑尼亚"
+        },
+        "UA": {
+            "translation": "乌克兰"
+        },
+        "UG": {
+            "translation": "乌干达"
+        },
+        "US": {
+            "translation": "美国"
+        },
+        "UY": {
+            "translation": "乌拉圭"
+        },
+        "UZ": {
+            "translation": "乌兹别克斯坦"
+        },
+        "VA": {
+            "translation": "梵蒂冈"
+        },
+        "VC": {
+            "translation": "圣文森特和格林纳丁斯"
+        },
+        "VE": {
+            "translation": "委内瑞拉"
+        },
+        "VG": {
+            "translation": "英属维尔京群岛"
+        },
+        "VI": {
+            "translation": "美属维尔京群岛"
+        },
+        "VN": {
+            "translation": "越南"
+        },
+        "VU": {
+            "translation": "瓦努阿图"
+        },
+        "WF": {
+            "translation": "瓦利斯和富图纳"
+        },
+        "WS": {
+            "translation": "萨摩亚"
+        },
+        "XK": {
+            "translation": "科索沃"
+        },
+        "YE": {
+            "translation": "也门"
+        },
+        "YT": {
+            "translation": "马约特"
+        },
+        "ZA": {
+            "translation": "南非"
+        },
+        "ZM": {
+            "translation": "赞比亚"
+        },
+        "ZW": {
+            "translation": "津巴布韦"
+        }
+    }
+}

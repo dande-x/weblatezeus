@@ -1,0 +1,26 @@
+{
+    "config_not_found": {
+        "translation": "活动不存在"
+    },
+    "team_is_full": {
+        "translation": "来晚了，再看看别的队伍吧。"
+    },
+    "team_not_found": {
+        "translation": "队伍已解散，再看看别的队伍吧。"
+    },
+    "join_condition_not_match": {
+        "translation": "仅活动期间的平台新用户或14天未登录的用户可以被邀请。<br>去创建自己的队伍邀请好友吧。"
+    },
+    "exist_team": {
+        "translation": "您已在「:user」的队伍中（队伍人数:count），不可以再接受别人邀请了哦。"
+    },
+    "create_condition_not_match": {
+        "translation": "创建队伍条件不满足"
+    },
+    "user_has_team": {
+        "translation": "您已有队伍，不可以再创建队伍了哦。"
+    },
+    "user_already_in_team": {
+        "translation": "您已在该队伍中"
+    }
+}

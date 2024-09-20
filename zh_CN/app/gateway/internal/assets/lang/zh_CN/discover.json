@@ -1,0 +1,95 @@
+{
+    "tab": {
+        "top_charts": {
+            "translation": "排行榜"
+        },
+        "upcoming": {
+            "translation": "即将推出"
+        },
+        "gamelist": {
+            "translation": "游戏单"
+        },
+        "trending": {
+            "translation": "热门话题"
+        },
+        "genres": {
+            "translation": "游戏类型"
+        },
+        "events": {
+            "translation": "活动"
+        },
+        "game_of_the_day": {
+            "translation": "今日游戏"
+        },
+        "calendar": {
+            "translation": "游戏日历"
+        },
+        "new_releases": {
+            "translation": "最新上线"
+        },
+        "beta": {
+            "translation": "测试"
+        }
+    },
+    "filter": {
+        "show": {
+            "translation": "显示"
+        },
+        "show_recommended": {
+            "translation": "推荐"
+        },
+        "show_most_popular": {
+            "translation": "最受欢迎"
+        },
+        "show_popular_new_releases": {
+            "translation": "热门新游"
+        },
+        "show_new_releases": {
+            "translation": "全部新游"
+        },
+        "show_popular_upcoming": {
+            "translation": "热门即将推出"
+        },
+        "show_all_upcoming": {
+            "translation": "全部即将推出"
+        },
+        "show_top_wishlisted": {
+            "translation": "最热门愿望清单游戏"
+        },
+        "show_in_beta": {
+            "translation": "测试中的游戏"
+        },
+        "show_upcoming_beta": {
+            "translation": "即将开启的测试"
+        },
+        "view": {
+            "translation": "视图"
+        },
+        "view_card": {
+            "translation": "卡片"
+        },
+        "view_list": {
+            "translation": "列表"
+        },
+        "platform": {
+            "translation": "平台"
+        },
+        "editors_choice": {
+            "translation": "编辑推荐"
+        },
+        "rating": {
+            "translation": "评分"
+        }
+    },
+    "title": {
+        "tag_and_tag": {
+            "translation": ":tag1、:tag2"
+        },
+        "tag_and_more": {
+            "translation": ":tag1、:tag2及另外:value个标签"
+        },
+        "all_tags": {
+            "translation": "全部标签"
+        }
+    }
+}

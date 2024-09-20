@@ -1,0 +1,78 @@
+{
+    "sentence": {
+        "dislike": {
+            "translation": "对此:item不感兴趣"
+        },
+        "dislike_video": {
+            "translation": "不喜欢该视频"
+        },
+        "duplicate": {
+            "translation": "重复推荐\/推荐过"
+        },
+        "discomfort": {
+            "translation": "素材引起不适"
+        },
+        "discomfort_content": {
+            "translation": "内容引起不适"
+        },
+        "dislike_category": {
+            "translation": "不喜欢该分类"
+        },
+        "dislike_thriller": {
+            "translation": "不喜欢恐怖游戏"
+        },
+        "reduce_casual": {
+            "translation": "减少推荐超休游戏"
+        },
+        "reduce_word": {
+            "translation": "减少推荐文字游戏"
+        },
+        "reduce_reserve": {
+            "translation": "减少推荐预约游戏"
+        },
+        "reduce": {
+            "translation": "减少推荐:item"
+        },
+        "dislike_author": {
+            "translation": "不喜欢该作者"
+        },
+        "reduce_chess": {
+            "translation": "减少推荐棋牌游戏"
+        },
+        "reduce_puzzle": {
+            "translation": "减少推荐益智游戏"
+        },
+        "reduce_otome": {
+            "translation": "减少推荐乙女游戏"
+        },
+        "reduce_parkour": {
+            "translation": "减少推荐跑酷游戏"
+        },
+        "reduce_app": {
+            "translation": "减少推荐应用"
+        },
+        "dislike_topic": {
+            "translation": "不喜欢该图文"
+        }
+    },
+    "item": {
+        "game": {
+            "translation": "游戏"
+        },
+        "event": {
+            "translation": "专题"
+        },
+        "in_app_event": {
+            "translation": "新版本"
+        },
+        "craft": {
+            "translation": "创意工坊"
+        },
+        "video": {
+            "translation": "视频"
+        },
+        "topic": {
+            "translation": "图文"
+        }
+    }
+}

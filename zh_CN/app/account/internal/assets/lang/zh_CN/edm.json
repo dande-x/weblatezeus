@@ -1,0 +1,52 @@
+{
+    "bottom": {
+        "text": {
+            "translation": "© 2022 TapTap All rights reserved."
+        }
+    },
+    "confirm_email": {
+        "button1": {
+            "text": {
+                "translation": "Confirm your account"
+            }
+        },
+        "button2": {
+            "text": {
+                "translation": "Confirm now"
+            }
+        },
+        "content_text1": {
+            "translation": "Discover new games that we personally curate just for you"
+        },
+        "content_text2": {
+            "translation": "Engage with your community whether it be with other gamers or the developers themselves"
+        },
+        "content_text3": {
+            "translation": "Participate in exclusive closed betas only available through TapTap"
+        },
+        "content_title": {
+            "translation": "Your new hub to superb games"
+        },
+        "text1": {
+            "translation": "Keep your account secure and enjoy a whole new way to discover superb games."
+        }
+    },
+    "download_button": {
+        "text": {
+            "translation": "Download for free"
+        }
+    },
+    "taptap": {
+        "text": {
+            "translation": "TapTap is a community and platform designed for you to find new things around video games to fall in love with."
+        }
+    },
+    "unsubscribe": {
+        "translation": "Unsubscribe"
+    },
+    "welcome": {
+        "title": {
+            "translation": "Welcome to TapTap"
+        }
+    }
+}

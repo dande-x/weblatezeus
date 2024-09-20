@@ -1,0 +1,25 @@
+{
+    "platform": {
+        "apple": {
+            "translation": "Apple"
+        },
+        "facebook": {
+            "translation": "Facebook"
+        },
+        "google": {
+            "translation": "Google"
+        },
+        "line": {
+            "translation": "Line"
+        },
+        "naver": {
+            "translation": "Naver"
+        },
+        "qq": {
+            "translation": "QQ"
+        },
+        "wechat": {
+            "translation": "微信"
+        }
+    }
+}

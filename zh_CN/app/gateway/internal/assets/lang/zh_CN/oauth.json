@@ -1,0 +1,83 @@
+{
+    "login_from": {
+        "password": {
+            "translation": "来自密码登录"
+        },
+        "authorization_code": {
+            "translation": "来自授权登录"
+        },
+        "social_apple": {
+            "translation": "来自苹果登录"
+        },
+        "social_facebook": {
+            "translation": "来自Facebook登录"
+        },
+        "social_google": {
+            "translation": "来自Google登录"
+        },
+        "social_line": {
+            "translation": "来自Line登录"
+        },
+        "social_naver": {
+            "translation": "来自Naver登录"
+        },
+        "social_qq": {
+            "translation": "来自QQ登录"
+        },
+        "social_wechat": {
+            "translation": "来自微信登录"
+        }
+    },
+    "scope": {
+        "public_profile": {
+            "translation": "基本信息"
+        },
+        "user_friends": {
+            "translation": "好友关系"
+        },
+        "user_friends_all": {
+            "translation": "全部好友关系"
+        },
+        "user_idcard": {
+            "translation": "实名信息"
+        },
+        "compliance": {
+            "translation": "合规认证"
+        },
+        "email": {
+            "translation": "邮箱"
+        },
+        "basic_info": {
+            "translation": "基本信息"
+        },
+        "phone": {
+            "translation": "手机号"
+        }
+    },
+    "scope_intro": {
+        "public_profile": {
+            "translation": "使用你的 TapTap 昵称、头像"
+        },
+        "user_friends": {
+            "translation": "使用你在 TapTap 的好友关系"
+        },
+        "user_friends_all": {
+            "translation": "访问并修改你在 TapTap 的好友关系"
+        },
+        "user_idcard": {
+            "translation": "使用你的实名信息"
+        },
+        "compliance": {
+            "translation": "获取你的年龄段信息，用于游戏内防沉迷流程"
+        },
+        "email": {
+            "translation": "使用你的邮箱"
+        },
+        "basic_info": {
+            "translation": "使用你的 TapTap 账号登录"
+        },
+        "phone": {
+            "translation": "获取你的手机号为你提供服务"
+        }
+    }
+}

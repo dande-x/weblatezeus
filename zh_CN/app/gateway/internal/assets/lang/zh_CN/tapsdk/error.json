@@ -1,0 +1,131 @@
+{
+    "common": {
+        "title": {
+            "translation": "注意：TapTap SDK 未正确配置，无法使用 TapTap 开发者服务"
+        },
+        "reason": {
+            "translation": "此问题由以下原因导致："
+        },
+        "app_info": {
+            "translation": "当前应用信息如下："
+        }
+    },
+    "client_not_support_sdk_version": {
+        "reason": {
+            "translation": "当前应用仅支持 ≤ 3.X 版本 SDK，无法使用此版本 SDK。"
+        },
+        "resolution": {
+            "translation": "若希望使用此 SDK，请前往 TapTap 开发者中心，创建工单以联系技术支持协助处理。"
+        },
+        "message": {
+            "translation": "TapSDK: 当前应用仅支持 ≤3.X 版本 SDK。详见 ErrLog"
+        }
+    },
+    "invalid_app_info": {
+        "reason": {
+            "translation": "应用的包名（package name）、签名（certificate fingerprint）或 iOS bundle ID 未在 TapTap 开发者中心正确配置。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。"
+        }
+    },
+    "invalid_client_id": {
+        "reason": {
+            "translation": "Client ID 不存在。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "TapSDK: Client ID 不存在。详见 ErrLog"
+        }
+    },
+    "invalid_secret": {
+        "reason": {
+            "translation": "密钥错误。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "密钥错误。"
+        }
+    },
+    "invalid_client_token_sign": {
+        "reason": {
+            "translation": "Client Token 不正确或与 Client ID 不匹配。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "TapSDK: 网络签名错误。详见 ErrLog"
+        }
+    },
+    "invalid_server_secret_sign": {
+        "reason": {
+            "translation": "请求签名错误。"
+        },
+        "resolution": {
+            "translation": "请检查 Server Secret 与签名算法是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "请求签名错误。"
+        }
+    },
+    "invalid_payment_secret_sign": {
+        "reason": {
+            "translation": "请求签名错误。"
+        },
+        "resolution": {
+            "translation": "请检查支付密钥与签名算法是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "请求签名错误。"
+        }
+    },
+    "client_region_mismatch": {
+        "reason": {
+            "translation": "此应用配置地区与其在 TapTap 开发者中心声明地区不匹配。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+        },
+        "message": {
+            "translation": "TapSDK: 应用配置地区不匹配。详见 ErrLog"
+        }
+    },
+    "description": {
+        "title": {
+            "translation": "注意：TapSDK 未正确配置，无法使用 TapTap 开发者服务"
+        },
+        "reason": {
+            "translation": "此问题由以下原因导致："
+        },
+        "app_info": {
+            "translation": "当前应用信息如下："
+        }
+    },
+    "invalid_app_package_name_or_sign": {
+        "message": {
+            "translation": "TapSDK: 包名、签名错误。详见 ErrLog"
+        },
+        "reason": {
+            "translation": "应用的包名（package name）、签名（certificate fingerprint）未在 TapTap 开发者中心正确配置。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。"
+        }
+    },
+    "invalid_app_bundle_id": {
+        "message": {
+            "translation": "TapSDK: bundle ID 错误。详见 ErrLog"
+        },
+        "reason": {
+            "translation": "应用的 bundle ID 未在 TapTap 开发者中心正确配置。"
+        },
+        "resolution": {
+            "translation": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。"
+        }
+    }
+}

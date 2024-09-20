@@ -1,0 +1,12 @@
+{
+    "button": {
+        "got_it": {
+            "translation": "了解"
+        }
+    },
+    "title": {
+        "register_too_young": {
+            "translation": "该应用不对未成年人开放注册"
+        }
+    }
+}

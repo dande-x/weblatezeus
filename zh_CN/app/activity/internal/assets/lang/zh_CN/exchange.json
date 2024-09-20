@@ -1,0 +1,11 @@
+{
+    "prize_inventory_not_enough": {
+        "translation": "抱歉，没有库存了"
+    },
+    "prize_exchange_total_limit": {
+        "translation": "已达兑换上限，看看别的奖品吧"
+    },
+    "score_not_enough": {
+        "translation": ":title不足，兑换失败"
+    }
+}

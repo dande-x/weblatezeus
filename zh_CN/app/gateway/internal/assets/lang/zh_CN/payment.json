@@ -1,0 +1,32 @@
+{
+    "refund_apply": {
+        "label": {
+            "awaiting": {
+                "translation": "等待开发者审核"
+            },
+            "cancel": {
+                "translation": "已取消"
+            },
+            "declined": {
+                "translation": "已驳回"
+            },
+            "failed": {
+                "translation": "退款失败"
+            },
+            "refunded": {
+                "translation": "已退款"
+            },
+            "submitted": {
+                "translation": "已提交"
+            }
+        },
+        "text": {
+            "failed": {
+                "translation": "处理您的退款时出现问题，请联系 feedback@taptap.com 寻求进一步帮助。"
+            },
+            "refunded": {
+                "translation": "退款将在1-30个工作日内退还至原支付方式。"
+            }
+        }
+    }
+}

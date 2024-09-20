@@ -1,0 +1,13 @@
+{
+    "interface": {
+        "uri_title": {
+            "translation": "点击跳转至详情页面"
+        },
+        "skip_ads_title": {
+            "translation": "跳过广告 %d"
+        },
+        "skip_title": {
+            "translation": "跳过 %d"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "internal": {
+        "translation": "服务器内部错误"
+    },
+    "network_error": {
+        "translation": "网络延迟，请重试"
+    },
+    "task": {
+        "not_started": {
+            "translation": "任务未开始"
+        },
+        "not_finished": {
+            "translation": "任务未完成"
+        },
+        "expired": {
+            "translation": "任务已过期"
+        },
+        "generate_invite_code_failed": {
+            "translation": "邀请码生成失败"
+        },
+        "already_finished": {
+            "translation": "任务已完成"
+        }
+    },
+    "score": {
+        "not_enough": {
+            "translation": "积分不足"
+        }
+    }
+}

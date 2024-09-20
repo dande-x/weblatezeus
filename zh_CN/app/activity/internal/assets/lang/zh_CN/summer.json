@@ -1,0 +1,25 @@
+{
+    "invitation": {
+        "cannot_help_self": {
+            "translation": "无法为自己助力"
+        },
+        "already_help_user": {
+            "translation": "已为该用户助力"
+        },
+        "limit_help_count": {
+            "translation": "今日助力次数已达上限，明天再来哟~"
+        },
+        "limit_user_helped_count": {
+            "translation": "已有太多人为你的好友助力，请明日再来哟~"
+        },
+        "code_notfound": {
+            "translation": "邀请码错误，请重新填写"
+        }
+    },
+    "activity_not_start": {
+        "translation": "活动未开始"
+    },
+    "activity_finished": {
+        "translation": "活动已结束"
+    }
+}

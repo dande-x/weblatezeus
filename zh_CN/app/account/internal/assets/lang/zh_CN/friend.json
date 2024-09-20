@@ -1,0 +1,26 @@
+{
+    "blacklisting": {
+        "translation": "请先解除黑名单，再关注该用户"
+    },
+    "cannot_follow_user_from_different_store": {
+        "translation": "不能关注来自其他地区的用户"
+    },
+    "deleted_alert_follow": {
+        "translation": "该用户已注销，无法关注"
+    },
+    "following_failed_in_blacklisting": {
+        "translation": "关注失败，被对方拉黑"
+    },
+    "following_failed_insufficient_scope_friend": {
+        "translation": "关注失败，对方没有授权好友权限"
+    },
+    "following_failed_max_size_limit": {
+        "translation": "关注失败，已达到关注用户数上限"
+    },
+    "not_allow_follow_self": {
+        "translation": "不允许关注自己"
+    },
+    "blocking_failed_insufficient_scope_friend": {
+        "translation": "拉黑失败，对方没有授权好友权限"
+    }
+}

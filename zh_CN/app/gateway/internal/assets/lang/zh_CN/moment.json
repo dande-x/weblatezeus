@@ -1,0 +1,14 @@
+{
+    "been_deleted_by_author": {
+        "translation": "抱歉，原内容已被作者删除"
+    },
+    "content_temporarily_invisible": {
+        "translation": "内容暂时不可见"
+    },
+    "content_invisible": {
+        "translation": "该内容不可见"
+    },
+    "content_invalid": {
+        "translation": "该内容已失效"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "pre_register_succeed": {
+        "translation": "预约成功"
+    },
+    "pre_register_succeed_with_chance": {
+        "translation": "预约成功，获得一次抽奖机会"
+    },
+    "pre_register_failed": {
+        "translation": "预约失败"
+    },
+    "pre_register_canceled": {
+        "translation": "预约已取消"
+    },
+    "share_succeed": {
+        "translation": "分享成功"
+    },
+    "share_succeed_with_chance": {
+        "translation": "获得一次抽奖机会"
+    },
+    "share_failed": {
+        "translation": "分享失败"
+    }
+}

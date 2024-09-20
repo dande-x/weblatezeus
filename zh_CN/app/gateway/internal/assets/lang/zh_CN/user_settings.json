@@ -1,0 +1,24 @@
+{
+    "notification_collect": {
+        "title": {
+            "translation": "有人收藏我"
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_played_to_review": {
+        "title": {
+            "translation": "玩过游戏写评价邀请"
+        },
+        "subtitle": {
+            "translation": ""
+        }
+    },
+    "notification_game_of_the_day": {
+        "translation": "今日游戏"
+    },
+    "notification_personalized_recommendations": {
+        "translation": "个性化推送"
+    }
+}

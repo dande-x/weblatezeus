@@ -1,0 +1,180 @@
+{
+    "notice": {
+        "label": {
+            "must": {
+                "translation": "全部"
+            },
+            "auto": {
+                "translation": "个性化"
+            },
+            "mute": {
+                "translation": "免打扰"
+            }
+        },
+        "content": {
+            "must": {
+                "translation": "提醒 Ta 的全部消息"
+            },
+            "auto": {
+                "translation": "仅提醒你可能感兴趣的消息"
+            },
+            "mute": {
+                "translation": "接收但不提醒 Ta 的消息"
+            }
+        }
+    },
+    "bottom": {
+        "text": {
+            "game_serial_number": {
+                "translation": ":code"
+            },
+            "game_gift_number": {
+                "translation": ":code"
+            },
+            "redeem_code": {
+                "translation": ":code"
+            },
+            "redeem_code_text": {
+                "translation": "兑换码"
+            },
+            "game_gift_number_text": {
+                "translation": "礼包码"
+            },
+            "game_serial_number_text": {
+                "translation": "激活码"
+            }
+        },
+        "label": {
+            "game_serial_number": {
+                "translation": "复制"
+            },
+            "game_gift_number": {
+                "translation": "复制"
+            },
+            "play": {
+                "translation": "立即去玩"
+            },
+            "go_to": {
+                "translation": "去看看"
+            },
+            "redeem_code": {
+                "translation": "复制"
+            }
+        }
+    },
+    "prefix": {
+        "text": {
+            "game_serial_number": {
+                "translation": "激活码"
+            },
+            "game_gift_number": {
+                "translation": "礼包码"
+            },
+            "redeem_code": {
+                "translation": "兑换码"
+            },
+            "test": {
+                "translation": "测试资格"
+            },
+            "download": {
+                "translation": "开放下载"
+            },
+            "open_test": {
+                "translation": "开放测试"
+            },
+            "new": {
+                "translation": "游戏上线"
+            },
+            "new_version": {
+                "translation": "新版上线"
+            }
+        }
+    },
+    "message": {
+        "send_need_follow": {
+            "translation": "互相关注才可发送私信"
+        }
+    },
+    "obj_mapping": {
+        "topic": {
+            "translation": "内容"
+        },
+        "post": {
+            "translation": "评论"
+        },
+        "review": {
+            "translation": "评价"
+        },
+        "review_comment": {
+            "translation": "评论"
+        },
+        "video": {
+            "translation": "内容"
+        },
+        "video_comment": {
+            "translation": "评论"
+        },
+        "moment": {
+            "translation": "内容"
+        },
+        "moment_comment": {
+            "translation": "评论"
+        },
+        "album": {
+            "translation": "图片"
+        },
+        "album_comment": {
+            "translation": "评论"
+        },
+        "gift": {
+            "translation": "礼物"
+        },
+        "commentary": {
+            "translation": "评测"
+        },
+        "creation_post": {
+            "translation": "帖子"
+        },
+        "creation_comment": {
+            "translation": "评论"
+        }
+    },
+    "title": {
+        "collect": {
+            "translation": ":member 收藏了你的:obj"
+        },
+        "repost": {
+            "translation": "转发了你的:obj"
+        }
+    },
+    "system_sender": {
+        "5": {
+            "name": {
+                "translation": "TapTap 抽奖小助手"
+            },
+            "goto": {
+                "translation": "查看抽奖小助手"
+            }
+        },
+        "6": {
+            "name": {
+                "translation": "活动通知"
+            }
+        },
+        "7": {
+            "name": {
+                "translation": "创作者运营"
+            }
+        },
+        "8": {
+            "name": {
+                "translation": "编辑精选"
+            }
+        }
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "translation": {
+            "other": ":first 和 :second 等 :count 人"
+        }
+    }
+}

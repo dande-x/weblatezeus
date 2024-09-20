@@ -1,0 +1,277 @@
+{
+    "account_has_been_activated": {
+        "translation": "当前账号已经被激活"
+    },
+    "account_is_deleted": {
+        "translation": "账号已经注销"
+    },
+    "account_is_deactivated": {
+        "translation": "账号已经注销"
+    },
+    "account_not_found_or_deleted": {
+        "translation": "账号不存在或已被屏蔽"
+    },
+    "can_not_unbind_phone": {
+        "translation": "解绑手机号时必须有至少一个其他社交账号"
+    },
+    "can_not_unbind_phone_for_intl": {
+        "translation": "解绑手机号时必须有至少一个其他社交账号或绑定邮箱"
+    },
+    "can_not_unbind_social": {
+        "translation": "出于账号安全目前已取消邮箱注册登录，解绑社交账号时必须有至少一个其他社交账号或绑定手机号。如有疑问可联系 TapTap 官方客服QQ：800180417"
+    },
+    "can_not_unbind_social_for_intl": {
+        "translation": "出于账号安全考虑，解绑社交账号时必须有至少一个其他社交账号或绑定手机号。如有疑问可联系TapTap官方客服 Email: feedback@taptap.com"
+    },
+    "can_not_unbind_email": {
+        "translation": "解绑邮箱时必须有至少一个其他社交账号或绑定手机号"
+    },
+    "captcha": {
+        "invalid_code": {
+            "translation": "验证码错误"
+        },
+        "retry_after_seconds": {
+            "translation": "操作频率过高，请 :seconds 秒 后重试"
+        },
+        "too_many_attempts": {
+            "translation": "操作频率过高，请稍后重试"
+        }
+    },
+    "client_test_users_limit": {
+        "translation": "最多添加:num名测试用户，若要添加新测试用户，请先删除其他用户"
+    },
+    "cn_block_intl": {
+        "translation": "请前往 TapTap 国际端登录此账号"
+    },
+    "do_not_register": {
+        "translation": "不允许使用此登录方式注册"
+    },
+    "email_has_been_register_user_id_is": {
+        "translation": "邮箱已被注册, 用户 ID: :id"
+    },
+    "email_is_exists": {
+        "translation": "邮箱已存在, 请重新填写"
+    },
+    "email_unregistered": {
+        "translation": "邮箱地址未注册"
+    },
+    "function_upgrade": {
+        "translation": "功能维护中，将于4月2日中午12:00起开放"
+    },
+    "has_bind_another_account_please_login_use_it": {
+        "translation": "该 :platform 已绑定其他 TapTap 账户，请直接用该账户进行登录。"
+    },
+    "has_bind_cn_block_intl": {
+        "translation": "您的账号已经绑定 TapTap 国际端，请前往 TapTap 国际端登录此账号"
+    },
+    "has_bind_intl_block_cn": {
+        "translation": "您的账号已经绑定 TapTap 国内端，请前往 TapTap 国内端登录此账号"
+    },
+    "internal": {
+        "translation": "服务器内部错误"
+    },
+    "intl_block_cn": {
+        "translation": "请前往 TapTap 国内端登录此账号"
+    },
+    "invalid_bundle_id": {
+        "translation": ":id 不是一个有效的 bundle id"
+    },
+    "invalid_domain": {
+        "translation": ":domain 不是一个有效的域名"
+    },
+    "invalid_email": {
+        "translation": "请填写正确的邮箱地址"
+    },
+    "invalid_email_suggestion": {
+        "translation": "邮件地址无效，试试 :email ?"
+    },
+    "invalid_package_name": {
+        "translation": ":name 不是一个有效的包名"
+    },
+    "invalid_package_sign": {
+        "translation": ":sign 不是一个有效的包签名"
+    },
+    "invalid_password": {
+        "translation": "请输入正确的密码"
+    },
+    "invalid_phone_number": {
+        "translation": "手机号码无效，请正确填写手机号码"
+    },
+    "no_supported_phone_for_this_region": {
+        "translation": "暂不支持该地区手机号码"
+    },
+    "invalid_request": {
+        "translation": "请求错误"
+    },
+    "invalid_time": {
+        "translation": "系统时间错误，请检查是否已设置为当前日期和时间"
+    },
+    "keep_one_login_method": {
+        "translation": "至少保留一种登录方式"
+    },
+    "line_login_or_bind_disabled": {
+        "translation": "已停止Line账号注册\/绑定服务，请使用其他账号。"
+    },
+    "login_method_exists_and_user_deactivated": {
+        "translation": "此 :method 所绑定的账号仍在注销过程中，将于 :datetime 完成"
+    },
+    "login_session_has_expired": {
+        "translation": "页面已过期，请重新登录"
+    },
+    "overseas_user_unable_to_login": {
+        "translation": "手机号绑定了海外账号，暂不支持登录。"
+    },
+    "page_has_expired": {
+        "translation": "页面已经过期，请刷新页面重试"
+    },
+    "password_unregistered": {
+        "translation": "邮箱地址未注册"
+    },
+    "permission_denied": {
+        "translation": "你无权执行此操作"
+    },
+    "phone_can_not_be_merged": {
+        "translation": ":phone 已有账号绑定，请更换后再试"
+    },
+    "phone_is_banned": {
+        "translation": "手机号码已被屏蔽"
+    },
+    "phone_is_bound": {
+        "translation": "手机号码已被绑定"
+    },
+    "phone_is_exists": {
+        "translation": "手机号已存在, 请重新填写"
+    },
+    "phone_unregistered": {
+        "translation": "手机号码未注册"
+    },
+    "phone_verify_unregistered": {
+        "translation": "手机号码未注册"
+    },
+    "platforms_package_limit": {
+        "translation": ":platform 平台，每个 client 最多配置 :number 个"
+    },
+    "product_banned": {
+        "translation": "该服务已被管理员禁用"
+    },
+    "product_disabled": {
+        "translation": "该服务已被厂商停用"
+    },
+    "product_is_not_banned": {
+        "translation": "该服务未被禁用"
+    },
+    "product_was_not_enabled": {
+        "translation": "该服务未被开启过，不可被解禁"
+    },
+    "register_forbidden": {
+        "translation": "此邮箱未注册，为了账号安全，请使用手机号进行注册～"
+    },
+    "register_forbidden_for_age": {
+        "translation": "您的年龄必须大于 :age 才能使用 TapTap"
+    },
+    "repeat_bundle_id": {
+        "translation": ":id bundle id 重复"
+    },
+    "repeat_package_name": {
+        "translation": ":name 包名重复"
+    },
+    "session_has_expired": {
+        "translation": "会话已经过期，请重试"
+    },
+    "social_is_banned": {
+        "translation": "社交账号已被屏蔽"
+    },
+    "social_is_exists": {
+        "translation": "该社交账号已绑定其他TapTap账户，请直接用该账户进行登录。"
+    },
+    "social_unregistered": {
+        "translation": "社交账号未註冊"
+    },
+    "system_upgrade_profile_update_forbidden": {
+        "translation": "功能维护中，暂不支持修改"
+    },
+    "system_upgrade_register_forbidden": {
+        "translation": "用户注册系统升级中，将于4月2日中午12:00起开放。"
+    },
+    "the_email_registered": {
+        "translation": "邮件地址已被注册"
+    },
+    "the_password_registered": {
+        "translation": "邮件地址已被注册"
+    },
+    "the_phone_registered": {
+        "translation": "手机号码已经注册"
+    },
+    "the_social_registered": {
+        "translation": "社交账号已被注册"
+    },
+    "union_arrears": {
+        "translation": "厂商欠费"
+    },
+    "unknown": {
+        "translation": "未知错误"
+    },
+    "user_bound_phone_number": {
+        "translation": "手机号已绑定或被屏蔽"
+    },
+    "user_disabled_until_time": {
+        "translation": "此 :platform 所绑定的账号仍在注销过程中，将于 :datetime 完成"
+    },
+    "user_have_not_bound_phone_number": {
+        "translation": "未绑定手机号码!"
+    },
+    "user_is_banned": {
+        "translation": "用户被禁用"
+    },
+    "user_is_disabled": {
+        "translation": "用户已注销"
+    },
+    "user_is_not_deactivated": {
+        "translation": "当前用户不是冻结状态"
+    },
+    "you_have_linked_your_email": {
+        "translation": "你已经绑定了邮箱"
+    },
+    "you_have_linked_your_phone": {
+        "translation": "你已经绑定了手机号码"
+    },
+    "you_have_not_link_your_email": {
+        "translation": "你尚未绑定邮箱"
+    },
+    "email_activated": {
+        "translation": "邮箱已验证"
+    },
+    "email_unactivated": {
+        "translation": "邮箱未验证"
+    },
+    "you_have_not_link_your_phone": {
+        "translation": "你尚未绑定了手机号码"
+    },
+    "password_cannot_empty": {
+        "translation": "密码不可为空"
+    },
+    "get_mobile_failed": {
+        "translation": "获取手机号失败"
+    },
+    "new_password_is_eq_old": {
+        "translation": "新密码不可与旧密码相同"
+    },
+    "please_upgrade_client": {
+        "translation": "请升级当前客户端"
+    },
+    "can_not_deactivate_user": {
+        "translation": "出于账号安全考虑，注销账号时必须有至少一个其他社交账号\/手机号\/邮箱验证方式"
+    },
+    "no_supported_email": {
+        "translation": "邮件地址无效，当前邮箱不支持使用"
+    },
+    "disable_suffix_email_hmledu": {
+        "translation": "邮件地址无效，当前邮箱不支持使用"
+    },
+    "phone_not_supported_for_intl": {
+        "translation": "当前手机号码不支持使用，请使用邮箱地址或 Google 登录。"
+    },
+    "client_request_scopes_not_allowed": {
+        "translation": "请求的 scope ( :scope ) 没有在当前 client ( :clientId ) 开通。请前往开发者服务后台开通对应的服务（例如 compliance scope 需要开通合规认证服务）。"
+    }
+}

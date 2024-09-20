@@ -1,0 +1,39 @@
+{
+    "task": {
+        "type_error": {
+            "translation": "任务类型错误"
+        },
+        "closed": {
+            "translation": "任务已关闭"
+        },
+        "failed_to_generate_code": {
+            "translation": "邀请码生成失败"
+        },
+        "unsupported_action_type": {
+            "translation": "不支持的任务动作类型"
+        },
+        "uid_cannot_empty": {
+            "translation": "uid不能为空"
+        },
+        "smfp_cannot_empty": {
+            "translation": "smfp不能为空"
+        }
+    },
+    "not_start": {
+        "translation": "活动未开始"
+    },
+    "finished": {
+        "translation": "活动已结束"
+    },
+    "safe_risk_msg": {
+        "translation": "安全校验中，请稍后参与活动"
+    },
+    "topic_lottery": {
+        "condition_count_limit": {
+            "translation": "条件数目不得超过:count个"
+        },
+        "condition_invalid": {
+            "translation": "参与条件无效"
+        }
+    }
+}

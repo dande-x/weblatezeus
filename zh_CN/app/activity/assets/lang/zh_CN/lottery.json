@@ -1,0 +1,11 @@
+{
+    "remain_fail": {
+        "translation": "已无抽奖次数"
+    },
+    "lottery_not_start": {
+        "translation": "抽奖将于:time开始"
+    },
+    "lottery_end": {
+        "translation": "抽奖已结束"
+    }
+}

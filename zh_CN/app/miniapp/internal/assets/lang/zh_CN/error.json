@@ -1,0 +1,35 @@
+{
+    "unknown": {
+        "translation": "未知错误"
+    },
+    "internal": {
+        "translation": "服务器内部错误"
+    },
+    "invalid_openid": {
+        "translation": "无效的 openid"
+    },
+    "invalid_access_token": {
+        "translation": "无效或过期的 access_token"
+    },
+    "user_session_key_not_found": {
+        "translation": "用户 session_key 未找到"
+    },
+    "miniapp_not_found": {
+        "translation": "未找到小游戏 :id"
+    },
+    "invalid_session_code": {
+        "translation": "无效的 code"
+    },
+    "invalid_version": {
+        "translation": "无效的版本号 :version"
+    },
+    "miniapp_developer_exceed_limit": {
+        "translation": "开发者数量不可超过 :limit"
+    },
+    "miniapp_developer_already_exists": {
+        "translation": "此开发者已存在"
+    },
+    "develop_permission_required": {
+        "translation": "当前账号没有测试资格"
+    }
+}

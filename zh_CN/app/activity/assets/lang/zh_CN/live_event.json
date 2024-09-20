@@ -1,0 +1,11 @@
+{
+    "prize_not_start": {
+        "translation": "开奖时间未到"
+    },
+    "prize_is_lottery": {
+        "translation": "已开奖"
+    },
+    "prize_join_user_empty": {
+        "translation": "无用户参与抽奖"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "sentence": {
+        "blacklisted": {
+            "translation": "由于对方设置，操作失败"
+        },
+        "blacklisted_on_comment": {
+            "translation": "由于对方设置，你无法发表评论"
+        }
+    }
+}

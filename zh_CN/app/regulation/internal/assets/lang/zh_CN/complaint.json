@@ -1,0 +1,28 @@
+{
+    "resolve_type": {
+        "normal      ": {
+            "translation": "审核处理"
+        },
+        "ban         ": {
+            "translation": "屏蔽"
+        },
+        "delete      ": {
+            "translation": "删除"
+        },
+        "collapsed   ": {
+            "translation": "折叠"
+        },
+        "ignore      ": {
+            "translation": "忽略"
+        },
+        "hidden      ": {
+            "translation": "隐藏"
+        },
+        "silent      ": {
+            "translation": "禁言"
+        },
+        "self_deleted": {
+            "translation": "自删除"
+        }
+    }
+}

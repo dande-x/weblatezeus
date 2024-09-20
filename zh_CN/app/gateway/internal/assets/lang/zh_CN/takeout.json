@@ -1,0 +1,219 @@
+{
+    "profile": {
+        "title": {
+            "translation": "用户资料信息"
+        },
+        "nickname": {
+            "title": {
+                "translation": "昵称"
+            },
+            "purpose": {
+                "translation": "完成账号注册"
+            },
+            "scene": {
+                "translation": "创建账号、修改个人资料"
+            }
+        },
+        "avatar": {
+            "title": {
+                "translation": "头像"
+            },
+            "purpose": {
+                "translation": "完成账号注册"
+            },
+            "scene": {
+                "translation": "创建账号、修改个人资料"
+            }
+        },
+        "social": {
+            "title": {
+                "translation": "第三方账号"
+            },
+            "purpose": {
+                "translation": "快捷登录、保护账号安全"
+            },
+            "scene": {
+                "translation": "用户使用第三方平台账号登录、修改账号绑定关系"
+            }
+        },
+        "phone": {
+            "title": {
+                "translation": "手机号"
+            },
+            "purpose": {
+                "translation": "完成账号注册、保护账号安全"
+            },
+            "scene": {
+                "translation": "创建账号、用户登录、修改账号绑定关系"
+            }
+        },
+        "gender": {
+            "title": {
+                "translation": "性别"
+            },
+            "purpose": {
+                "translation": "用户自行完善设置"
+            },
+            "scene": {
+                "translation": "修改个人资料"
+            }
+        },
+        "birthday": {
+            "title": {
+                "translation": "生日"
+            },
+            "purpose": {
+                "translation": "用户自行完善设置"
+            },
+            "scene": {
+                "translation": "修改个人资料"
+            }
+        },
+        "region": {
+            "title": {
+                "translation": "地区"
+            },
+            "purpose": {
+                "translation": "用户自行完善设置"
+            },
+            "scene": {
+                "translation": "修改个人资料"
+            }
+        }
+    },
+    "identity": {
+        "title": {
+            "translation": "用户身份信息"
+        },
+        "name": {
+            "title": {
+                "translation": "姓名"
+            },
+            "purpose": {
+                "translation": "进行实名认证"
+            },
+            "scene": {
+                "translation": "下载或购买游戏、发布动态内容"
+            }
+        },
+        "number": {
+            "title": {
+                "translation": "身份证号"
+            },
+            "purpose": {
+                "translation": "进行实名认证"
+            },
+            "scene": {
+                "translation": "下载或购买游戏、发布动态内容"
+            }
+        }
+    },
+    "service": {
+        "title": {
+            "translation": "服务内容信息"
+        },
+        "trade": {
+            "title": {
+                "translation": "交易信息"
+            },
+            "purpose": {
+                "translation": "保障交易安全、提供售后及争议解决服务"
+            },
+            "scene": {
+                "translation": "购买商品或服务"
+            },
+            "collected": {
+                "translation": "可在我-订单中查看"
+            }
+        },
+        "order": {
+            "title": {
+                "translation": "预约信息"
+            },
+            "purpose": {
+                "translation": "展示用户预约游戏、提供个性化推荐服务"
+            },
+            "scene": {
+                "translation": "预约游戏"
+            },
+            "collected": {
+                "translation": "可在我的游戏-预约中查看"
+            }
+        },
+        "history": {
+            "title": {
+                "translation": "浏览记录"
+            },
+            "purpose": {
+                "translation": "提供个性化推荐服务"
+            },
+            "scene": {
+                "translation": "浏览商品或服务"
+            },
+            "collected": {
+                "translation": "可在我-浏览记录中查看"
+            }
+        },
+        "collection": {
+            "title": {
+                "translation": "收藏记录"
+            },
+            "purpose": {
+                "translation": "提供用户收藏内容展示服务"
+            },
+            "scene": {
+                "translation": "添加和管理收藏夹"
+            },
+            "collected": {
+                "translation": "可在我-收藏中查看"
+            }
+        }
+    },
+    "device": {
+        "title": {
+            "translation": "设备信息"
+        },
+        "device": {
+            "title": {
+                "translation": "设备信息"
+            },
+            "purpose": {
+                "translation": "保障服务安全运行、保护账号安全"
+            },
+            "scene": {
+                "translation": "使用App过程中"
+            }
+        },
+        "os": {
+            "title": {
+                "translation": "操作系统"
+            },
+            "purpose": {
+                "translation": "保障服务安全运行、保护账号安全"
+            },
+            "scene": {
+                "translation": "使用App过程中"
+            }
+        },
+        "version": {
+            "title": {
+                "translation": "产品版本号"
+            },
+            "purpose": {
+                "translation": "保障服务安全运行、保护账号安全"
+            },
+            "scene": {
+                "translation": "使用App过程中"
+            }
+        }
+    },
+    "collected": {
+        "translation": "已收集"
+    },
+    "uncollected": {
+        "translation": "未收集"
+    },
+    "link_text": {
+        "translation": "去查看"
+    }
+}

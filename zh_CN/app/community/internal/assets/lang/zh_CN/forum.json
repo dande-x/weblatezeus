@@ -1,0 +1,27 @@
+{
+    "permission": {
+        "silence": {
+            "translation": "你已被论坛管理员禁言"
+        }
+    },
+    "management": {
+        "involving_ads": {
+            "translation": "涉及广告、违规内容；"
+        },
+        "involving_rules": {
+            "translation": "涉及违反版规；"
+        },
+        "involving_infringement": {
+            "translation": "涉及侵权内容；"
+        },
+        "too_early": {
+            "translation": "发布时间过早；"
+        },
+        "battle": {
+            "translation": "引战；"
+        },
+        "other": {
+            "translation": "其他"
+        }
+    }
+}

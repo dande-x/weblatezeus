@@ -1,0 +1,23 @@
+{
+    "option_text_limit": {
+        "translation": "选项不能超过 :limit 个字符"
+    },
+    "hidden_reason_regulation": {
+        "translation": "投票内容审核异常，需重新修改发布"
+    },
+    "hidden_to_user": {
+        "translation": "投票暂未生效"
+    },
+    "option_len_min": {
+        "translation": "选项数不能低于2个"
+    },
+    "option_len_max": {
+        "translation": "选项数超过上限"
+    },
+    "end_time_expiration": {
+        "translation": "请调整投票截止时间"
+    },
+    "option_choice_max_limit": {
+        "translation": "多项选择数量不能大于选项数"
+    }
+}

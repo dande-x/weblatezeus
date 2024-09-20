@@ -1,0 +1,5 @@
+{
+    "limit_client_testuser": {
+        "translation": "最多添加1000名测试用户，若要添加新测试用户，请先删除其他用户"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "button_label": {
+        "play_booster": {
+            "translation": "加速"
+        },
+        "open_with_cloud": {
+            "translation": "微端下载"
+        },
+        "open_with_sandbox": {
+            "translation": "开始游戏"
+        },
+        "device_not_supported": {
+            "translation": "不支持当前设备"
+        },
+        "participate_test": {
+            "translation": "参与测试"
+        },
+        "has_recruit": {
+            "translation": "已报名"
+        },
+        "recruit_test": {
+            "translation": "报名测试"
+        },
+        "pre_download": {
+            "translation": "预下载"
+        }
+    },
+    "information": {
+        "developer_legal": {
+            "translation": "供应商"
+        },
+        "unified_social_credit_identifier": {
+            "translation": "统一社会信用代码"
+        },
+        "released_date": {
+            "translation": "发布时间"
+        },
+        "platform": {
+            "translation": "平台"
+        }
+    },
+    "highlight": {
+        "no_ad": {
+            "translation": "无广告"
+        },
+        "no_purchase": {
+            "translation": "无内购"
+        }
+    },
+    "security_badge": {
+        "has_official": {
+            "label": {
+                "translation": "官方入驻"
+            },
+            "description": {
+                "translation": "当前游戏有游戏官方入驻，并且管理游戏"
+            }
+        },
+        "tap_certificate": {
+            "label": {
+                "translation": "Tap 实名"
+            },
+            "description": {
+                "translation": "当前游戏支持使用 TapTap 实名授权进入游戏"
+            }
+        },
+        "fast_login": {
+            "label": {
+                "translation": "快捷登录"
+            },
+            "description": {
+                "translation": "当前游戏支持使用 TapTap 账号授权进入游戏"
+            }
+        },
+        "security": {
+            "label": {
+                "translation": "软件安全"
+            },
+            "description": {
+                "translation": "经过 TapTap 平台安全团队的50多项检测后，获得安全测试高分"
+            },
+            "no_virus": {
+                "translation": "无病毒"
+            },
+            "no_vulnerability": {
+                "translation": "无漏洞"
+            }
+        },
+        "privacy_compliance": {
+            "label": {
+                "translation": "隐私合规"
+            },
+            "description": {
+                "translation": "经过 TapTap 平台安全团队的隐私监测后，获得隐私合规的安全测试高分"
+            }
+        }
+    },
+    "stat": {
+        "downloads": {
+            "translation": "下载"
+        },
+        "hits": {
+            "translation": "热度"
+        },
+        "followers": {
+            "translation": "关注"
+        }
+    },
+    "library": {
+        "discovery": {
+            "category": {
+                "translation": "分类"
+            },
+            "tap_feature": {
+                "translation": "Tap 特色"
+            },
+            "apk_size": {
+                "translation": "大小"
+            },
+            "run_environment": {
+                "translation": "运行环境"
+            },
+            "download_local": {
+                "translation": "可下载到本地"
+            },
+            "no_32bits_game_assistant": {
+                "translation": "无需下载32位助手"
+            },
+            "unlimited": {
+                "translation": "不限"
+            },
+            "status_closed": {
+                "translation": "仅可关注"
+            },
+            "status_download": {
+                "translation": "下载"
+            },
+            "status_paid": {
+                "translation": "付费下载"
+            }
+        }
+    },
+    "accident": {
+        "label": {
+            "translation": "游戏故障"
+        }
+    },
+    "reserve": {
+        "close_auto_download": {
+            "translation": "关闭Wi-Fi自动下载"
+        }
+    },
+    "announcement_period": {
+        "alter": {
+            "title": {
+                "translation": "什么是游戏宣发期？"
+            },
+            "content": {
+                "translation": "宣发期是游戏早期仅对外公布部分资料的阶段。\n游戏被当做资讯浏览，并未正式上架。因此只可被搜索，无法在排行榜、首页推荐等功能展示。同时不开放评价区，但 Tapper 可以前往论坛参与讨论，表达自己的兴趣和想法。"
+            }
+        }
+    },
+    "app_event": {
+        "debut": {
+            "translation": "首发"
+        },
+        "beta": {
+            "translation": "测试"
+        },
+        "update": {
+            "translation": "更新"
+        },
+        "reserve": {
+            "translation": "预约"
+        },
+        "showcase": {
+            "translation": "发布会"
+        },
+        "gameplay_reveal": {
+            "translation": "实机画面"
+        },
+        "recruitment": {
+            "translation": "招募"
+        },
+        "limited_time_free": {
+            "translation": "限免"
+        },
+        "limited_time_discount": {
+            "translation": "折扣"
+        },
+        "gift_code": {
+            "translation": "发礼包"
+        },
+        "event": {
+            "translation": "活动"
+        },
+        "livestream": {
+            "translation": "直播"
+        }
+    },
+    "env_type": {
+        "beta": {
+            "translation": "测试服"
+        },
+        "preview": {
+            "translation": "先行服"
+        }
+    }
+}
