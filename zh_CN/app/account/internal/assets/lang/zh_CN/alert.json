@@ -2,6 +2,9 @@
     "button": {
         "got_it": {
             "translation": "了解"
+        },
+         "got_it_2": {
+            "translation": "了解"
         }
     },
     "title": {
